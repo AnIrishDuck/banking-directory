@@ -1,10 +1,9 @@
 sub="$(echo $1 | sed -e 's/[^\.]*\.//')"
-subsub="$(echo $sub | sed -e 's/[^\.]*\.//')"
 
 resolve() {
-    url="$(timeout 5 curl -Ls -o /dev/null -w '%{url_effective}' https://$1)"
+    url="$(timeout 10 curl -Ls -o /dev/null -w '%{url_effective}' https://$1)"
     if [[ -z "$url" ]] ; then
-        url="$(timeout 5 curl -Ls -o /dev/null -w '%{url_effective}' http://$1)"
+        url="$(timeout 10 curl -Ls -o /dev/null -w '%{url_effective}' http://$1)"
     fi
     if [[ -n "$url" ]] ; then
         python tools/domain.py $url

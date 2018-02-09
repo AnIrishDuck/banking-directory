@@ -64,23 +64,10 @@
       "friendlyName": "ABCO Federal Credit Union"
     },
     {
-      "fidOrg": "AMERICASCUDC",
-      "url": "https://perseus.youracu.org/ofxserver/ofxsrvr.dll",
-      "ssl": [
-        "www.youracu.org",
-        "America's Credit Union",
-        "Washington, US"
-      ],
-      "appVer": "2400",
-      "fid": "325180634",
-      "appId": "QWIN",
-      "friendlyName": "America's Credit Union"
-    },
-    {
       "fidOrg": "Addison Avenue Investment Svcs",
       "url": "https://ofx.firsttechfed.com",
       "ssl": [
-        "ofx.firsttechfed.com",
+        "www.firsttechfed.com",
         "First Technology Federal Credit Union",
         "California, US"
       ],
@@ -88,15 +75,6 @@
       "fid": "13807",
       "appId": "QWIN",
       "friendlyName": "Addison Avenue Investment Svcs"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "1976",
-      "appId": "QWIN",
-      "friendlyName": "Aerospace Federal Credit Union"
     },
     {
       "fidOrg": "FundsXpress",
@@ -155,29 +133,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "1451",
       "appId": "QWIN",
       "friendlyName": "Alpine Bank"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2012",
-      "appId": "QWIN",
-      "friendlyName": "Altana Federal Credit Union"
-    },
-    {
-      "fidOrg": "Users, Inc.",
-      "url": "https://msconline2.altaone.net/scripts/isaofx.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "322274462",
-      "appId": "QWIN",
-      "friendlyName": "AltaOne Federal Credit Union"
     },
     {
       "fidOrg": "292-3",
@@ -187,15 +151,6 @@
       "fid": "SWBTX",
       "appId": "QWIN",
       "friendlyName": "Amegy Bank of Texas - Direct"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2078",
-      "appId": "QWIN",
-      "friendlyName": "American Broadcast EFCU Q"
     },
     {
       "fidOrg": "American Century Services Corp.",
@@ -236,7 +191,7 @@
       "fidOrg": "INTUIT",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000518",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -248,7 +203,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "14931",
       "appId": "QWIN",
@@ -266,7 +225,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2275",
       "appId": "QWIN",
@@ -275,7 +238,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "14946",
       "appId": "QWIN",
@@ -284,7 +251,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "57732",
       "appId": "QWIN",
@@ -294,7 +265,7 @@
       "fidOrg": "AMPF",
       "url": "https://www25.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload",
       "ssl": [
-        "www25.ameriprise.com",
+        "digitalcontent.ameriprise.com",
         "Ameriprise Financial Inc",
         "Delaware, US"
       ],
@@ -377,7 +348,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "57360",
       "appId": "QWIN",
@@ -499,15 +474,6 @@
       "fid": "59379",
       "appId": "QWIN",
       "friendlyName": "Atomic Credit Union"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "658",
-      "appId": "QWIN",
-      "friendlyName": "Auburn University FCU"
     },
     {
       "fidOrg": "MSevenFiveSeven",
@@ -732,7 +698,7 @@
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
-        "ofx.chase.com",
+        "www.chase.com",
         "JPMorgan Chase and Co.",
         "Delaware, US"
       ],
@@ -885,15 +851,6 @@
       "friendlyName": "Beacon Federal Credit Union"
     },
     {
-      "fidOrg": "BellwetherCCU",
-      "url": "https://ofx.onlinencr.com/scripts/serverext.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "702",
-      "appId": "QWIN",
-      "friendlyName": "Bellwether Community CU"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -961,15 +918,6 @@
       "friendlyName": "Beverly Cooperative Bank"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2013",
-      "appId": "QWIN",
-      "friendlyName": "Billings Federal Credit Union"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1030,7 +978,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "56817",
       "appId": "QWIN",
@@ -1075,7 +1027,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "10255",
       "appId": "QWIN",
@@ -1102,7 +1058,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "855",
       "appId": "QWIN",
@@ -1112,7 +1072,7 @@
       "fidOrg": "BMTC",
       "url": "https://online.bmtc.com/ofx/ofx.ofx",
       "ssl": [
-        "online.bmtc.com",
+        "www.bmtc.com",
         "The Bryn Mawr Trust Company",
         "Pennsylvania, US"
       ],
@@ -1306,19 +1266,6 @@
       "friendlyName": "Capital One 360"
     },
     {
-      "fidOrg": "Capital One",
-      "url": "https://ofx.capitalone.com/ofx/103/process.ofx",
-      "ssl": [
-        "www.capitalone.com",
-        "Capital One Financial Corporation",
-        "Delaware, US"
-      ],
-      "appVer": "2012",
-      "fid": "1001",
-      "appId": "MDNC",
-      "friendlyName": "Capital One Bank"
-    },
-    {
       "fidOrg": "ShareBuilder",
       "url": "https://ofx.capitaloneinvesting.com",
       "ssl": [
@@ -1353,7 +1300,7 @@
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
-        "ofx.chase.com",
+        "www.chase.com",
         "JPMorgan Chase and Co.",
         "Delaware, US"
       ],
@@ -1463,7 +1410,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "52080",
       "appId": "QWIN",
@@ -1473,8 +1424,8 @@
       "fidOrg": "CNETCB",
       "url": "https://cnetcb.centralbank.com/ofx/ofx.ofx",
       "ssl": [
-        "cnetcb.centralbank.com",
-        "Central Bancshares",
+        "www.centralbank.com",
+        "Central Bancshares Inc",
         "Kentucky, US"
       ],
       "appVer": "2400",
@@ -1486,8 +1437,8 @@
       "fidOrg": "CNETJC",
       "url": "https://cnetjc.centralbank.com/ofx/ofx.ofx",
       "ssl": [
-        "cnetjc.centralbank.com",
-        "Central Bancshares",
+        "www.centralbank.com",
+        "Central Bancshares Inc",
         "Kentucky, US"
       ],
       "appVer": "2400",
@@ -1750,7 +1701,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "15279",
       "appId": "QWIN",
@@ -1784,18 +1739,13 @@
       "friendlyName": "CFBank"
     },
     {
-      "fidOrg": "Chaco Credit Union",
-      "url": "https://mobile.chacocu.org/OFX/OFXServer.aspx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "15481",
-      "appId": "QWIN",
-      "friendlyName": "Chaco CU"
-    },
-    {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "15150",
       "appId": "QWIN",
@@ -1805,7 +1755,7 @@
       "fidOrg": "Intuit",
       "url": "https://ofx.schwab.com/cgi_dev/ofx_server",
       "ssl": [
-        "schwab.com",
+        "www.schwab.com",
         "Charles Schwab & Co.",
         "California, US"
       ],
@@ -1818,7 +1768,7 @@
       "fidOrg": "Intuit",
       "url": "https://ofx.schwab.com/bankcgi_dev/ofx_server",
       "ssl": [
-        "schwab.com",
+        "www.schwab.com",
         "Charles Schwab & Co.",
         "California, US"
       ],
@@ -1844,7 +1794,7 @@
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
-        "ofx.chase.com",
+        "www.chase.com",
         "JPMorgan Chase and Co.",
         "Delaware, US"
       ],
@@ -1883,7 +1833,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "51354",
       "appId": "QWIN",
@@ -1892,7 +1846,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "10962",
       "appId": "QWIN",
@@ -1982,7 +1940,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "3771",
       "appId": "QWIN",
@@ -2199,7 +2161,7 @@
       "fidOrg": "Columbia",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80214112012010800",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -2256,7 +2218,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "13251",
       "appId": "QWIN",
@@ -2355,20 +2321,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "4716",
       "appId": "QWIN",
       "friendlyName": "CommunityBank of Texas NA"
-    },
-    {
-      "fidOrg": "Intelidata",
-      "url": "https://www2.compassweb.com/ofxsecurity/ofx_security_server.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2201",
-      "appId": "QWIN",
-      "friendlyName": "Compass Bank Business Online"
     },
     {
       "fidOrg": "Compass",
@@ -2501,24 +2462,6 @@
       "friendlyName": "Customers Bank BB"
     },
     {
-      "fidOrg": "dadco.com",
-      "url": "https://pfm.davidsoncompanies.com/eftxweb/access.ofx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "59401",
-      "appId": "QWIN",
-      "friendlyName": "D.A. Davidson & Co."
-    },
-    {
-      "fidOrg": "Dade County Federal Credit Union",
-      "url": "https://mybranch.dcfcu.org/ofx/ofx.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "10603",
-      "appId": "QWIN",
-      "friendlyName": "Dade County Federal Credit Union"
-    },
-    {
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2589,7 +2532,7 @@
       "fidOrg": "DWS Scudder",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=718022003030417",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -2717,7 +2660,7 @@
       "fidOrg": "Users, Inc.",
       "url": "https://onlinebanking.esfcu.org/scripts/isaofx.dll",
       "ssl": [
-        "onlinebanking.esfcu.org",
+        "esfcu.org",
         "Educational Systems Federal Credit Union",
         "Maryland, US"
       ],
@@ -2730,7 +2673,7 @@
       "fidOrg": "tiaawisconsin",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6190800002208",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -2791,15 +2734,6 @@
       "fid": "307074580",
       "appId": "QWIN",
       "friendlyName": "Elevations Credit Union IB WC-DC"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2016",
-      "appId": "QWIN",
-      "friendlyName": "Embark CU"
     },
     {
       "fidOrg": "DI",
@@ -2867,7 +2801,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "51060",
       "appId": "QWIN",
@@ -2928,15 +2866,6 @@
       "friendlyName": "Farmers & Merchants Bank - Direct"
     },
     {
-      "fidOrg": "orcc",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2080",
-      "appId": "QWIN",
-      "friendlyName": "Farmers and Miners Bank"
-    },
-    {
       "fidOrg": "FEDCHOICE",
       "url": "https://mb.fedchoice.org/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -2944,15 +2873,6 @@
       "fid": "254074785",
       "appId": "QWIN",
       "friendlyName": "FedChoice FCU"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2015",
-      "appId": "QWIN",
-      "friendlyName": "Fergus Federal CU"
     },
     {
       "fidOrg": "DI",
@@ -3041,7 +2961,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "1764",
       "appId": "QWIN",
@@ -3077,7 +3001,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "19554",
       "appId": "QWIN",
@@ -3156,18 +3084,13 @@
       "friendlyName": "First Financial Bank IN QFX & QBO"
     },
     {
-      "fidOrg": "FFBIN",
-      "url": "https://ofx.onlinencr.com/scripts/serverext.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "13711",
-      "appId": "QWIN",
-      "friendlyName": "First Financial Corporation"
-    },
-    {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "18537",
       "appId": "QWIN",
@@ -3177,7 +3100,7 @@
       "fidOrg": "FIHB",
       "url": "https://online.fhb.com/ofx/ofx.ofx",
       "ssl": [
-        "online.fhb.com",
+        "www.fhb.com",
         "First Hawaiian Bank",
         "Hawaii, US"
       ],
@@ -3189,7 +3112,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "5295",
       "appId": "QWIN",
@@ -3252,7 +3179,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "8581",
       "appId": "QWIN",
@@ -3297,7 +3228,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "5424",
       "appId": "QWIN",
@@ -3315,7 +3250,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2042",
       "appId": "QWIN",
@@ -3351,7 +3290,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "1022",
       "appId": "QWIN",
@@ -3378,7 +3321,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "32463",
       "appId": "QWIN",
@@ -3387,7 +3334,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "12663",
       "appId": "QWIN",
@@ -3406,7 +3357,7 @@
       "fidOrg": "First Tech Federal Credit Union",
       "url": "https://ofx.firsttechfed.com",
       "ssl": [
-        "ofx.firsttechfed.com",
+        "www.firsttechfed.com",
         "First Technology Federal Credit Union",
         "California, US"
       ],
@@ -3432,7 +3383,7 @@
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
-        "ofx.chase.com",
+        "www.chase.com",
         "JPMorgan Chase and Co.",
         "Delaware, US"
       ],
@@ -3480,7 +3431,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "20181",
       "appId": "QWIN",
@@ -3498,7 +3453,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "57114",
       "appId": "QWIN",
@@ -3547,7 +3506,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "459",
       "appId": "QWIN",
@@ -3570,15 +3533,6 @@
       "fid": "311981672",
       "appId": "QWIN",
       "friendlyName": "Fort Worth Community CU - QK"
-    },
-    {
-      "fidOrg": "franklintempleton.com",
-      "url": "https://ofx.franklintempleton.com/eftxweb/access.ofx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "9444",
-      "appId": "QWIN",
-      "friendlyName": "Franklin Templeton Investments"
     },
     {
       "fidOrg": "decu.org",
@@ -3789,7 +3743,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "18084",
       "appId": "QWIN",
@@ -3853,7 +3811,7 @@
       "fidOrg": "harbor",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6070017011417",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -3892,20 +3850,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2322",
       "appId": "QWIN",
       "friendlyName": "Heartland National Bank"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2017",
-      "appId": "QWIN",
-      "friendlyName": "Helena Community Credit Union"
     },
     {
       "fidOrg": "DI",
@@ -3951,15 +3904,6 @@
       "fid": "321378660",
       "appId": "QWIN",
       "friendlyName": "HFS Federal Credit Union"
-    },
-    {
-      "fidOrg": "AFS",
-      "url": "https://hilliardofx.automatedfinancial.com",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "6037",
-      "appId": "QWIN",
-      "friendlyName": "Hilliard Lyons"
     },
     {
       "fidOrg": "289",
@@ -4098,24 +4042,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "15963",
       "appId": "QWIN",
       "friendlyName": "Integrity Bank - Houston, TX"
-    },
-    {
-      "fidOrg": "IBC",
-      "url": "https://ibcbankonline2.ibc.com/scripts/serverext.dll",
-      "ssl": [
-        "ibc.com",
-        "INTERNATIONAL BANK OF COMMERCE",
-        "TX, US"
-      ],
-      "appVer": "2400",
-      "fid": "1001",
-      "appId": "QWIN",
-      "friendlyName": "International Bank of Commerce"
     },
     {
       "fidOrg": "InTouch Credit Union",
@@ -4130,7 +4065,7 @@
       "fidOrg": "Invesco",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000812",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -4170,7 +4105,7 @@
       "fidOrg": "jpmorgan",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80915121417060013",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -4196,7 +4131,7 @@
       "fidOrg": "janus",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50900132018",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -4244,7 +4179,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "16227",
       "appId": "QWIN",
@@ -4433,7 +4372,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "15177",
       "appId": "QWIN",
@@ -4447,19 +4390,6 @@
       "fid": "311080573",
       "appId": "QWIN",
       "friendlyName": "Las Colinas Federal CU"
-    },
-    {
-      "fidOrg": "USERS",
-      "url": "https://www.virtuoso.launchfcu.com/scripts/isaofx.dll",
-      "ssl": [
-        "launchfcu.com",
-        "Launch Federal Credit Union",
-        "Florida, US"
-      ],
-      "appVer": "2400",
-      "fid": "263179532",
-      "appId": "QWIN",
-      "friendlyName": "Launch FCU"
     },
     {
       "fidOrg": "USERS",
@@ -4477,7 +4407,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2293",
       "appId": "QWIN",
@@ -4567,15 +4501,6 @@
       "fid": "1001",
       "appId": "QWIN",
       "friendlyName": "Local Government Federal CU"
-    },
-    {
-      "fidOrg": "USERS",
-      "url": "https://lonestar.online-cu.com/scripts/isaofx.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "311079869",
-      "appId": "QWIN",
-      "friendlyName": "Lone Star Credit Union"
     },
     {
       "fidOrg": "DI",
@@ -4672,15 +4597,6 @@
       "friendlyName": "Martha's Vineyard Savings Bank"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2018",
-      "appId": "QWIN",
-      "friendlyName": "McCone County Credit Union"
-    },
-    {
       "fidOrg": "bib101088",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4728,20 +4644,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "51162",
       "appId": "QWIN",
       "friendlyName": "Merchants Bank of California"
-    },
-    {
-      "fidOrg": "Users",
-      "url": "https://msdfcu.online-cu.com/scripts/isaofx.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "231386645",
-      "appId": "QWIN",
-      "friendlyName": "Merck Sharp & Dohme Federal CU"
     },
     {
       "fidOrg": "Cavion",
@@ -4878,15 +4789,6 @@
       "friendlyName": "Mohave State Bank"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2059",
-      "appId": "QWIN",
-      "friendlyName": "Monterey CU"
-    },
-    {
       "fidOrg": "MZeroFiveSix",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4917,7 +4819,7 @@
       "fidOrg": "MACU",
       "url": "https://m.macu.com/ofxserver/ofxsrvr.dll",
       "ssl": [
-        "m.macu.com",
+        "www.macu.com",
         "Mountain America Federal Credit Union",
         "Utah, US"
       ],
@@ -4925,15 +4827,6 @@
       "fid": "324079555",
       "appId": "QWIN",
       "friendlyName": "Mountain America CU - Direct"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "88",
-      "appId": "QWIN",
-      "friendlyName": "Mutual Bank"
     },
     {
       "fidOrg": "NASAFCUDC",
@@ -4979,7 +4872,7 @@
       "fidOrg": "USERS",
       "url": "https://mybranch.navyarmyCCU.com/scripts/isaofx.dll",
       "ssl": [
-        "mybranch.navyarmyccu.com",
+        "www.navyarmyccu.com",
         "Navy Army Community Credit Union",
         "Texas, US"
       ],
@@ -5034,15 +4927,6 @@
       "friendlyName": "New England FCU"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "1615",
-      "appId": "QWIN",
-      "friendlyName": "New Tripoli Bank"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5054,7 +4938,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2259",
       "appId": "QWIN",
@@ -5169,15 +5057,6 @@
       "friendlyName": "NuVision FCU"
     },
     {
-      "fidOrg": "Users",
-      "url": "https://mycreditunion.online-cu.com/scripts/isaofx.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "323076575",
-      "appId": "QWIN",
-      "friendlyName": "NW Preferred FCU"
-    },
-    {
       "fidOrg": "MEIGHTEIGHTFOUR",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5190,7 +5069,7 @@
       "fidOrg": "oakmark",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=714001012001710",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -5270,7 +5149,7 @@
       "fidOrg": "PSI",
       "url": "https://ssl8.onenevada.org/OFXDirect/OFXRqst.aspx",
       "ssl": [
-        "ssl8.onenevada.org",
+        "www.onenevada.org",
         "One Nevada Credit Union",
         "Nevada, US"
       ],
@@ -5278,15 +5157,6 @@
       "fid": "10888",
       "appId": "QWIN",
       "friendlyName": "One Nevada CU - DC"
-    },
-    {
-      "fidOrg": "oneamerica.com",
-      "url": "https://ofx.oneamerica.com/eftxweb/access.ofx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "4620",
-      "appId": "QWIN",
-      "friendlyName": "OneAmerica"
     },
     {
       "fidOrg": "DI",
@@ -5348,24 +5218,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "16212",
       "appId": "QWIN",
       "friendlyName": "Optima Bank & Trust"
-    },
-    {
-      "fidOrg": "optionsXpress, Inc",
-      "url": "https://ofx.optionsxpress.com/cgi-bin/ox.exe",
-      "ssl": [
-        "optionsxpress.com",
-        "Charles Schwab & Co.",
-        "California, US"
-      ],
-      "appVer": "2400",
-      "fid": "10876",
-      "appId": "QWIN",
-      "friendlyName": "optionsXpress, Inc"
     },
     {
       "fidOrg": "MEightSevenSix",
@@ -5380,7 +5241,7 @@
       "fidOrg": "tiaaoregon",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=b1908000027141704061413",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -5455,20 +5316,15 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "56172",
       "appId": "QWIN",
       "friendlyName": "Park Sterling Bank - BP"
-    },
-    {
-      "fidOrg": "Connect",
-      "url": "https://moneyview.pvfcu.org/ofxdirect/ofxrqst.aspx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "13972",
-      "appId": "QWIN",
-      "friendlyName": "Park View FCU"
     },
     {
       "fidOrg": "Patelco Credit Union",
@@ -5487,7 +5343,7 @@
       "fidOrg": "tiaaga",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270600",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -5681,15 +5537,6 @@
       "friendlyName": "Point Breeze Credit Union Direct"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "561",
-      "appId": "QWIN",
-      "friendlyName": "Polish National Credit Union"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5783,7 +5630,7 @@
       "fidOrg": "principal",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722120617142015",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -5822,7 +5669,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "4224",
       "appId": "QWIN",
@@ -5873,15 +5724,6 @@
       "friendlyName": "Quincy Credit Union"
     },
     {
-      "fidOrg": "Raymond James & Associates",
-      "url": "https://directconnect.rjf.com/eftxweb/access.ofx",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "1021",
-      "appId": "QWIN",
-      "friendlyName": "Raymond James & Associates"
-    },
-    {
       "fidOrg": "RBC Dain Rauscher",
       "url": "https://ofx.rbc.com",
       "ssl": [],
@@ -5925,7 +5767,7 @@
       "fidOrg": "Identity-RFG",
       "url": "https://onlinebanking.regions.com/Ofx/process.ofx",
       "ssl": [
-        "login.regions.com",
+        "www.regions.com",
         "Regions Financial Corporation",
         "Delaware, US"
       ],
@@ -5965,7 +5807,7 @@
       "fidOrg": "MFSEMPLOYEE",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3120518",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -5995,7 +5837,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "16338",
       "appId": "QWIN",
@@ -6116,7 +5962,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "11186",
       "appId": "QWIN",
@@ -6153,7 +6003,7 @@
       "fidOrg": "tiaaca",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270200",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -6163,19 +6013,10 @@
       "friendlyName": "ScholarShare College Savings Plan"
     },
     {
-      "fidOrg": "OCTFCU",
-      "url": "https://ofx.octfcu.org",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "17600",
-      "appId": "QWIN",
-      "friendlyName": "SchoolsFirst FCU"
-    },
-    {
       "fidOrg": "SchwabRPS",
       "url": "https://ofx.schwab.com/rps/ofx_server",
       "ssl": [
-        "schwab.com",
+        "www.schwab.com",
         "Charles Schwab & Co.",
         "California, US"
       ],
@@ -6312,7 +6153,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "2370",
       "appId": "QWIN",
@@ -6444,15 +6289,6 @@
       "friendlyName": "Southwest Bank WCDC"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "2173",
-      "appId": "QWIN",
-      "friendlyName": "Space Coast CU"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6491,15 +6327,6 @@
       "fid": "19434",
       "appId": "QWIN",
       "friendlyName": "Springfield First Community"
-    },
-    {
-      "fidOrg": "SquareOne",
-      "url": "https://ofx.onlinencr.com/scripts/serverext.dll",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "12879",
-      "appId": "QWIN",
-      "friendlyName": "Square 1 Bank"
     },
     {
       "fidOrg": "529",
@@ -6567,7 +6394,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "11500",
       "appId": "QWIN",
@@ -6651,7 +6482,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "12033",
       "appId": "QWIN",
@@ -6742,9 +6577,9 @@
       "fidOrg": "svb.com",
       "url": "https://ofx.svbconnect.com/eftxweb/access.ofx",
       "ssl": [
-        "ofx.svbconnect.com",
+        "www.svbconnect.com",
         "SILICON VALLEY BANK",
-        "CA, US"
+        "California, US"
       ],
       "appVer": "2400",
       "fid": "944",
@@ -6791,7 +6626,7 @@
       "fidOrg": "T. Rowe Price",
       "url": "https://www3.troweprice.com/ffs/ffsweb/OFXServlet",
       "ssl": [
-        "www3.troweprice.com",
+        "www.troweprice.com",
         "T. Rowe Price Group",
         "Maryland, US"
       ],
@@ -6813,7 +6648,7 @@
       "fidOrg": "T. Rowe Price",
       "url": "https://www3.troweprice.com/ffs/ffsweb/OFXServlet",
       "ssl": [
-        "www3.troweprice.com",
+        "www.troweprice.com",
         "T. Rowe Price Group",
         "Maryland, US"
       ],
@@ -6848,7 +6683,7 @@
       "fidOrg": "CommerceBank",
       "url": "https://businessofx.tdbank.com/scripts/serverext.dll",
       "ssl": [
-        "businessofx.tdbank.com",
+        "www.tdbank.com",
         "The Toronto-Dominion Bank",
         "Ontario, CA"
       ],
@@ -6927,7 +6762,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "14523",
       "appId": "QWIN",
@@ -6936,7 +6775,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "330",
       "appId": "QWIN",
@@ -6986,15 +6829,6 @@
       "fid": "055002338",
       "appId": "QWIN",
       "friendlyName": "The Columbia Bank DirectConnect"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "826",
-      "appId": "QWIN",
-      "friendlyName": "The Cooperative Bank"
     },
     {
       "fidOrg": "MEightFiveZero",
@@ -7082,15 +6916,6 @@
       "friendlyName": "The National Bank of Malvern"
     },
     {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "627",
-      "appId": "QWIN",
-      "friendlyName": "National Iron Bank"
-    },
-    {
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7174,11 +6999,7 @@
     {
       "fidOrg": "TIAA-CREF",
       "url": "https://ofx-service.tiaa-cref.org/public/ofx",
-      "ssl": [
-        "ofx-service.tiaa-cref.org",
-        "Teachers Insurance and Annuity Association of America",
-        "New York, US"
-      ],
+      "ssl": [],
       "appVer": "2400",
       "fid": "1304",
       "appId": "QWIN",
@@ -7295,7 +7116,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "54429",
       "appId": "QWIN",
@@ -7331,7 +7156,11 @@
     {
       "fidOrg": "Intuit",
       "url": "https://ofx1.ubs.com/eftxweb/access.ofx",
-      "ssl": [],
+      "ssl": [
+        "www.ubs.com",
+        "UBS AG",
+        "Zurich, CH"
+      ],
       "appVer": "2400",
       "fid": "7772",
       "appId": "QWIN",
@@ -7478,7 +7307,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "59049",
       "appId": "QWIN",
@@ -7660,7 +7493,7 @@
       "fidOrg": "waddell",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722000303041111",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -7672,7 +7505,11 @@
     {
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
-      "ssl": [],
+      "ssl": [
+        "www.netteller.com",
+        "Jack Henry & Associates",
+        "Missouri, US"
+      ],
       "appVer": "2400",
       "fid": "57558",
       "appId": "QWIN",
@@ -7686,15 +7523,6 @@
       "fid": "57123",
       "appId": "QWIN",
       "friendlyName": "Watch Hill Bank"
-    },
-    {
-      "fidOrg": "orcc",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "867",
-      "appId": "QWIN",
-      "friendlyName": "Waterbury CT Teachers FCU"
     },
     {
       "fidOrg": "FundsXpress, Inc.",
@@ -7718,7 +7546,7 @@
       "fidOrg": "WECU",
       "url": "https://m.wecu.com/ofx/ofxserver.aspx",
       "ssl": [
-        "m.wecu.com",
+        "www.wecu.com",
         "Whatcom Educational Credit Union",
         "Washington, US"
       ],
@@ -7749,7 +7577,7 @@
       "fidOrg": "Wells",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6181917141306",
       "ssl": [
-        "ofx3.financialtrans.com",
+        "www.financialtrans.com",
         "DST Systems",
         "Delaware, US"
       ],
@@ -7815,15 +7643,6 @@
       "fid": "1223",
       "appId": "QWIN",
       "friendlyName": "Westfield Bank FSB"
-    },
-    {
-      "fidOrg": "ORCC",
-      "url": "https://www20.onlinebank.com/OROFX16Listener",
-      "ssl": [],
-      "appVer": "2400",
-      "fid": "1904",
-      "appId": "QWIN",
-      "friendlyName": "WestStar Credit Union"
     },
     {
       "fidOrg": "FundsXpress Network Inc.",
