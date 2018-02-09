@@ -12,18 +12,16 @@ resolve() {
 
 a="$(resolve $1)"
 b="$(resolve $sub)"
-c="$(resolve $subsub)"
+c="www.$b"
 
-echo -n "$1 => $a $b $c"
-deets="$(
-    (timeout 5 bash tools/tls.sh $a) 2>/dev/null | grep businessCategory
-    (timeout 5 bash tools/tls.sh $b) 2>/dev/null | grep businessCategory
-    (timeout 5 bash tools/tls.sh $c) 2>/dev/null | grep businessCategory
-)"
+domains="$a $b $c"
+deets="$(echo $domains | xargs -n 1 -P 10 timeout 5 bash tools/tls.sh 2>/dev/null | grep businessCategory)"
 
 if [[ -n "$deets" ]] ; then
+    echo -n "$1 => $domains"
     echo " => FOUND ./domain/ev/$1"
     echo "$deets" > ./domain/ev/$1
 else
+    echo -n "$1 => $domains"
     echo " => NADA"
 fi
