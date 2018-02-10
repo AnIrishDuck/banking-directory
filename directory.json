@@ -1,6 +1,7 @@
 {
   "data": [
     {
+      "uuid": "3d1a70c6-68fd-4d1e-a659-83663ae291c7",
       "fidOrg": "FundsXpress Financial Network",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -10,6 +11,7 @@
       "friendlyName": "1880 Bank"
     },
     {
+      "uuid": "5e645ccf-137e-44d1-9787-046febf7b665",
       "fidOrg": "Users",
       "url": "https://members.1stadvantage.org/scripts/isaofx.dll",
       "ssl": [],
@@ -19,6 +21,7 @@
       "friendlyName": "1st Advantage Federal Credit Union"
     },
     {
+      "uuid": "f92a95b7-bb15-47dc-81ad-33e47d866134",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -28,6 +31,7 @@
       "friendlyName": "1st Source Bank"
     },
     {
+      "uuid": "2fd39dd8-9c59-4693-8b21-35cc4bed6c7b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -37,6 +41,7 @@
       "friendlyName": "5 Star Bank"
     },
     {
+      "uuid": "960d9dc1-e2b0-41e8-95da-c52d9022608a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -46,6 +51,7 @@
       "friendlyName": "AB&T"
     },
     {
+      "uuid": "8cc770da-8b8f-481f-b4fa-066ef9851aa0",
       "fidOrg": "Abbott Laboratories ECU - ALEC",
       "url": "https://www.netit.financial-net.com/ofx/",
       "ssl": [],
@@ -55,6 +61,7 @@
       "friendlyName": "Abbott Laboratories ECU - ALEC"
     },
     {
+      "uuid": "d3031b44-25f6-4ce7-a01d-7bbb01951000",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -64,6 +71,7 @@
       "friendlyName": "ABCO Federal Credit Union"
     },
     {
+      "uuid": "1f500bbf-95ce-4dd1-9a52-5833d10eaddb",
       "fidOrg": "Addison Avenue Investment Svcs",
       "url": "https://ofx.firsttechfed.com",
       "ssl": [
@@ -77,6 +85,7 @@
       "friendlyName": "Addison Avenue Investment Svcs"
     },
     {
+      "uuid": "c3af6c6a-0236-42e8-84ce-a387c7fd3448",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -86,6 +95,7 @@
       "friendlyName": "Affinity Bank - ATL"
     },
     {
+      "uuid": "b6f4fbf5-161e-4946-8993-4d5cc8a1e063",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -95,6 +105,7 @@
       "friendlyName": "Affinity Federal Credit Union"
     },
     {
+      "uuid": "51da105a-5c77-4999-98db-2ca0514efc61",
       "fidOrg": "CAVION",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -104,6 +115,7 @@
       "friendlyName": "Air Academy FCU"
     },
     {
+      "uuid": "03fe2ef8-ccb9-49dc-902f-5a5eeaf6a431",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -113,6 +125,7 @@
       "friendlyName": "Allegacy Federal Credit Union"
     },
     {
+      "uuid": "bde42564-9d59-49c1-bc3f-4b11fe641b42",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -122,6 +135,7 @@
       "friendlyName": "Allied First Bank"
     },
     {
+      "uuid": "5248b075-6ad6-482e-824f-21046a53706d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -131,6 +145,7 @@
       "friendlyName": "AllSouth Federal Credit Union"
     },
     {
+      "uuid": "2e1d4510-f98a-418c-a1e4-a8937d59e458",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -144,6 +159,7 @@
       "friendlyName": "Alpine Bank"
     },
     {
+      "uuid": "f23306c8-c4b3-49db-a22d-917f98699511",
       "fidOrg": "292-3",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/0SWBTX.ofx",
       "ssl": [],
@@ -153,6 +169,7 @@
       "friendlyName": "Amegy Bank of Texas - Direct"
     },
     {
+      "uuid": "49b4415d-2bc5-4e5b-8fd7-f7ca71270820",
       "fidOrg": "American Century Services Corp.",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -162,6 +179,7 @@
       "friendlyName": "American Century Brokerage"
     },
     {
+      "uuid": "3358860b-be11-409c-bad6-1ffdc19c148d",
       "fidOrg": null,
       "url": "https://ofx.americancentury.com/",
       "ssl": [
@@ -175,6 +193,7 @@
       "friendlyName": "American Century Investments"
     },
     {
+      "uuid": "a59e3f2e-1cfb-4817-997e-a01c32d3af8e",
       "fidOrg": "AMEX",
       "url": "https://online.americanexpress.com/myca/ofxdl/desktop/desktopDownload.do?request_type=nl_ofxdownload",
       "ssl": [
@@ -188,6 +207,7 @@
       "friendlyName": "American Express"
     },
     {
+      "uuid": "f13b9189-8dfa-482b-8a7e-cdac13d45cca",
       "fidOrg": "INTUIT",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000518",
       "ssl": [
@@ -201,6 +221,7 @@
       "friendlyName": "American Funds"
     },
     {
+      "uuid": "355bd51c-db6c-4c5f-8d3f-181d0652597b",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -214,6 +235,7 @@
       "friendlyName": "American Momentum Bank"
     },
     {
+      "uuid": "5c302320-05f4-4f47-81b8-a39d3e8fa7f5",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04201.ofx",
       "ssl": [],
@@ -223,6 +245,7 @@
       "friendlyName": "American National Bank"
     },
     {
+      "uuid": "927af303-3404-4aec-ba87-ad20bdd6285f",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -236,6 +259,7 @@
       "friendlyName": "American National Bank TX"
     },
     {
+      "uuid": "8fb08081-b953-4733-b7a9-c9502d558206",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -249,6 +273,7 @@
       "friendlyName": "American National Bank, FL"
     },
     {
+      "uuid": "e0629693-c0d2-4a76-b096-0e5c2934cb22",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -262,6 +287,7 @@
       "friendlyName": "American State Bank - TX-DL"
     },
     {
+      "uuid": "234f5999-e83d-40b7-880e-83be2fa71b73",
       "fidOrg": "AMPF",
       "url": "https://www25.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload",
       "ssl": [
@@ -275,6 +301,7 @@
       "friendlyName": "Ameriprise Brokerage 133 Direct"
     },
     {
+      "uuid": "e0857792-5f4c-4b44-ba91-050f29302f16",
       "fidOrg": "Ameriprise MasterCard",
       "url": "https://ofx.ameriprise.com/AMPFWeb/ofxdl/us/download?request_type=nl_desktopdownload",
       "ssl": [
@@ -288,6 +315,7 @@
       "friendlyName": "Ameriprise MasterCard"
     },
     {
+      "uuid": "57d12e6f-ba82-4713-ae85-e369f30df0e5",
       "fidOrg": "466",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -297,6 +325,7 @@
       "friendlyName": "Ameris Bank"
     },
     {
+      "uuid": "e0e75722-8f0b-4a7a-8567-7141860b3a82",
       "fidOrg": "1361",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -306,6 +335,7 @@
       "friendlyName": "AmeriServ Bank Business Hub"
     },
     {
+      "uuid": "b7ca0a97-4356-4bf7-adec-ea88a8df868c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -315,6 +345,7 @@
       "friendlyName": "AmeriServ Financial Bank"
     },
     {
+      "uuid": "38973986-259a-4a89-b248-41b1d11050ca",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -324,6 +355,7 @@
       "friendlyName": "Anchor Bank - Washington"
     },
     {
+      "uuid": "d0d1cf92-cddd-4b8c-86cd-31511b810ac4",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -337,6 +369,7 @@
       "friendlyName": "Anchor Bank, N.A."
     },
     {
+      "uuid": "916df677-023e-4294-a240-4e2925b71243",
       "fidOrg": "PZeroFiveEight",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -346,6 +379,7 @@
       "friendlyName": "Andover Bank-RO"
     },
     {
+      "uuid": "7061cecd-4f90-4cd5-9901-21e33e1b4708",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -359,6 +393,7 @@
       "friendlyName": "Andrews FCU"
     },
     {
+      "uuid": "cc0a0acd-bea4-4a0f-a030-5e784166a4bc",
       "fidOrg": "USERS",
       "url": "https://apcocu.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -368,6 +403,7 @@
       "friendlyName": "APCO Employees Credit Union"
     },
     {
+      "uuid": "a7c67c20-b603-44d4-9861-0319b297a764",
       "fidOrg": "Appalachian Community FCU",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -377,6 +413,7 @@
       "friendlyName": "Appalachian Community FCU"
     },
     {
+      "uuid": "e359f9be-1ed8-41ec-a636-c19b3ce30441",
       "fidOrg": "ep5076",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -386,6 +423,7 @@
       "friendlyName": "Aquesta Bank - DC"
     },
     {
+      "uuid": "0e95cffd-09a6-48a8-a218-b6794404618f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -395,6 +433,7 @@
       "friendlyName": "Arizona Federal Credit Union"
     },
     {
+      "uuid": "d417ae2c-a05d-4d79-a44c-60ed2cbe5d2e",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -404,6 +443,7 @@
       "friendlyName": "Arkansas Best FCU"
     },
     {
+      "uuid": "b1045950-6b6e-46a8-94a5-dbf192729121",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -413,6 +453,7 @@
       "friendlyName": "Arrowhead Bank"
     },
     {
+      "uuid": "f953c667-e23b-4b79-9f33-64c3a0adb721",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -422,6 +463,7 @@
       "friendlyName": "Arthur State Bank"
     },
     {
+      "uuid": "9932dea4-6ddd-41c8-b78b-1a86b57a46ee",
       "fidOrg": "Citigroup",
       "url": "https://www.accountonline.com/cards/svc/CitiOfxManager.do",
       "ssl": [],
@@ -431,6 +473,7 @@
       "friendlyName": "AT&T Universal Card"
     },
     {
+      "uuid": "526a626e-a276-46c3-a801-1c1417075c75",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -440,6 +483,7 @@
       "friendlyName": "Athol Savings Bank"
     },
     {
+      "uuid": "0e95c127-6e53-4770-836f-c9933d06abd1",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -449,6 +493,7 @@
       "friendlyName": "Atlanta Postal Credit Union - DC"
     },
     {
+      "uuid": "08b211e2-0421-45e4-8b28-1ebd0e7b7efa",
       "fidOrg": "MSevenSixty",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -458,6 +503,7 @@
       "friendlyName": "Atlantic Capital Bank"
     },
     {
+      "uuid": "6f717ae6-c587-41ca-8e4a-45633fd2ab89",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -467,6 +513,7 @@
       "friendlyName": "Atlantic Stewardship Bank"
     },
     {
+      "uuid": "bec0b241-248c-4ea8-8000-b7654a343f57",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -476,6 +523,7 @@
       "friendlyName": "Atomic Credit Union"
     },
     {
+      "uuid": "01719ef8-1d07-44b8-9b6f-38f0168246de",
       "fidOrg": "MSevenFiveSeven",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -485,6 +533,7 @@
       "friendlyName": "Banc of California"
     },
     {
+      "uuid": "16911245-142f-437b-8bf2-7463399fa600",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -494,6 +543,7 @@
       "friendlyName": "BancFirst"
     },
     {
+      "uuid": "0f5f495c-0433-4fa0-a395-fe42177bf2d9",
       "fidOrg": "BXS",
       "url": "https://ofx-prod.bancorpsouthonline.com/ofx/process.ofx",
       "ssl": [],
@@ -503,6 +553,7 @@
       "friendlyName": "BancorpSouth - Direct"
     },
     {
+      "uuid": "28a3a5d2-0a69-4cab-8bc4-57b1533e221e",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -512,6 +563,7 @@
       "friendlyName": "Banesco USA"
     },
     {
+      "uuid": "0febd45c-8d20-4785-a71b-2a2aae4da03f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -521,6 +573,7 @@
       "friendlyName": "Bangor Savings - Direct"
     },
     {
+      "uuid": "c1fd56dc-010d-4b70-a003-c437d4cd8bc4",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -534,6 +587,7 @@
       "friendlyName": "Bank at United"
     },
     {
+      "uuid": "89284889-f7d8-4938-b483-8cbbd3e41f68",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -543,6 +597,7 @@
       "friendlyName": "Bank of Akron"
     },
     {
+      "uuid": "5a017359-4a4e-4c13-af25-ae44ecea849f",
       "fidOrg": "827",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -552,6 +607,7 @@
       "friendlyName": "Bank of Central Florida"
     },
     {
+      "uuid": "d0858d09-216d-4097-a817-ee321a8cfe94",
       "fidOrg": "BankofColorado",
       "url": "https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -561,6 +617,7 @@
       "friendlyName": "Bank of Colorado"
     },
     {
+      "uuid": "28fbb7d2-83fe-4110-b04d-947a4067f171",
       "fidOrg": "fis-7213",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -570,6 +627,7 @@
       "friendlyName": "Bank of Commerce Charlotte NC- DC"
     },
     {
+      "uuid": "1979df4e-bd09-4aca-9a8a-8ebd5e86836c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -579,6 +637,7 @@
       "friendlyName": "Bank of Dickson"
     },
     {
+      "uuid": "034c8e23-fa55-435a-97bf-0c02e6858423",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -588,6 +647,7 @@
       "friendlyName": "Bank of Dudley"
     },
     {
+      "uuid": "850ecd4d-2cc0-4020-b136-0aa395521b7d",
       "fidOrg": "mfis-7003",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -597,6 +657,7 @@
       "friendlyName": "Bank of George - DC"
     },
     {
+      "uuid": "fc92d011-de7f-44c0-bdf3-7b9e6cafbd05",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -606,6 +667,7 @@
       "friendlyName": "Bank of Herrin - DC"
     },
     {
+      "uuid": "edc86e1c-74aa-47a3-8c87-f3c80c6743a3",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -615,6 +677,7 @@
       "friendlyName": "Bank of Internet, USA"
     },
     {
+      "uuid": "d0dc1bb1-c498-46f9-bb8e-8bb3eb25d378",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -624,6 +687,7 @@
       "friendlyName": "Bank of New Jersey"
     },
     {
+      "uuid": "5deff310-dd6d-4ee8-aa00-2edede38224d",
       "fidOrg": "MSevenFourSeven",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -633,6 +697,7 @@
       "friendlyName": "The Bank of Princeton"
     },
     {
+      "uuid": "a5f57918-364b-4b4c-95b6-1ab7f370ff6e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -642,6 +707,7 @@
       "friendlyName": "Bank of Santa Clarita CA"
     },
     {
+      "uuid": "ca04bcff-2a70-4535-b313-f3ddf0022d63",
       "fidOrg": "FundsXpress, Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -651,6 +717,7 @@
       "friendlyName": "Bank of Southern California"
     },
     {
+      "uuid": "37b22a5c-90d8-4461-8605-fee9b7cacabb",
       "fidOrg": "BOT",
       "url": "https://ofx.bankoftampa.com/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -664,6 +731,7 @@
       "friendlyName": "Bank of Tampa"
     },
     {
+      "uuid": "4ea6c84c-a83d-4f3c-91b9-dd2e4e7cf9d9",
       "fidOrg": "MEightEightSix",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -673,6 +741,7 @@
       "friendlyName": "Bank of the James - VA"
     },
     {
+      "uuid": "9ca9c1dc-419e-4408-bf6e-5ca84fd93f41",
       "fidOrg": "BOW",
       "url": "https://ofx.bankofthewest.com/process.ofx",
       "ssl": [
@@ -686,6 +755,7 @@
       "friendlyName": "Bank of The West"
     },
     {
+      "uuid": "dd4862a5-514c-48a6-be91-61c85ce54a2e",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -695,6 +765,7 @@
       "friendlyName": "Bank of Utah"
     },
     {
+      "uuid": "b0095bb3-9d5c-49a8-aec1-29e98d1b5a6c",
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
@@ -708,6 +779,7 @@
       "friendlyName": "Bank One"
     },
     {
+      "uuid": "3d7c339e-e9c4-4ffc-b794-d64492895fdb",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -717,6 +789,7 @@
       "friendlyName": "BankAtlantic BOB"
     },
     {
+      "uuid": "b3af707c-cc0d-49ed-b5e0-f6df75b78fec",
       "fidOrg": "BankDirect",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -726,6 +799,7 @@
       "friendlyName": "BankDirect 2015"
     },
     {
+      "uuid": "0aa7f45c-914f-4de1-8b42-114532e8978d",
       "fidOrg": "esb.com",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -735,6 +809,7 @@
       "friendlyName": "bankESB"
     },
     {
+      "uuid": "685e0417-4ebf-4523-977b-f7f309a29ad5",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -744,6 +819,7 @@
       "friendlyName": "BankFinancial"
     },
     {
+      "uuid": "255babb2-5cfc-4fd3-bd21-909fb53c3674",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -753,6 +829,7 @@
       "friendlyName": "BankFinancial BFS DC"
     },
     {
+      "uuid": "50e8c03c-e640-4db5-8edc-ead982d9d2a2",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -762,6 +839,7 @@
       "friendlyName": "BankPlus - Internet Banking QN"
     },
     {
+      "uuid": "61934fd6-ded9-47cf-a768-fa7df6ef4eb4",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -771,6 +849,7 @@
       "friendlyName": "BankUnited, N.A."
     },
     {
+      "uuid": "4708132a-13ed-4074-b7da-71cf2ad246ad",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -780,6 +859,7 @@
       "friendlyName": "Bankwell in Fairfield"
     },
     {
+      "uuid": "9ec55be8-8c0a-4e14-8e20-0230509cabfe",
       "fidOrg": "Barclays Bank Plc.",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -789,6 +869,7 @@
       "friendlyName": "Barclays Online Banking - US"
     },
     {
+      "uuid": "e2e06627-10fc-4795-8e93-c55df53e5b7a",
       "fidOrg": "167",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -798,6 +879,7 @@
       "friendlyName": "Barrington Bank & Trust"
     },
     {
+      "uuid": "a193c233-cb96-48b2-a4d9-71f3f914912c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -807,6 +889,7 @@
       "friendlyName": "Bay State Savings Bank"
     },
     {
+      "uuid": "cdcf2fd8-636a-4a18-b23c-946e78ddba44",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -816,6 +899,7 @@
       "friendlyName": "BayPort Credit Union"
     },
     {
+      "uuid": "0abba8b1-7c0c-4739-8521-a09e90daab7e",
       "fidOrg": "BB&T",
       "url": "https://eftx.bbt.com/eftxweb/access.ofx",
       "ssl": [
@@ -829,6 +913,7 @@
       "friendlyName": "BB&T - Online Banking"
     },
     {
+      "uuid": "01e425cd-b1e8-4316-9ec3-54229f4f5b52",
       "fidOrg": "BBVA Compass",
       "url": "https://olb.bbvacompass.com/ofx/api/request",
       "ssl": [
@@ -842,6 +927,7 @@
       "friendlyName": "BBVA Compass"
     },
     {
+      "uuid": "9d03b55d-b11c-4c75-8ed1-3866a87cb79b",
       "fidOrg": "CAVION",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -851,6 +937,7 @@
       "friendlyName": "Beacon Federal Credit Union"
     },
     {
+      "uuid": "c0dcb8d0-5f2f-48e8-8b60-ca7c1a42ee74",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -860,6 +947,7 @@
       "friendlyName": "Belmont Savings Bank"
     },
     {
+      "uuid": "2dbbbefb-6d7e-4823-bdf2-8d052bb5d22b",
       "fidOrg": "PZeroFortyNine",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -869,6 +957,7 @@
       "friendlyName": "Benchmark Bank - Personal"
     },
     {
+      "uuid": "f5a80a2a-d0ff-4760-ace3-4419662f7576",
       "fidOrg": "Automated Systems",
       "url": "https://onlinebanking.bsbks.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [
@@ -882,6 +971,7 @@
       "friendlyName": "Bennington State Bank, Kansas"
     },
     {
+      "uuid": "58232251-28fe-41f3-a4d9-86550e5a60f2",
       "fidOrg": "092",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -891,6 +981,7 @@
       "friendlyName": "Berkshire Bank Direct Connect"
     },
     {
+      "uuid": "35f92948-dc77-4664-8c6d-e5e2d44c7954",
       "fidOrg": "BGWM",
       "url": "https://ofx.bernstein.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -900,6 +991,7 @@
       "friendlyName": "Bernstein Global Wealth Mgmt."
     },
     {
+      "uuid": "2571f5bc-df00-424c-8550-7f32365eebae",
       "fidOrg": "495",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -909,6 +1001,7 @@
       "friendlyName": "Beverly Bank & Trust"
     },
     {
+      "uuid": "5794202a-0847-43a1-b2b8-0cd9bc0f169c",
       "fidOrg": "043T",
       "url": "https://ofx1.evault.ws/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -918,6 +1011,7 @@
       "friendlyName": "Beverly Cooperative Bank"
     },
     {
+      "uuid": "3e44e13d-29e0-44de-bd44-386c5eb21b66",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -927,6 +1021,7 @@
       "friendlyName": "Black Hills FCU"
     },
     {
+      "uuid": "14934b13-4c83-4fda-82a5-9466f29b680b",
       "fidOrg": "fis-6456",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -936,6 +1031,7 @@
       "friendlyName": "Blueharbor Bank DirectConnect"
     },
     {
+      "uuid": "9b0e0b07-a186-4171-a720-a26a5c25a329",
       "fidOrg": "BMO Harris Financial Advisors",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -945,6 +1041,7 @@
       "friendlyName": "BMO Harris Financial Advisors, Inc"
     },
     {
+      "uuid": "d3d2935e-eb75-44e9-b338-cfebe6cb2d23",
       "fidOrg": "BECU",
       "url": "https://onlinebanking.becu.org/ofx/ofxprocessor.asp",
       "ssl": [
@@ -958,6 +1055,7 @@
       "friendlyName": "Boeing Employees' Credit Union"
     },
     {
+      "uuid": "a905f411-1f66-4a55-b20f-ede568bc2394",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -967,6 +1065,7 @@
       "friendlyName": "BofI Advisor"
     },
     {
+      "uuid": "17d11305-5e90-485b-b27f-6a417fe58ae8",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -976,6 +1075,7 @@
       "friendlyName": "BofI Federal"
     },
     {
+      "uuid": "94bbe31c-12a9-4cae-a37e-4eb590d23dfd",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -989,6 +1089,7 @@
       "friendlyName": "BofI Federal Bank - DL"
     },
     {
+      "uuid": "beb0e2c4-927b-47a6-bbbc-a9e288ae40c7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -998,6 +1099,7 @@
       "friendlyName": "Boone Bank & Trust Co."
     },
     {
+      "uuid": "a48dac40-0594-4309-bbb5-7fe87bc66506",
       "fidOrg": "081500859",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1007,6 +1109,7 @@
       "friendlyName": "Boone County Bank, Inc."
     },
     {
+      "uuid": "ec206ec4-e75c-4d72-8e41-4415d6fe72fe",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile",
       "ssl": [],
@@ -1016,6 +1119,7 @@
       "friendlyName": "Boston Private - 2011"
     },
     {
+      "uuid": "96cdafbd-67fe-4f17-910a-e8b6f50c4c73",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1025,6 +1129,7 @@
       "friendlyName": "BrandBank Cash Mgmt"
     },
     {
+      "uuid": "cb9f2d2e-3d72-4878-8705-2243aea28b77",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1038,6 +1143,7 @@
       "friendlyName": "Brattleboro Savings & Loan VT"
     },
     {
+      "uuid": "588b4de3-be48-44c6-945f-6d52d6aa02da",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -1047,6 +1153,7 @@
       "friendlyName": "Brighton Bank"
     },
     {
+      "uuid": "4e4c28e0-479a-4324-8269-9711a842233b",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1056,6 +1163,7 @@
       "friendlyName": "Brunswick Bank and Trust"
     },
     {
+      "uuid": "2d5fe856-22f7-454d-b2ff-f1c638a652a4",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1069,6 +1177,7 @@
       "friendlyName": "Bryant Bank"
     },
     {
+      "uuid": "a7a66275-c956-44de-a554-d5df16cee277",
       "fidOrg": "BMTC",
       "url": "https://online.bmtc.com/ofx/ofx.ofx",
       "ssl": [
@@ -1082,6 +1191,7 @@
       "friendlyName": "Bryn Mawr Trust-Consumer-SB"
     },
     {
+      "uuid": "e9a003b2-fa89-4c01-982f-388c6cb21249",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -1091,6 +1201,7 @@
       "friendlyName": "BTH Bank, N.A."
     },
     {
+      "uuid": "dc70ecc9-dfab-44b2-9f73-7062ab753ca9",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1100,6 +1211,7 @@
       "friendlyName": "Buckeye Community FCU"
     },
     {
+      "uuid": "8b62f9c8-a83c-4855-a1e2-3d6b2eac0a34",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1109,6 +1221,7 @@
       "friendlyName": "Bulldog Federal Credit Union"
     },
     {
+      "uuid": "e4652415-079b-4bdc-8c63-5947d8341910",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1118,6 +1231,7 @@
       "friendlyName": "Byline Bank"
     },
     {
+      "uuid": "b8ac0bcf-dc1b-4eb4-8581-fa6f66ce19ac",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1127,6 +1241,7 @@
       "friendlyName": "Byline Bank for Business"
     },
     {
+      "uuid": "1a7bd940-b4f6-423e-8a6b-44b1973d0881",
       "fidOrg": "MThreeZeroThree",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1136,6 +1251,7 @@
       "friendlyName": "C&F Financial Corp"
     },
     {
+      "uuid": "c50fab30-0d32-4560-963f-2a2449d2ee15",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1145,6 +1261,7 @@
       "friendlyName": "C-Plant FCU"
     },
     {
+      "uuid": "a454d92f-2204-417e-9e41-0127f1fa2879",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1154,6 +1271,7 @@
       "friendlyName": "Cache Valley Bank"
     },
     {
+      "uuid": "c8484d3c-acc5-4f9b-8b03-01d700c33941",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1163,6 +1281,7 @@
       "friendlyName": "CAHP Credit Union"
     },
     {
+      "uuid": "8bdfdbda-9149-4eea-9065-a4c293eec605",
       "fidOrg": "401",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04679.ofx",
       "ssl": [],
@@ -1172,6 +1291,7 @@
       "friendlyName": "California Bank & Trust - Direct"
     },
     {
+      "uuid": "c0e0ff17-1fd3-48d6-8077-255d9e8c59d2",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1181,6 +1301,7 @@
       "friendlyName": "California Credit Union"
     },
     {
+      "uuid": "95d897a0-e50b-4923-83db-089c1d4f46bc",
       "fidOrg": "070",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -1190,6 +1311,7 @@
       "friendlyName": "California United Bank - DC"
     },
     {
+      "uuid": "89b6e5ef-06df-4a57-a1ff-825e8a4eb421",
       "fidOrg": "Call Federal Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -1199,6 +1321,7 @@
       "friendlyName": "Call Federal CU Visa Credit Card"
     },
     {
+      "uuid": "c20c5d42-751b-499f-ad67-221017c85459",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1208,6 +1331,7 @@
       "friendlyName": "Calumet Bank"
     },
     {
+      "uuid": "bbc0764e-d4be-43a0-9d15-65ecfcccf12a",
       "fidOrg": "Cambridge Investment Research",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1217,6 +1341,7 @@
       "friendlyName": "Cambridge Investment Research"
     },
     {
+      "uuid": "8919637f-8b83-42ff-8a9c-43697b203dc7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1226,6 +1351,7 @@
       "friendlyName": "Cambridge Savings Bank"
     },
     {
+      "uuid": "7e11853e-08ca-4beb-9fb9-1c910388394d",
       "fidOrg": "541",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -1235,6 +1361,7 @@
       "friendlyName": "Cambridge Trust Direct Connect"
     },
     {
+      "uuid": "3fcb93b2-7980-45fb-a365-e564f26c7a30",
       "fidOrg": "Capital Credit Union",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1244,6 +1371,7 @@
       "friendlyName": "Capital Credit Union"
     },
     {
+      "uuid": "d61fdfed-1085-494d-92ff-9b6085b6e137",
       "fidOrg": "Capital Guardian LLC",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1253,6 +1381,7 @@
       "friendlyName": "Capital Guardian LLC"
     },
     {
+      "uuid": "177e2e7b-c6f9-4e57-a3b3-490e60c5cf89",
       "fidOrg": "ING DIRECT",
       "url": "https://ofx.capitalone360.com/OFX/ofx.html",
       "ssl": [
@@ -1266,6 +1395,7 @@
       "friendlyName": "Capital One 360"
     },
     {
+      "uuid": "36056d96-fb7d-4241-8a18-678865f88d08",
       "fidOrg": "ShareBuilder",
       "url": "https://ofx.capitaloneinvesting.com",
       "ssl": [
@@ -1279,6 +1409,7 @@
       "friendlyName": "Capital One Investing"
     },
     {
+      "uuid": "fc4a8529-a272-4129-845d-8c03324ed1f5",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1288,6 +1419,7 @@
       "friendlyName": "Capitol View Credit Union Des M"
     },
     {
+      "uuid": "5de07e14-b8bb-4650-8f1a-7c5e00073025",
       "fidOrg": "061",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -1297,6 +1429,7 @@
       "friendlyName": "CapStar Bank"
     },
     {
+      "uuid": "0b56e75a-4aad-4321-afed-3a1c9e5234d7",
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
@@ -1310,6 +1443,7 @@
       "friendlyName": "CardMember Services"
     },
     {
+      "uuid": "e307d694-a3bd-41f1-a6bb-ab4d31839fb0",
       "fidOrg": "MONEZEROFIVE",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1319,6 +1453,7 @@
       "friendlyName": "Carolina Alliance Bank"
     },
     {
+      "uuid": "fca8db60-93bc-48ae-b90c-4f76e7020cff",
       "fidOrg": "MTwoZeroFour",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1328,6 +1463,7 @@
       "friendlyName": "Carrollton Bank"
     },
     {
+      "uuid": "c4784260-789e-4097-b3d6-1f3908688297",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1337,6 +1473,7 @@
       "friendlyName": "CASE CU"
     },
     {
+      "uuid": "f3d396f7-468c-46f9-82b5-6f4f3327384f",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1346,6 +1483,7 @@
       "friendlyName": "Castle Rock Bank"
     },
     {
+      "uuid": "bf1d4638-234d-41d9-8935-f29366fd1769",
       "fidOrg": "PZeroFiveSix",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1355,6 +1493,7 @@
       "friendlyName": "CBFC-Quicken & QuickBooks"
     },
     {
+      "uuid": "cd67cfe4-a500-47fe-8da3-ad306f1565fd",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1364,6 +1503,7 @@
       "friendlyName": "CBI Bank & Trust"
     },
     {
+      "uuid": "60a55061-b41a-4b70-bb1b-7f1780e16a83",
       "fidOrg": "Harland",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1373,6 +1513,7 @@
       "friendlyName": "Cedar Falls Community CU"
     },
     {
+      "uuid": "40cbc542-ff8d-497e-89df-fb3aff793cbc",
       "fidOrg": "Cedar Point Federal Credit Union",
       "url": "https://pcu.cpfcu.com/scripts/isaofx.dll",
       "ssl": [
@@ -1386,6 +1527,7 @@
       "friendlyName": "Cedar Point Federal Credit Union"
     },
     {
+      "uuid": "e228bb2b-ba4a-46b2-a481-8c3a9e40120e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1395,6 +1537,7 @@
       "friendlyName": "Centier Bank"
     },
     {
+      "uuid": "aa4c6cf6-8e4c-4227-a527-750496d9dd83",
       "fidOrg": "Centra CU",
       "url": "https://www.centralink.org/scripts/isaofx.dll",
       "ssl": [
@@ -1408,6 +1551,7 @@
       "friendlyName": "Centra Credit Union"
     },
     {
+      "uuid": "098f5b51-9dd0-44df-901f-a7c9a9c94bd2",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1421,6 +1565,7 @@
       "friendlyName": "Central Bank & Trust"
     },
     {
+      "uuid": "9db39011-fe61-426e-bde7-a33379aec412",
       "fidOrg": "CNETCB",
       "url": "https://cnetcb.centralbank.com/ofx/ofx.ofx",
       "ssl": [
@@ -1434,6 +1579,7 @@
       "friendlyName": "Central Bank - KY Consumer"
     },
     {
+      "uuid": "737fbc37-360d-4fca-8c9e-99699e28f7f6",
       "fidOrg": "CNETJC",
       "url": "https://cnetjc.centralbank.com/ofx/ofx.ofx",
       "ssl": [
@@ -1447,6 +1593,7 @@
       "friendlyName": "Central Bank Jeff.Co KY Consumer"
     },
     {
+      "uuid": "6cb1eec0-f40c-4f15-a1aa-02bcb748a9be",
       "fidOrg": "086500634",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1456,6 +1603,7 @@
       "friendlyName": "Central Bank MO - Business"
     },
     {
+      "uuid": "428a8a31-a0e5-4d61-b78a-85ff30a5f08c",
       "fidOrg": "086500634",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1465,6 +1613,7 @@
       "friendlyName": "Central Bank MO - Personal"
     },
     {
+      "uuid": "36970c96-ed69-42ab-8d87-96489061c696",
       "fidOrg": "081501489",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1474,6 +1623,7 @@
       "friendlyName": "Central Bank of Audrain Co-Bus"
     },
     {
+      "uuid": "cca3fd8c-58d4-4ad1-89d3-30007177b78d",
       "fidOrg": "081501489",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1483,6 +1633,7 @@
       "friendlyName": "Central Bank of Audrain Co-Pers"
     },
     {
+      "uuid": "cb90f26b-981e-4aa4-b63d-8c11bca902b5",
       "fidOrg": "081500859",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1492,6 +1643,7 @@
       "friendlyName": "Central Bank of Boone County-Bus"
     },
     {
+      "uuid": "18469b59-ef44-4d8e-834d-2188111ed27d",
       "fidOrg": "081500859",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1501,6 +1653,7 @@
       "friendlyName": "Central Bank of Boone County-Pers"
     },
     {
+      "uuid": "6c376f9a-0189-4338-b70e-bea12865889e",
       "fidOrg": "081518375",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1510,6 +1663,7 @@
       "friendlyName": "Central Bank of Branson - Bus"
     },
     {
+      "uuid": "bf242ea4-5726-4675-a158-455456efa91d",
       "fidOrg": "081518375",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1519,6 +1673,7 @@
       "friendlyName": "Central Bank of Branson - Pers"
     },
     {
+      "uuid": "99b841b9-0ca7-422d-ae77-ac7bf593003a",
       "fidOrg": "081500749",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1528,6 +1683,7 @@
       "friendlyName": "Central Bank of Moberly - Business"
     },
     {
+      "uuid": "7f651539-f298-456f-a627-7898c0bdc858",
       "fidOrg": "081500749",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1537,6 +1693,7 @@
       "friendlyName": "Central Bank of Moberly - Personal"
     },
     {
+      "uuid": "115d05d7-b8df-473e-baf4-a5a4045a2172",
       "fidOrg": "103912723",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1546,6 +1703,7 @@
       "friendlyName": "Central Bank of Oklahoma - Bus"
     },
     {
+      "uuid": "b079e0dd-fca4-4014-9485-26c79974a565",
       "fidOrg": "103912723",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1555,6 +1713,7 @@
       "friendlyName": "Central Bank of Oklahoma - Pers"
     },
     {
+      "uuid": "bee668d6-4f3e-4e0d-88f9-5c71e7467699",
       "fidOrg": "101902052",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1564,6 +1723,7 @@
       "friendlyName": "Central Bank of Sedalia - Business"
     },
     {
+      "uuid": "64ba7fec-2165-4550-9167-926eb1854bcd",
       "fidOrg": "101902052",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1573,6 +1733,7 @@
       "friendlyName": "Central Bank of Sedalia - Personal"
     },
     {
+      "uuid": "4fe6159d-8bb9-4bad-b1f8-40a6085080a0",
       "fidOrg": "081004601",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1582,6 +1743,7 @@
       "friendlyName": "Central Bank of St. Louis - Bus"
     },
     {
+      "uuid": "fd2e65ff-ec95-4561-8110-13bb20fbeac1",
       "fidOrg": "081004601",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1591,6 +1753,7 @@
       "friendlyName": "Central Bank of St. Louis - Pers"
     },
     {
+      "uuid": "d154c667-1876-49ce-81a1-963027a25fd1",
       "fidOrg": "101201892",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1600,6 +1763,7 @@
       "friendlyName": "Central Bank of the Midwest - Bus"
     },
     {
+      "uuid": "9affaa39-a4e8-4ef8-9d23-d91faef87811",
       "fidOrg": "101201892",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1609,6 +1773,7 @@
       "friendlyName": "Central Bank of the Midwest - Pers"
     },
     {
+      "uuid": "3b49b16b-9303-450e-b1ce-b291f290d767",
       "fidOrg": "086518477",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1618,6 +1783,7 @@
       "friendlyName": "Central Bank of the Ozarks - Bus"
     },
     {
+      "uuid": "520a2f31-8637-42f7-8cb2-8db6f6e5526a",
       "fidOrg": "086518477",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1627,6 +1793,7 @@
       "friendlyName": "Central Bank of the Ozarks - Pers"
     },
     {
+      "uuid": "cf943d05-4de8-4c15-bfb9-b723baa8fa29",
       "fidOrg": "101904911",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1636,6 +1803,7 @@
       "friendlyName": "Central Bank of Warrensburg - Bus"
     },
     {
+      "uuid": "d485db3a-6b7a-4f14-84f3-ad4b920663dd",
       "fidOrg": "101904911",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1645,6 +1813,7 @@
       "friendlyName": "Central Bank of Warrensburg - Pers"
     },
     {
+      "uuid": "5e542468-8b60-49b3-b05b-b27d7f29cf58",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1654,6 +1823,7 @@
       "friendlyName": "Central Bank Utah"
     },
     {
+      "uuid": "af5b7bd6-822c-4973-aaa1-d596fd6814c1",
       "fidOrg": "081509070",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1663,6 +1833,7 @@
       "friendlyName": "Central BOLO - Business"
     },
     {
+      "uuid": "7e50f719-f98f-4799-9179-b1bda9a1c508",
       "fidOrg": "081509070",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -1672,6 +1843,7 @@
       "friendlyName": "Central BOLO - Personal"
     },
     {
+      "uuid": "fdc90d5c-8d59-4109-a079-3ac0c70986e8",
       "fidOrg": "Users",
       "url": "https://centralmainecu.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -1681,6 +1853,7 @@
       "friendlyName": "Central Maine Federal Credit Union"
     },
     {
+      "uuid": "d3a75446-071b-4d33-824e-69738ddd1bd3",
       "fidOrg": "Central Missouri Community CU",
       "url": "https://www.netit.financial-net.com/ofx/",
       "ssl": [],
@@ -1690,6 +1863,7 @@
       "friendlyName": "Central Missouri Community CU"
     },
     {
+      "uuid": "9d97be12-b63d-477e-a9a5-f48c63e205fe",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1699,6 +1873,7 @@
       "friendlyName": "Central State Bank"
     },
     {
+      "uuid": "ecb3f65c-6ec7-4a59-bed4-0365910b5836",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1712,6 +1887,7 @@
       "friendlyName": "Centric Bank"
     },
     {
+      "uuid": "0d5bf8af-bd1a-4057-8b6d-980d7bd14ae5",
       "fidOrg": "ING Advisors Network",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -1721,6 +1897,7 @@
       "friendlyName": "Cetera Advisor Networks LLC"
     },
     {
+      "uuid": "544295cd-ecc1-4b75-9482-d6b9a883641d",
       "fidOrg": "ING Advisors Network",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -1730,6 +1907,7 @@
       "friendlyName": "Cetera Advisors LLC"
     },
     {
+      "uuid": "8ecf259c-a558-4e71-8dfa-6258cbdbfcd4",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1739,6 +1917,7 @@
       "friendlyName": "CFBank"
     },
     {
+      "uuid": "7a2cd160-4d61-4408-8bf2-0ae65b2a3d2a",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1752,6 +1931,7 @@
       "friendlyName": "Chain Bridge Bank"
     },
     {
+      "uuid": "9f583641-f821-446b-87c6-07d7ff77e2c1",
       "fidOrg": "Intuit",
       "url": "https://ofx.schwab.com/cgi_dev/ofx_server",
       "ssl": [
@@ -1765,6 +1945,7 @@
       "friendlyName": "Charles Schwab & Co., Inc."
     },
     {
+      "uuid": "6023d205-467e-4440-84d6-38100376bd0c",
       "fidOrg": "Intuit",
       "url": "https://ofx.schwab.com/bankcgi_dev/ofx_server",
       "ssl": [
@@ -1778,6 +1959,7 @@
       "friendlyName": "Charles Schwab Bank, N.A."
     },
     {
+      "uuid": "43196b7e-b06d-439c-8d4a-158f86f1b4f6",
       "fidOrg": "CMCUDC",
       "url": "https://mobile.cmcu.org/OFXServer/ofxsrvr.dll",
       "ssl": [
@@ -1791,6 +1973,7 @@
       "friendlyName": "Charlotte Metro Credit Union"
     },
     {
+      "uuid": "1aa65f00-05d6-46f3-a16f-b8c3394ea6d3",
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
@@ -1804,6 +1987,7 @@
       "friendlyName": "Chase"
     },
     {
+      "uuid": "d83dd684-7afb-48a8-8b40-6d515f038000",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/01000.ofx",
       "ssl": [],
@@ -1813,6 +1997,7 @@
       "friendlyName": "CheckFree Bill Pay"
     },
     {
+      "uuid": "8f60e2e8-88fe-4d06-9d28-363172aa66a1",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -1822,6 +2007,7 @@
       "friendlyName": "Chelsea Groton Bank"
     },
     {
+      "uuid": "6717689e-c684-43a1-8ca0-d91ddbec6143",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1831,6 +2017,7 @@
       "friendlyName": "Chevron Federal Credit Union"
     },
     {
+      "uuid": "d35e787f-da6d-4be3-93ba-3a1ca469d27c",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1844,6 +2031,7 @@
       "friendlyName": "Chickasha Bank & Trust Company"
     },
     {
+      "uuid": "a71b04dc-9fc1-425d-806c-85c49a815cbe",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -1857,6 +2045,7 @@
       "friendlyName": "Chittenden Bank - Business Credit"
     },
     {
+      "uuid": "a1bfc779-5a4b-45d2-9ae1-10ad56ed9b9d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -1866,6 +2055,7 @@
       "friendlyName": "Christian Community Credit Union"
     },
     {
+      "uuid": "8d86fc5b-76da-41c1-973f-99db10ca8c85",
       "fidOrg": "Citigroup",
       "url": "https://www.accountonline.com/cards/svc/CitiOfxManager.do",
       "ssl": [],
@@ -1875,6 +2065,7 @@
       "friendlyName": "Citi Cards"
     },
     {
+      "uuid": "43e2b091-66ac-4df2-a584-75f14b110acd",
       "fidOrg": "Citi",
       "url": "https://www.accountonline.com/cards/svc/CitiOfxManager.do",
       "ssl": [],
@@ -1884,6 +2075,7 @@
       "friendlyName": "Citi Chairman Card"
     },
     {
+      "uuid": "808f2a70-7d90-48f2-86a4-cb8b19b3f1d8",
       "fidOrg": "Citigroup",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1893,6 +2085,7 @@
       "friendlyName": "Citi Investments"
     },
     {
+      "uuid": "dd0297d1-52fe-403f-bab3-095138e48457",
       "fidOrg": "Citigroup",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1902,6 +2095,7 @@
       "friendlyName": "Citi Personal Investments Int'l"
     },
     {
+      "uuid": "74b92ec6-d7de-451e-9600-59317a627477",
       "fidOrg": "Citigroup",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1911,6 +2105,7 @@
       "friendlyName": "Citi Personal Wealth Management"
     },
     {
+      "uuid": "2ed6b8a3-6dcc-4591-a640-5e2a21a716df",
       "fidOrg": "Citigroup",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -1920,6 +2115,7 @@
       "friendlyName": "Citi Private Bank"
     },
     {
+      "uuid": "67dddfa7-21e3-4b69-91ce-910f2e8e0f11",
       "fidOrg": "Citigroup",
       "url": "https://www.accountonline.com/cards/svc/CitiOfxManager.do",
       "ssl": [],
@@ -1929,6 +2125,7 @@
       "friendlyName": "CitiBusiness Credit Cards"
     },
     {
+      "uuid": "2be132d4-62cd-4158-a02e-f935881a1923",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -1938,6 +2135,7 @@
       "friendlyName": "Citizens Alliance Bank"
     },
     {
+      "uuid": "8e16a83b-d552-49d6-9de9-f288355d350d",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -1951,6 +2149,7 @@
       "friendlyName": "Citizens Bank & Trust MO"
     },
     {
+      "uuid": "4caaf744-c0d9-44f9-b42e-a4e3d7db9507",
       "fidOrg": "Citizens Bank",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04639.ofx",
       "ssl": [],
@@ -1960,6 +2159,7 @@
       "friendlyName": "Citizens Bank - Mid-Atl Business"
     },
     {
+      "uuid": "a7303b29-1246-44f7-82be-362dcb5a1e25",
       "fidOrg": "Citizens Bank",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/0CTZBK.ofx",
       "ssl": [],
@@ -1969,6 +2169,7 @@
       "friendlyName": "Citizens Bank - Mid-Atl Consumer"
     },
     {
+      "uuid": "d1d115f3-ca8b-4e96-87cd-39e0f6ed275f",
       "fidOrg": "Citizens Bank",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04639.ofx",
       "ssl": [],
@@ -1978,6 +2179,7 @@
       "friendlyName": "Citizens Bank - New Engl Business"
     },
     {
+      "uuid": "ca7531ee-e70a-4ed4-80f2-38b84466b5f5",
       "fidOrg": "Citizens Bank",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/0CTZBK.ofx",
       "ssl": [],
@@ -1987,6 +2189,7 @@
       "friendlyName": "Citizens Bank - New Engl Consumer"
     },
     {
+      "uuid": "4b9c9aa6-825f-4030-a989-bd9ed09724c1",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -1996,6 +2199,7 @@
       "friendlyName": "Citizens Bank and Trust"
     },
     {
+      "uuid": "d2d0f0f4-11f8-4e96-945c-e33d4c1f6274",
       "fidOrg": "FiServ CheckFree",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04670.ofx",
       "ssl": [],
@@ -2005,6 +2209,7 @@
       "friendlyName": "Citizens Bank-Mid West Business"
     },
     {
+      "uuid": "36868dfe-947c-4519-8f09-10824ef5bbf3",
       "fidOrg": "FiServ CheckFree",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04669.ofx",
       "ssl": [],
@@ -2014,6 +2219,7 @@
       "friendlyName": "Citizens Bank-Mid West Consumer"
     },
     {
+      "uuid": "58bfb32e-4720-4eb1-8c29-bfbbf3706290",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2023,6 +2229,7 @@
       "friendlyName": "Citizens Federal Credit Union"
     },
     {
+      "uuid": "447fc11b-4db9-4627-b9f9-13504ac0faee",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2032,6 +2239,7 @@
       "friendlyName": "Citizens National Bank TX"
     },
     {
+      "uuid": "b43df606-183a-4f97-b7c2-e4a103299488",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2041,6 +2249,7 @@
       "friendlyName": "Citizens Savings Bank"
     },
     {
+      "uuid": "f12f62a8-e9fe-4c4f-b38e-0027c2c48181",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2050,6 +2259,7 @@
       "friendlyName": "Citizens State Bank - Clayton"
     },
     {
+      "uuid": "b0a75ae1-f5de-4e18-a7d9-5ca7f0dfa5e3",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2059,6 +2269,7 @@
       "friendlyName": "Citizens State Bank Norwood Youn"
     },
     {
+      "uuid": "0d761c62-418b-452e-80f9-7f1ea56f4d92",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -2068,6 +2279,7 @@
       "friendlyName": "Citizens Union Bank"
     },
     {
+      "uuid": "8b87fa86-1659-4bb5-b793-c5496615e29e",
       "fidOrg": "309",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2077,6 +2289,7 @@
       "friendlyName": "City National Bank of CA-Dir Con"
     },
     {
+      "uuid": "b4a6bc19-74ba-4c9e-9760-13010e968a6c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2086,6 +2299,7 @@
       "friendlyName": "City National Bank of Florida"
     },
     {
+      "uuid": "28df1212-10d4-43af-beef-b77a4b376a48",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2095,6 +2309,7 @@
       "friendlyName": "Clark County Credit Union"
     },
     {
+      "uuid": "61d27636-19da-446a-9314-e55df6a56f2b",
       "fidOrg": "HFS-Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2104,6 +2319,7 @@
       "friendlyName": "Clarke County State Bank"
     },
     {
+      "uuid": "2b8ad106-a810-46d7-b2a5-78be9a047eef",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2113,6 +2329,7 @@
       "friendlyName": "Clearview FCU"
     },
     {
+      "uuid": "8eee4ec6-6707-4c75-8b68-8c869e78f289",
       "fidOrg": "Fidelity",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2122,6 +2339,7 @@
       "friendlyName": "Coastal Community Bank DC"
     },
     {
+      "uuid": "3d1cb225-874b-44fb-a9be-7dfacbd6a3be",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -2131,6 +2349,7 @@
       "friendlyName": "Coastal Heritage Bank"
     },
     {
+      "uuid": "9a7a4a5f-2203-4b5f-a039-80380d278315",
       "fidOrg": "CollegedaleCU",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -2140,6 +2359,7 @@
       "friendlyName": "Collegedale Credit Union"
     },
     {
+      "uuid": "52c003ab-10d9-4834-9ed8-c570096841d0",
       "fidOrg": "Collins Community Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -2149,6 +2369,7 @@
       "friendlyName": "Collins Community Credit Union"
     },
     {
+      "uuid": "73bb0bb3-9c78-498d-99a7-80f3a74eb93c",
       "fidOrg": "HFS-Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2158,6 +2379,7 @@
       "friendlyName": "Colonial Cooperative Bank"
     },
     {
+      "uuid": "20b75be3-a0a1-49c4-9a0e-a2db80ff001b",
       "fidOrg": "Columbia",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80214112012010800",
       "ssl": [
@@ -2171,6 +2393,7 @@
       "friendlyName": "Columbia Threadneedle Investments"
     },
     {
+      "uuid": "ff99c1c0-e41d-4b7d-bd8e-24d9cff5c8fe",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/05601.ofx",
       "ssl": [],
@@ -2180,6 +2403,7 @@
       "friendlyName": "Comerica Bank"
     },
     {
+      "uuid": "1f201dfd-2b60-46b6-893b-e04b4d2ea1a5",
       "fidOrg": "Cavion/Phoenix",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2189,6 +2413,7 @@
       "friendlyName": "Commencement Bank"
     },
     {
+      "uuid": "abc1cc85-06e0-42d7-b9b8-84219861f6b0",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04001.ofx",
       "ssl": [],
@@ -2198,6 +2423,7 @@
       "friendlyName": "Commerce Bank - MO, KS, IL"
     },
     {
+      "uuid": "e7c80a4b-c612-4d19-9ba1-2aeb6e4ced1a",
       "fidOrg": "HFS-Phoenix",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2207,6 +2433,7 @@
       "friendlyName": "Commerce Natl Bank & Trust of FL"
     },
     {
+      "uuid": "60718530-ab5e-4aec-9d10-0db5b15f0357",
       "fidOrg": "HFS-Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2216,6 +2443,7 @@
       "friendlyName": "Community Bank & Trust of Florida"
     },
     {
+      "uuid": "9993099e-882f-464c-921f-34beddc275b3",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -2229,6 +2457,7 @@
       "friendlyName": "Community Bank - Joseph, OR"
     },
     {
+      "uuid": "83411556-02bd-4428-afa8-0d4b03eb67af",
       "fidOrg": "FundsXpress Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -2238,6 +2467,7 @@
       "friendlyName": "Community Bank of Lexington TN"
     },
     {
+      "uuid": "a1a466ea-be87-4ddb-8595-ca84aefbddbf",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2247,6 +2477,7 @@
       "friendlyName": "Community Bank of the South FL"
     },
     {
+      "uuid": "829ffe7e-1dc5-4c04-9b6d-68190f6dbf89",
       "fidOrg": "Community Bank of Wichita",
       "url": "https://secure.communitybankwichita.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [],
@@ -2256,6 +2487,7 @@
       "friendlyName": "Community Bank of Wichita"
     },
     {
+      "uuid": "1355f6c3-afac-48af-a7aa-dc07646a3e89",
       "fidOrg": "Community Credit Union of FL",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2265,6 +2497,7 @@
       "friendlyName": "Community Credit Union of FL"
     },
     {
+      "uuid": "e4a12e6c-3f85-4d52-a04e-2508d51c41c3",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -2274,6 +2507,7 @@
       "friendlyName": "Community First Bank Heartland"
     },
     {
+      "uuid": "761b1038-792f-4790-aded-85ab34a0256a",
       "fidOrg": "CNB",
       "url": "https://www.cnbinternet.com/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -2283,6 +2517,7 @@
       "friendlyName": "Community Resource Bank"
     },
     {
+      "uuid": "de5e4f53-8109-4ee1-8cd1-3bfaf3e71edc",
       "fidOrg": "fis-7219",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2292,6 +2527,7 @@
       "friendlyName": "Community Southern Bank - DC"
     },
     {
+      "uuid": "37634109-8b7f-48d3-b77b-6c73b1e6ee3d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2301,6 +2537,7 @@
       "friendlyName": "Community State Bank - Shelbina"
     },
     {
+      "uuid": "81220e61-15f9-451f-b53a-950edfe2ffea",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2310,6 +2547,7 @@
       "friendlyName": "Community Trust Credit Union"
     },
     {
+      "uuid": "5c964e2b-0dc8-4aba-a7e3-493e60476e3e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2319,6 +2557,7 @@
       "friendlyName": "CommunityAmerica CU Direct"
     },
     {
+      "uuid": "8e370ca7-f0d4-4202-9915-8e65b8111da2",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -2332,6 +2571,7 @@
       "friendlyName": "CommunityBank of Texas NA"
     },
     {
+      "uuid": "0c2b0fb1-7d44-421a-8c6a-ec8c09b18ffb",
       "fidOrg": "Compass",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -2341,6 +2581,7 @@
       "friendlyName": "Compass Brokerage"
     },
     {
+      "uuid": "ef0e9d2c-b645-471e-abe4-dfd5f2866e6b",
       "fidOrg": "Users",
       "url": "https://onlinebanking.congressionalfcu.org/scripts/isaofx.dll",
       "ssl": [
@@ -2354,6 +2595,7 @@
       "friendlyName": "Congressional Federal Credit Union"
     },
     {
+      "uuid": "8fcf77f9-716a-4a21-ab26-c0c47470382f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2363,6 +2605,7 @@
       "friendlyName": "Consumers Credit Union, MI"
     },
     {
+      "uuid": "762e56a4-7a0e-4366-991e-57437b49297f",
       "fidOrg": "fis-7204",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2372,6 +2615,7 @@
       "friendlyName": "Cornerstone Community Bank - DC"
     },
     {
+      "uuid": "1fc8c4a9-53d0-44da-8ff9-86fee75deb30",
       "fidOrg": "582",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2381,6 +2625,7 @@
       "friendlyName": "Country Club Bank"
     },
     {
+      "uuid": "46a0e327-d7aa-4e72-a0b9-c53c0d85b12f",
       "fidOrg": "FundsXpress Financial Network",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -2390,6 +2635,7 @@
       "friendlyName": "Covenant Bank Leeds"
     },
     {
+      "uuid": "71854540-6b71-4778-8aab-b3645c3fc5ef",
       "fidOrg": "USERS, Inc.",
       "url": "https://cpm.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -2399,6 +2645,7 @@
       "friendlyName": "CPM Federal Credit Union"
     },
     {
+      "uuid": "269f79aa-8bf1-4bca-a360-5f03575e6a6b",
       "fidOrg": "Credit Suisse Securities USA LLC",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -2408,6 +2655,7 @@
       "friendlyName": "Credit Suisse Private Banking"
     },
     {
+      "uuid": "a802f746-818b-4603-9455-56355efc6cbc",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2417,6 +2665,7 @@
       "friendlyName": "Crest Savings Bank"
     },
     {
+      "uuid": "0e694d5a-33f7-4ddc-b495-da042f11015e",
       "fidOrg": "CRI Securities LLC",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -2426,6 +2675,7 @@
       "friendlyName": "CRI Securities LLC"
     },
     {
+      "uuid": "e0e393b5-7a7c-4a96-9ff4-87dc7c98c4f8",
       "fidOrg": "FundsXpress Financial, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -2435,6 +2685,7 @@
       "friendlyName": "Cross Keys Bank"
     },
     {
+      "uuid": "1ffdf072-1b36-40a8-87e3-bd7a48ab88cf",
       "fidOrg": "600",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2444,6 +2695,7 @@
       "friendlyName": "Crystal Lake Bank & Trust"
     },
     {
+      "uuid": "d1379b8d-3870-4ec6-a57b-6ebc71bedb71",
       "fidOrg": "CUNA Brokerage Services, Inc",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -2453,6 +2705,7 @@
       "friendlyName": "CUNA Brokerage Services, Inc"
     },
     {
+      "uuid": "7581854e-6b40-4941-9495-85ecdacf5e7f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2462,6 +2715,7 @@
       "friendlyName": "Customers Bank BB"
     },
     {
+      "uuid": "579c4eef-aefd-4130-9f58-3ccfc04ae890",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2471,6 +2725,7 @@
       "friendlyName": "Dakota West Credit Union"
     },
     {
+      "uuid": "e0de40a5-ef92-4a8f-bb99-67dd6b530937",
       "fidOrg": "DATCU",
       "url": "https://online.datcu.coop/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -2480,6 +2735,7 @@
       "friendlyName": "DATCU"
     },
     {
+      "uuid": "cab5d56d-d0bc-42a4-bfc0-d2a2acbf557f",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2489,6 +2745,7 @@
       "friendlyName": "Dawson Co-op CU"
     },
     {
+      "uuid": "a7cad159-7c4b-49ea-b69c-e2fd4d0d558a",
       "fidOrg": "DUPONTCOMMCUVADC",
       "url": "https://ofx.mydccu.org/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -2502,6 +2759,7 @@
       "friendlyName": "DCCU - DuPont Community CU - VA"
     },
     {
+      "uuid": "140d67ca-8292-4093-8fde-244259b76a03",
       "fidOrg": "Del-One Federal Credit Union",
       "url": "https://www.netit.financial-net.com/ofx/",
       "ssl": [],
@@ -2511,6 +2769,7 @@
       "friendlyName": "DEL-ONE FCU"
     },
     {
+      "uuid": "ec7ff0d4-0aaf-475e-8b2a-4e378417bd74",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2520,6 +2779,7 @@
       "friendlyName": "Department of Commerce FCU"
     },
     {
+      "uuid": "926c24bf-c046-493f-8456-3d978f48551b",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -2529,6 +2789,7 @@
       "friendlyName": "DESCO FCU"
     },
     {
+      "uuid": "8c5e0a79-d381-4dc2-861d-f8d85c734aa9",
       "fidOrg": "DWS Scudder",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=718022003030417",
       "ssl": [
@@ -2542,6 +2803,7 @@
       "friendlyName": "Deutsche Asset Management"
     },
     {
+      "uuid": "77497f12-2c11-4261-8af3-de5fef33a95f",
       "fidOrg": "Deutsche Bank Securities, Inc.",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -2551,6 +2813,7 @@
       "friendlyName": "Deutsche Bank Alex. Brown"
     },
     {
+      "uuid": "67c75d95-70db-4428-aad4-2abad732620a",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2560,6 +2823,7 @@
       "friendlyName": "Devon Bank"
     },
     {
+      "uuid": "40900a20-3b79-4137-9deb-578a203f7484",
       "fidOrg": "Discover Bank",
       "url": "https://ofx.discovercard.com/",
       "ssl": [
@@ -2573,6 +2837,7 @@
       "friendlyName": "Discover Bank"
     },
     {
+      "uuid": "b79c1b98-4244-4672-8941-484b187c9023",
       "fidOrg": "Discover Financial Services",
       "url": "https://ofx.discovercard.com/",
       "ssl": [
@@ -2586,6 +2851,7 @@
       "friendlyName": "Discover Card"
     },
     {
+      "uuid": "8d3d0d54-ad76-4b2e-9127-9182fb6940d6",
       "fidOrg": "mdnc",
       "url": "https://ofx.etrade.com/cgi-ofx/etradeofx",
       "ssl": [
@@ -2599,6 +2865,7 @@
       "friendlyName": "E*TRADE Financial Credit Card"
     },
     {
+      "uuid": "d4f7fbf9-bd1c-4c1a-ba93-d499964937fb",
       "fidOrg": "975",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2608,6 +2875,7 @@
       "friendlyName": "EagleBank - Personal"
     },
     {
+      "uuid": "657236ff-5a16-4e40-b710-b7d9d9667e77",
       "fidOrg": "Automated Systems, Inc.",
       "url": "https://onlinebanking.earlhambank.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [
@@ -2621,6 +2889,7 @@
       "friendlyName": "Earlham Savings Bank"
     },
     {
+      "uuid": "91dbd505-5b48-46e9-bfd1-bf42aec3bc78",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2630,6 +2899,7 @@
       "friendlyName": "East Idaho Credit Union"
     },
     {
+      "uuid": "a717dfc3-0bdf-458d-a466-c6135f573ac3",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2639,6 +2909,7 @@
       "friendlyName": "East West Bank"
     },
     {
+      "uuid": "bf314e19-e976-42fe-a38e-dadcb7d89e41",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/06201.ofx",
       "ssl": [],
@@ -2648,6 +2919,7 @@
       "friendlyName": "Eastern Bank"
     },
     {
+      "uuid": "50a5813f-8012-4680-87d2-ee0dbb492c68",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2657,6 +2929,7 @@
       "friendlyName": "Eastman Credit Union"
     },
     {
+      "uuid": "a93059e5-2221-43d8-b29d-f5cf7a130be0",
       "fidOrg": "Users, Inc.",
       "url": "https://onlinebanking.esfcu.org/scripts/isaofx.dll",
       "ssl": [
@@ -2670,6 +2943,7 @@
       "friendlyName": "Educational Systems FCU"
     },
     {
+      "uuid": "e9f1800d-940e-4c92-8c49-d5e3eda0e838",
       "fidOrg": "tiaawisconsin",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6190800002208",
       "ssl": [
@@ -2683,6 +2957,7 @@
       "friendlyName": "Edvest College Savings Plan"
     },
     {
+      "uuid": "fd1a82a5-d8b4-4566-8967-ad3343ea1b4c",
       "fidOrg": "Edward Jones",
       "url": "https://ofx.edwardjones.com",
       "ssl": [
@@ -2696,6 +2971,7 @@
       "friendlyName": "Edward Jones"
     },
     {
+      "uuid": "e6459b0f-8d2a-4f84-9045-61b11fd2130e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2705,6 +2981,7 @@
       "friendlyName": "Edwards Federal Credit Union"
     },
     {
+      "uuid": "cae8372f-5c34-4c08-b5c1-20095c7ee082",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2714,6 +2991,7 @@
       "friendlyName": "EECU-Fresno"
     },
     {
+      "uuid": "32124c4d-7ab8-48c4-89e6-88cfd89d7b69",
       "fidOrg": "Elpaso OLB",
       "url": "https://mobile.tfcu.coop/OFX/OFXServer.aspx",
       "ssl": [
@@ -2727,6 +3005,7 @@
       "friendlyName": "El Paso Area Teachers Credit Union"
     },
     {
+      "uuid": "10e2ec4e-7321-4c5b-9426-81aa7c3dc4c7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2736,6 +3015,7 @@
       "friendlyName": "Elevations Credit Union IB WC-DC"
     },
     {
+      "uuid": "fd4b1b43-3c49-4571-bd47-f2402ef612a6",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2745,6 +3025,7 @@
       "friendlyName": "Empire NB IB"
     },
     {
+      "uuid": "38265ce8-aab6-4bb8-a5db-1f1542041730",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2754,6 +3035,7 @@
       "friendlyName": "Empire State Bank"
     },
     {
+      "uuid": "1c71a5d0-f7c1-4ce2-b5ca-3085d0280be8",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2763,6 +3045,7 @@
       "friendlyName": "EnerGComm FCU"
     },
     {
+      "uuid": "bc97cff5-ca8d-48b2-a5ea-e0a3dfbc1b5d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2772,6 +3055,7 @@
       "friendlyName": "Enrichment Federal CU"
     },
     {
+      "uuid": "614a2e77-32e6-48b7-8da6-c3dad4bd737b",
       "fidOrg": "MNineZeroZero",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -2781,6 +3065,7 @@
       "friendlyName": "Enterprise Bank Omaha - Direct"
     },
     {
+      "uuid": "40bf7b3f-4eb8-4938-9fa0-eba13f36c746",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2790,6 +3075,7 @@
       "friendlyName": "Equitable Bank, Nebraska"
     },
     {
+      "uuid": "3c99e425-e9a7-4f30-b08a-52fb464ffc07",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2799,6 +3085,7 @@
       "friendlyName": "Essential Federal Credit Union"
     },
     {
+      "uuid": "cabc5d90-9ee0-43ac-8055-3311bdb4622e",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -2812,6 +3099,7 @@
       "friendlyName": "Essex Bank"
     },
     {
+      "uuid": "1ab15dc0-5001-4a13-8e9c-dd708ad5d29b",
       "fidOrg": "Essex Financial Services, Inc.",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -2821,6 +3109,7 @@
       "friendlyName": "Essex Financial Services, Inc."
     },
     {
+      "uuid": "06959df8-f189-40e7-aeb9-6bb18c350753",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -2830,6 +3119,7 @@
       "friendlyName": "Essex Savings Bank"
     },
     {
+      "uuid": "71b4d431-9bdc-4a40-be03-031abea8d57a",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2839,6 +3129,7 @@
       "friendlyName": "EWEB Employees FCU"
     },
     {
+      "uuid": "14518df3-f4da-4a76-b570-4612da21cdf6",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2848,6 +3139,7 @@
       "friendlyName": "Exchange Bank - Santa Rosa, CA"
     },
     {
+      "uuid": "2c9e0db9-0e5c-4fc7-b065-3ea9a6fede71",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2857,6 +3149,7 @@
       "friendlyName": "Fairwinds Credit Union Quicken&QB"
     },
     {
+      "uuid": "67b272f2-6398-465a-ba2e-d1d20ab7267e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2866,6 +3159,7 @@
       "friendlyName": "Farmers & Merchants Bank - Direct"
     },
     {
+      "uuid": "7f59cf35-9166-4d03-ba43-efd0b3210544",
       "fidOrg": "FEDCHOICE",
       "url": "https://mb.fedchoice.org/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -2875,6 +3169,7 @@
       "friendlyName": "FedChoice FCU"
     },
     {
+      "uuid": "14748a8f-b7c1-4609-8641-8acdff197b70",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2884,6 +3179,7 @@
       "friendlyName": "Fidelity Bank - MA"
     },
     {
+      "uuid": "a9faf96b-2c8c-4c8c-a950-4d338c09b72a",
       "fidOrg": "di-4225",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2893,6 +3189,7 @@
       "friendlyName": "Fidelity Bank Wichita Direct"
     },
     {
+      "uuid": "3ae50a65-1967-45c4-9ff3-24319743674b",
       "fidOrg": "fidelity.com",
       "url": "https://ofx.fidelity.com/ftgw/OFX/clients/download",
       "ssl": [
@@ -2906,6 +3203,7 @@
       "friendlyName": "Fidelity Investments"
     },
     {
+      "uuid": "2f3d833e-82f0-40ff-ace6-d5d974c9dba8",
       "fidOrg": "nbofx.fidelity.com",
       "url": "https://nbofx.fidelity.com/netbenefits/ofx/download",
       "ssl": [
@@ -2919,6 +3217,7 @@
       "friendlyName": "Fidelity NetBenefits"
     },
     {
+      "uuid": "7709568f-503c-4c11-b967-b8e8090c7a58",
       "fidOrg": "Fifth Third Bank",
       "url": "https://trust-ofx.53.com/eftxweb/access.ofx",
       "ssl": [
@@ -2932,6 +3231,7 @@
       "friendlyName": "Fifth Third Investment and Trust"
     },
     {
+      "uuid": "5756ab32-a97a-4108-938d-5eb15249037e",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -2941,6 +3241,7 @@
       "friendlyName": "Financial Security Bank"
     },
     {
+      "uuid": "2ac83e23-e481-4397-82e0-654867073360",
       "fidOrg": "829",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2950,6 +3251,7 @@
       "friendlyName": "FineMark National Bank & Trust"
     },
     {
+      "uuid": "3b1fc930-d4c3-40e8-8795-32a88d110e7c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -2959,6 +3261,7 @@
       "friendlyName": "Firefighters First CU"
     },
     {
+      "uuid": "d0c76f17-ad08-4384-9c0b-87bc77d3d8fa",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -2972,6 +3275,7 @@
       "friendlyName": "First American State Bank"
     },
     {
+      "uuid": "bd6f3c5a-8d01-43fd-ba9d-55ca2593ba5e",
       "fidOrg": "WF",
       "url": "https://ofxdc.wellsfargo.com/ofxfcc/process.ofx",
       "ssl": [],
@@ -2981,6 +3285,7 @@
       "friendlyName": "First Clearing, LLC"
     },
     {
+      "uuid": "47a1dbc3-0521-4dc5-af91-611bafb180a6",
       "fidOrg": "058",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -2990,6 +3295,7 @@
       "friendlyName": "First Colony Bank of Florida"
     },
     {
+      "uuid": "5eff13f9-6833-4bdd-b74d-456a276d600d",
       "fidOrg": "First Command Financial Planning",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -2999,6 +3305,7 @@
       "friendlyName": "First Command Financial Planning"
     },
     {
+      "uuid": "32b5db74-9b14-4595-96e5-03fe493f97a3",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3012,6 +3319,7 @@
       "friendlyName": "First Commons Bank"
     },
     {
+      "uuid": "af051c41-d87b-42f4-a21d-f22d73da4e52",
       "fidOrg": "First Community Bank-San Benito",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3021,6 +3329,7 @@
       "friendlyName": "First Community Bank-San Benito"
     },
     {
+      "uuid": "feace947-9048-4a10-a730-e5a9ff207edf",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3030,6 +3339,7 @@
       "friendlyName": "First Community Credit Union"
     },
     {
+      "uuid": "c0645081-61f5-41c4-9193-ea7ba9e7f272",
       "fidOrg": "FIS-6951",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3039,6 +3349,7 @@
       "friendlyName": "First Federal Bank DC"
     },
     {
+      "uuid": "d2b1dad5-8e1f-4a71-8441-2e94843cc539",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3048,6 +3359,7 @@
       "friendlyName": "First Federal S & L of Delta"
     },
     {
+      "uuid": "9464eed3-9261-4943-907f-805a502ce062",
       "fidOrg": "First Federal S&L Assoc Cen IL",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3057,6 +3369,7 @@
       "friendlyName": "First Federal S&L Assoc Cen IL"
     },
     {
+      "uuid": "63e0c670-9783-4d30-96d3-24773019a3cc",
       "fidOrg": "095D",
       "url": "https://ofx1.evault.ws/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -3066,6 +3379,7 @@
       "friendlyName": "First Federal S&L of Lorain"
     },
     {
+      "uuid": "e60c5f35-f7a0-4fc3-a772-524cdb962d82",
       "fidOrg": "fis-7205",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3075,6 +3389,7 @@
       "friendlyName": "First Federal Twin Falls ID- DC"
     },
     {
+      "uuid": "b5febcd2-d359-405f-9790-c80e249bf3b0",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3084,6 +3399,7 @@
       "friendlyName": "First Financial Bank IN QFX & QBO"
     },
     {
+      "uuid": "0669b014-f19e-4e46-ac5c-765463ef81c2",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3097,6 +3413,7 @@
       "friendlyName": "First Florida Integrity Bank"
     },
     {
+      "uuid": "7e4852ba-9fa4-478c-8268-b280d692ec95",
       "fidOrg": "FIHB",
       "url": "https://online.fhb.com/ofx/ofx.ofx",
       "ssl": [
@@ -3110,6 +3427,7 @@
       "friendlyName": "First Hawaiian Bank"
     },
     {
+      "uuid": "a4d3d214-8825-4450-a575-153390efc933",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3123,6 +3441,7 @@
       "friendlyName": "First Hope Bank"
     },
     {
+      "uuid": "e50dbcb6-bc1a-4ebe-844c-dfd2396549fa",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3132,6 +3451,7 @@
       "friendlyName": "First Internet Bank of Indiana"
     },
     {
+      "uuid": "ab967dce-12de-4422-bc30-458325831345",
       "fidOrg": "MNineZeroThree",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -3141,6 +3461,7 @@
       "friendlyName": "First Landmark Bank"
     },
     {
+      "uuid": "7d28df8d-96ca-4070-85a5-29f5d3f19e06",
       "fidOrg": "bib101092",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3150,6 +3471,7 @@
       "friendlyName": "First Merchants Business"
     },
     {
+      "uuid": "10aef107-eae8-4511-8cca-79c3854eb1af",
       "fidOrg": "MSEVENSIXTYONE",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -3159,6 +3481,7 @@
       "friendlyName": "First National Bank - Beloit"
     },
     {
+      "uuid": "f94158bd-8e79-4cf3-9182-09973b6db997",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3168,6 +3491,7 @@
       "friendlyName": "First National Bank Ames-Ankeny"
     },
     {
+      "uuid": "b891c55d-0857-454f-a56e-40403c371c5e",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3177,6 +3501,7 @@
       "friendlyName": "First National Bank Chisholm"
     },
     {
+      "uuid": "16873a07-ba47-4e3b-81f4-213635d18165",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3190,6 +3515,7 @@
       "friendlyName": "FNB Clarksdale"
     },
     {
+      "uuid": "1d6c450b-5cd1-4172-8253-e2f52da7705b",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3199,6 +3525,7 @@
       "friendlyName": "First National Bank of Pasco"
     },
     {
+      "uuid": "884a62ef-4a06-4f6e-8361-ddc16489aa82",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -3208,6 +3535,7 @@
       "friendlyName": "First National Bank of Talladega"
     },
     {
+      "uuid": "7b533e95-6287-45c8-9ec2-f56142408115",
       "fidOrg": "mfis-7373",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3217,6 +3545,7 @@
       "friendlyName": "First Natl Bank of Central TX- DC"
     },
     {
+      "uuid": "a195f9d6-dbb3-437d-b104-15e291fe83cc",
       "fidOrg": "CAVION",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3226,6 +3555,7 @@
       "friendlyName": "First Natl Bank of Moose Lake"
     },
     {
+      "uuid": "0fce197d-1fa4-46f8-a055-dd2b0ab13924",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3239,6 +3569,7 @@
       "friendlyName": "First Northern Bank PA"
     },
     {
+      "uuid": "11da38a0-1e58-44ea-b303-e2c23cb38f17",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3248,6 +3579,7 @@
       "friendlyName": "First Piedmont"
     },
     {
+      "uuid": "196ae356-af7e-4fc6-95e9-a5d03799fa63",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3261,6 +3593,7 @@
       "friendlyName": "First Reliance Bank"
     },
     {
+      "uuid": "bbeae2dd-43c6-4994-9722-9f2aa0f60b10",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3270,6 +3603,7 @@
       "friendlyName": "First Republic Bank"
     },
     {
+      "uuid": "d24b8436-31d4-43be-90e9-55d52ffc7657",
       "fidOrg": "First Republic Bank",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -3279,6 +3613,7 @@
       "friendlyName": "First Republic Securities Company"
     },
     {
+      "uuid": "c3941e8e-796b-43be-8d80-a8a9f0753665",
       "fidOrg": "FundsXpress, Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -3288,6 +3623,7 @@
       "friendlyName": "First Security Bank, Searcy AR"
     },
     {
+      "uuid": "22d779e6-87cd-4fe9-a1e9-06e56ecb0adf",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3301,6 +3637,7 @@
       "friendlyName": "First Service Federal Credit Union"
     },
     {
+      "uuid": "5f90a5c1-301c-4c50-98a9-5d92db1270fc",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3310,6 +3647,7 @@
       "friendlyName": "First State Bank - Lynnville"
     },
     {
+      "uuid": "024b9935-b2c1-46af-b3ca-0ef287645c76",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3319,6 +3657,7 @@
       "friendlyName": "First State Bank Buxton"
     },
     {
+      "uuid": "fd61127a-a455-4881-8d44-0cbb6199a8e6",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3332,6 +3671,7 @@
       "friendlyName": "First State Bank of Blakely"
     },
     {
+      "uuid": "8b07ea96-2900-429c-92e9-06e3240ba0fe",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3345,6 +3685,7 @@
       "friendlyName": "First State Bank of Central Texas"
     },
     {
+      "uuid": "3613163d-f7a4-4c9c-a91c-1fb3e6c56aa8",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3354,6 +3695,7 @@
       "friendlyName": "First State Bank Warner, SD"
     },
     {
+      "uuid": "16a21d91-1836-4a97-8046-df98d765d1a4",
       "fidOrg": "First Tech Federal Credit Union",
       "url": "https://ofx.firsttechfed.com",
       "ssl": [
@@ -3367,6 +3709,7 @@
       "friendlyName": "First Tech Federal Credit Union"
     },
     {
+      "uuid": "f888ab28-85b2-4454-b960-839218c5ebd1",
       "fidOrg": "Online Financial Services",
       "url": "https://ofx.firsttennessee.com/eftxweb/access.ofx",
       "ssl": [
@@ -3380,6 +3723,7 @@
       "friendlyName": "First Tennessee"
     },
     {
+      "uuid": "d32db01e-5e4a-4a40-b683-ac1947196ee8",
       "fidOrg": "B1",
       "url": "https://ofx.chase.com",
       "ssl": [
@@ -3393,6 +3737,7 @@
       "friendlyName": "First USA"
     },
     {
+      "uuid": "03d29a5e-657a-4939-b36d-cc4e3eb7dc8e",
       "fidOrg": "fis-6127",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3402,6 +3747,7 @@
       "friendlyName": "First Virginia Community - DC"
     },
     {
+      "uuid": "fe373d23-a693-424a-9a1a-cc3c014ac18d",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/01255.ofx",
       "ssl": [],
@@ -3411,6 +3757,7 @@
       "friendlyName": "Firstar Bank"
     },
     {
+      "uuid": "2abc1278-f086-40b5-a6aa-b1a737e5a290",
       "fidOrg": "FBDC",
       "url": "https://www.efirstbankpfm.com/ofx/OFXServlet",
       "ssl": [],
@@ -3420,6 +3767,7 @@
       "friendlyName": "FirstBank of Colorado"
     },
     {
+      "uuid": "2ba8cee9-2e6e-4b8d-9afe-09a5b749abb1",
       "fidOrg": "MY CREDIT UNION",
       "url": "https://tfcu-nfuse01.texacocommunity.org/internetconnector/isaofx.dll",
       "ssl": [],
@@ -3429,6 +3777,7 @@
       "friendlyName": "FivePoint Credit Union"
     },
     {
+      "uuid": "b6f923d1-515b-40e3-a8e4-a4bb32271344",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3442,6 +3791,7 @@
       "friendlyName": "Flint Community Bank"
     },
     {
+      "uuid": "6b2c1638-0954-4f99-b651-0cd940e88525",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -3451,6 +3801,7 @@
       "friendlyName": "Florence Bank"
     },
     {
+      "uuid": "8445703b-0dbd-497d-95d9-e0e7c3def9af",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3464,6 +3815,7 @@
       "friendlyName": "Florida Business Bank-DL"
     },
     {
+      "uuid": "2d991489-108b-4c53-9679-4a79f44dedd3",
       "fidOrg": "Users, Inc.",
       "url": "https://fsucuebranch.org/scripts/isaofx.dll",
       "ssl": [],
@@ -3473,6 +3825,7 @@
       "friendlyName": "Florida State University CU"
     },
     {
+      "uuid": "a454fdd8-4277-402a-b110-f1abe83e2e28",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3482,6 +3835,7 @@
       "friendlyName": "Florida West Coast CU"
     },
     {
+      "uuid": "e37a363e-4093-485a-8955-57f60e0962d9",
       "fidOrg": "Connect",
       "url": "https://banking.floridacentralcu.com/internetbankingOFX/Ofxrqst.aspx",
       "ssl": [
@@ -3495,6 +3849,7 @@
       "friendlyName": "FloridaCentral CU"
     },
     {
+      "uuid": "cc08dff4-6666-4492-9848-2cb532eed00b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3504,6 +3859,7 @@
       "friendlyName": "FNB Bank NA DirectConnect"
     },
     {
+      "uuid": "4ab36400-0367-4f6a-b3f8-bbc32e6201cd",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3517,6 +3873,7 @@
       "friendlyName": "FNB of Central Alabama"
     },
     {
+      "uuid": "a9fc4725-70be-49f0-bb1a-bf5e94ab029e",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -3526,6 +3883,7 @@
       "friendlyName": "FNB South GA"
     },
     {
+      "uuid": "3749fa3f-477e-4ad5-8543-d0eec40cf852",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3535,6 +3893,7 @@
       "friendlyName": "Fort Worth Community CU - QK"
     },
     {
+      "uuid": "2fb06f8a-3b89-4d80-b48d-f80c813d6f5d",
       "fidOrg": "decu.org",
       "url": "https://appweb.deltacommunitycu.com/ofxroot/directtocore.asp",
       "ssl": [],
@@ -3544,6 +3903,7 @@
       "friendlyName": "Delta Community Credit Union"
     },
     {
+      "uuid": "2f688ec3-94c2-4f18-a3d4-9085c7dbd738",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3553,6 +3913,7 @@
       "friendlyName": "Freedom Community Credit Union"
     },
     {
+      "uuid": "6892ce7f-5424-4352-94d8-f1353448f9c4",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -3562,6 +3923,7 @@
       "friendlyName": "Freedom Credit Union - Mass"
     },
     {
+      "uuid": "73a7a0fd-9684-4b31-bfa4-ec6afae46ca5",
       "fidOrg": "MSevenThreeOne",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -3571,6 +3933,7 @@
       "friendlyName": "Fremont Bank Direct Connect"
     },
     {
+      "uuid": "96e50933-663a-4ed4-8155-826784637b80",
       "fidOrg": "American International General",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -3580,6 +3943,7 @@
       "friendlyName": "FSC Securities"
     },
     {
+      "uuid": "3da35a6a-60a7-46ff-96d2-29993653677f",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3589,6 +3953,7 @@
       "friendlyName": "Fulda Area CUFulda, MN"
     },
     {
+      "uuid": "36a54f31-a3b0-44d8-b0f5-e30b083a5d8a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3598,6 +3963,7 @@
       "friendlyName": "Fulton Bank DirectConnect"
     },
     {
+      "uuid": "e339b935-6fad-4515-a066-d736a451f936",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3607,6 +3973,7 @@
       "friendlyName": "Fulton Bank NJ DirectConnect"
     },
     {
+      "uuid": "fdd8c32a-6052-4826-bb8b-9a920e135fd6",
       "fidOrg": "USERS",
       "url": "https://gcs.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -3616,6 +3983,7 @@
       "friendlyName": "GCS Credit Union"
     },
     {
+      "uuid": "33d7b6a5-fa3d-4932-8750-4271ffa0c853",
       "fidOrg": "GENERATIONSFCUDC",
       "url": "https://mb.mygenfcu.org/OFXServer/ofxsrvr.dll",
       "ssl": [
@@ -3629,6 +3997,7 @@
       "friendlyName": "generations federal credit union"
     },
     {
+      "uuid": "46620fed-d52e-4220-96b2-d16c02d0587e",
       "fidOrg": "MEightTwoEight",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -3638,6 +4007,7 @@
       "friendlyName": "Georgia Primary Bank"
     },
     {
+      "uuid": "c0ac8fd9-6e01-4299-a10e-b91da4fc214e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3647,6 +4017,7 @@
       "friendlyName": "German American Bank - Direct"
     },
     {
+      "uuid": "93af824d-b11b-4b99-a67e-1e9a534ff3ce",
       "fidOrg": "gabc",
       "url": "https://ebofx.aciondemand.com/ebofx1/ofx/ofx",
       "ssl": [],
@@ -3656,6 +4027,7 @@
       "friendlyName": "German American Business Online"
     },
     {
+      "uuid": "52cf3936-0706-417e-96a8-dc00cdc374cb",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -3665,6 +4037,7 @@
       "friendlyName": "GFA Federal Credit Union"
     },
     {
+      "uuid": "691bbb12-85d3-4aeb-a663-2609c513d8a6",
       "fidOrg": "HFS-Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3674,6 +4047,7 @@
       "friendlyName": "Girard National Bank"
     },
     {
+      "uuid": "77952c07-2582-4606-b095-2c1c49935ecd",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3683,6 +4057,7 @@
       "friendlyName": "Golden Plains CU - Direct"
     },
     {
+      "uuid": "1c633304-a473-492c-aa9e-5270712cd603",
       "fidOrg": "PFourTwoFive",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -3692,6 +4067,7 @@
       "friendlyName": "Golden Valley Bank Retail"
     },
     {
+      "uuid": "92bdc8f0-01ac-4394-9289-5223c9a9c012",
       "fidOrg": "gs.com",
       "url": "https://portfolio-ofx.gs.com:446/ofx/ofx.eftx",
       "ssl": [],
@@ -3701,6 +4077,7 @@
       "friendlyName": "Goldman Sachs"
     },
     {
+      "uuid": "5f6e3c6e-2b20-4429-935c-777fd5897625",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -3714,6 +4091,7 @@
       "friendlyName": "Grand Bank - NJ"
     },
     {
+      "uuid": "1d9d69ac-9310-4c12-87e8-bc288f841189",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3723,6 +4101,7 @@
       "friendlyName": "Granite Community Bank"
     },
     {
+      "uuid": "4394087a-b630-4b16-9837-235e0cd24630",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3732,6 +4111,7 @@
       "friendlyName": "Granite Mountain Bank-Direct"
     },
     {
+      "uuid": "106a8cba-43e0-4039-a7bc-3d2557eb34d5",
       "fidOrg": "Greater Texas FCU",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3741,6 +4121,7 @@
       "friendlyName": "Greater Texas FCU"
     },
     {
+      "uuid": "668001f1-f940-4c20-88b8-2410b07bab3b",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3754,6 +4135,7 @@
       "friendlyName": "Green Bank, N.A."
     },
     {
+      "uuid": "ec548315-0bfb-42f7-95e0-76541ac51906",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3763,6 +4145,7 @@
       "friendlyName": "Greeneville Federal Bank, FSB"
     },
     {
+      "uuid": "42bdf884-873f-4adf-b3aa-882f5f2b3acb",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -3772,6 +4155,7 @@
       "friendlyName": "Greenfield-Northampton Coop Bank"
     },
     {
+      "uuid": "7263569a-7220-4da5-8046-ed157a7d61ce",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3781,6 +4165,7 @@
       "friendlyName": "Greylock FCU"
     },
     {
+      "uuid": "cf05c2c6-e287-4427-bd01-fec29757a2e0",
       "fidOrg": "FundsXpress Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -3790,6 +4175,7 @@
       "friendlyName": "Guaranty Bank & Trust, N.A."
     },
     {
+      "uuid": "02f19299-6a03-47ac-81c0-00a636aa7103",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3799,6 +4185,7 @@
       "friendlyName": "Gulf Credit Union"
     },
     {
+      "uuid": "85db9348-a401-437d-85db-eeaff49fc8fe",
       "fidOrg": "Hancock Whitney Bank",
       "url": "https://fs-services.1fsapi.com/eftxweb/hancock.ofx",
       "ssl": [],
@@ -3808,6 +4195,7 @@
       "friendlyName": "Hancock Whitney Bank Direct"
     },
     {
+      "uuid": "ad07dd33-80b7-4901-8828-be8241ce2498",
       "fidOrg": "harbor",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6070017011417",
       "ssl": [
@@ -3821,6 +4209,7 @@
       "friendlyName": "Harbor Funds"
     },
     {
+      "uuid": "b51d7003-b6fd-48ea-8891-578df3da3df1",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -3830,6 +4219,7 @@
       "friendlyName": "Hawaii Community Federal CU"
     },
     {
+      "uuid": "b033935a-3de6-420c-8146-27a9ef80a4af",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3839,6 +4229,7 @@
       "friendlyName": "Hawaii National Bank"
     },
     {
+      "uuid": "4004f6dd-63a3-4f59-98f1-3c89b67370e0",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3848,6 +4239,7 @@
       "friendlyName": "HealthNet FCU"
     },
     {
+      "uuid": "b3acd797-9db5-48e4-865d-a4d4af8c28a9",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -3861,6 +4253,7 @@
       "friendlyName": "Heartland National Bank"
     },
     {
+      "uuid": "c38cbb0d-7fc2-4669-9827-1e84700e448d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3870,6 +4263,7 @@
       "friendlyName": "Heritage Bank - Olympia, WA"
     },
     {
+      "uuid": "50165d91-cb42-4326-85b6-2abec2569902",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3879,6 +4273,7 @@
       "friendlyName": "Heritage Bank KY"
     },
     {
+      "uuid": "367c01b3-3cc8-4c4a-9d40-be86f6ace076",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3888,6 +4283,7 @@
       "friendlyName": "Heritage Bank Nebraska"
     },
     {
+      "uuid": "2b26068c-81ad-440f-9df1-3cf821a6de3e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3897,6 +4293,7 @@
       "friendlyName": "Heritage First Bank"
     },
     {
+      "uuid": "66b21c81-f7b4-4200-a25b-7736ebe74064",
       "fidOrg": "Credit Union",
       "url": "https://hfsfcu.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -3906,6 +4303,7 @@
       "friendlyName": "HFS Federal Credit Union"
     },
     {
+      "uuid": "9bb92b63-da13-49f0-8539-2a3bf67e834c",
       "fidOrg": "289",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3915,6 +4313,7 @@
       "friendlyName": "Hinsdale Bank & Trust"
     },
     {
+      "uuid": "8946ae7f-2f37-432e-9349-ab3fc2deaa53",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3924,6 +4323,7 @@
       "friendlyName": "Holladay Bank & Trust"
     },
     {
+      "uuid": "3d8c8e20-69c4-443a-91c8-097b0da9dbdc",
       "fidOrg": "Harland - Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3933,6 +4333,7 @@
       "friendlyName": "HomeBanc N.A."
     },
     {
+      "uuid": "ec33be06-940c-457f-a2d8-66d3f839d864",
       "fidOrg": "420",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -3942,6 +4343,7 @@
       "friendlyName": "HomeStreet Bank - Direct Connect"
     },
     {
+      "uuid": "7a8dd9ba-743e-4098-9934-e4b2a5032107",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3951,6 +4353,7 @@
       "friendlyName": "Hometown CUKulm, ND"
     },
     {
+      "uuid": "3856a1de-d843-4bd8-bb68-ca21a3e31409",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3960,6 +4363,7 @@
       "friendlyName": "Horizon Credit Union"
     },
     {
+      "uuid": "b40f0672-d46b-449a-952e-cde97e2b7922",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -3969,6 +4373,7 @@
       "friendlyName": "Horizon Financial Bank"
     },
     {
+      "uuid": "fd07a53a-a7d4-4f3d-8078-b93dfec0ee20",
       "fidOrg": "huntington",
       "url": "https://ofx.huntington.com/Ofx/process.ofx",
       "ssl": [
@@ -3982,6 +4387,7 @@
       "friendlyName": "Huntington National Bank"
     },
     {
+      "uuid": "7131b421-5f4a-4334-b0c9-bc65fc395a8e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -3991,6 +4397,7 @@
       "friendlyName": "HVFCU Direct"
     },
     {
+      "uuid": "8a9b6e68-6309-4576-b9d3-bbc85be20928",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -4004,6 +4411,7 @@
       "friendlyName": "IBERIABANK"
     },
     {
+      "uuid": "acb34f34-010e-41f1-aef3-b678e3c2cd5f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4013,6 +4421,7 @@
       "friendlyName": "IH Mississippi Valley CU"
     },
     {
+      "uuid": "228c2a8e-880a-45b4-a550-69778964b7da",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4022,6 +4431,7 @@
       "friendlyName": "Independent Bank, TN"
     },
     {
+      "uuid": "098ec10c-b528-412d-bfe0-1d2aa1b9f5a9",
       "fidOrg": "433",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4031,6 +4441,7 @@
       "friendlyName": "Independence Bank of Georgia"
     },
     {
+      "uuid": "fe11e9ff-231b-4a0f-86d2-7402536418a3",
       "fidOrg": "INNOVATIONDC",
       "url": "https://m-innovationsfcu.financialhost.org/ofxsrvr.dll",
       "ssl": [],
@@ -4040,6 +4451,7 @@
       "friendlyName": "Innovations FCU"
     },
     {
+      "uuid": "8680254d-36b8-4e25-b7b6-561d19c16447",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4053,6 +4465,7 @@
       "friendlyName": "Integrity Bank - Houston, TX"
     },
     {
+      "uuid": "b9f288f6-8325-4cf3-a0f8-4d1215233a16",
       "fidOrg": "InTouch Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -4062,6 +4475,7 @@
       "friendlyName": "InTouch Credit Union"
     },
     {
+      "uuid": "300cae9c-f0fb-4357-bfde-ad34e40a143f",
       "fidOrg": "Invesco",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3000812",
       "ssl": [
@@ -4075,6 +4489,7 @@
       "friendlyName": "Invesco"
     },
     {
+      "uuid": "3501349a-ffc9-4893-9022-950b85ae9259",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4084,6 +4499,7 @@
       "friendlyName": "Island Federal Credit Union"
     },
     {
+      "uuid": "01416dfa-4beb-425c-88c9-fd5a55d69701",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4093,6 +4509,7 @@
       "friendlyName": "IU Credit Union"
     },
     {
+      "uuid": "11011995-7700-48e1-968e-a513696c6038",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04701.ofx",
       "ssl": [],
@@ -4102,6 +4519,7 @@
       "friendlyName": "J.P. Morgan"
     },
     {
+      "uuid": "f2258685-7639-4da6-a928-079a34eda628",
       "fidOrg": "jpmorgan",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=80915121417060013",
       "ssl": [
@@ -4115,6 +4533,7 @@
       "friendlyName": "J.P. Morgan Funds"
     },
     {
+      "uuid": "b9b256ea-9708-4b76-bb71-3b647798db20",
       "fidOrg": "jpmorgan.com",
       "url": "https://ofx.jpmorgan.com/jpmredirector",
       "ssl": [
@@ -4128,6 +4547,7 @@
       "friendlyName": "J.P. Morgan Private Banking"
     },
     {
+      "uuid": "bcd24633-fa6c-4e48-9abc-97c2cb4b40cb",
       "fidOrg": "janus",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=50900132018",
       "ssl": [
@@ -4141,6 +4561,7 @@
       "friendlyName": "Janus"
     },
     {
+      "uuid": "6cd51e62-1977-4a50-a2b8-70a46d271968",
       "fidOrg": "Jefferies and Company, Inc.",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -4150,6 +4571,7 @@
       "friendlyName": "Jefferies & Company-Wealth Mgmt"
     },
     {
+      "uuid": "3684eb81-92b9-4f57-b6ec-96dec7b5c1b9",
       "fidOrg": "086501578",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4159,6 +4581,7 @@
       "friendlyName": "Jefferson Bank - Business"
     },
     {
+      "uuid": "9c985771-4171-464b-84a2-57f8ede024f4",
       "fidOrg": "086501578",
       "url": "https://ofx.centralbancompany.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4168,6 +4591,7 @@
       "friendlyName": "Jefferson Bank - Personal"
     },
     {
+      "uuid": "21948ab7-2070-442e-a87c-064ffbe14e47",
       "fidOrg": "222",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4177,6 +4601,7 @@
       "friendlyName": "Jefferson Bank of Florida"
     },
     {
+      "uuid": "b93bdd07-b6f1-460e-a072-c95d03540bdd",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4190,6 +4615,7 @@
       "friendlyName": "Jefferson Security Bank"
     },
     {
+      "uuid": "c209e168-7211-4ac4-9ae3-23d5d7d4da1d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4199,6 +4625,7 @@
       "friendlyName": "Johnson Bank"
     },
     {
+      "uuid": "9cce7211-7a32-4b36-be56-3bfe94535fca",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -4208,6 +4635,7 @@
       "friendlyName": "Jonesboro State Bank"
     },
     {
+      "uuid": "e2fbd940-e347-4174-bdac-f842b0acd66b",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4217,6 +4645,7 @@
       "friendlyName": "Kaw Valley State Bank and Trust"
     },
     {
+      "uuid": "d01e7305-2215-44b6-b7cb-9faa75f7b73e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4226,6 +4655,7 @@
       "friendlyName": "Kearny County Bank"
     },
     {
+      "uuid": "a9927ba2-9b5f-4bcc-aa8f-8d7654ad83dd",
       "fidOrg": "KEMBA",
       "url": "https://ofx.kemba.org/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -4235,6 +4665,7 @@
       "friendlyName": "KEMBA Financial CU - Direct"
     },
     {
+      "uuid": "1e81efbf-5fe7-4d8a-9091-8f77dbd8a3e6",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4244,6 +4675,7 @@
       "friendlyName": "Keys FCU"
     },
     {
+      "uuid": "21fec25b-8ce7-4ba9-b948-426c3b0dc774",
       "fidOrg": "KINECTA",
       "url": "https://ofx.kinecta.org/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4253,6 +4685,7 @@
       "friendlyName": "Kinecta Federal Credit Union"
     },
     {
+      "uuid": "1633c30f-bca7-4a0a-804a-d4be43344e01",
       "fidOrg": "Kingsley State Bank",
       "url": "https://onlinebanking.kingsleybank.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [],
@@ -4262,6 +4695,7 @@
       "friendlyName": "Kingsley State Bank,Kingsley IA"
     },
     {
+      "uuid": "85717de5-a440-48ed-b816-90d2428062cd",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4271,6 +4705,7 @@
       "friendlyName": "Kirtland Federal Credit Union"
     },
     {
+      "uuid": "1f9e0ea5-1a8c-497b-8ffb-5a2a75cad08a",
       "fidOrg": "Kitsap Community Federal Credit",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4280,6 +4715,7 @@
       "friendlyName": "Kitsap Credit Union"
     },
     {
+      "uuid": "4508929e-6c5a-4274-84a8-44c304176169",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4289,6 +4725,7 @@
       "friendlyName": "KleinBank Direct"
     },
     {
+      "uuid": "c5046945-508a-4d2d-aed1-6ea62ff5253b",
       "fidOrg": "Connect",
       "url": "https://olb.tvacreditunion.com/OFXDirect/OFXRqst.aspx",
       "ssl": [],
@@ -4298,6 +4735,7 @@
       "friendlyName": "Knoxville TVA Emp CU"
     },
     {
+      "uuid": "894505bd-fb23-4059-926b-c785586ed7e7",
       "fidOrg": "KUE Federal Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -4307,6 +4745,7 @@
       "friendlyName": "KUE Federal Credit Union"
     },
     {
+      "uuid": "d9c3aafb-2cad-463e-9180-56a05c2a61a0",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile",
       "ssl": [],
@@ -4316,6 +4755,7 @@
       "friendlyName": "L G & W Federal Credit Union"
     },
     {
+      "uuid": "24fc343e-89d7-4f67-adca-29645cb5097f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4325,6 +4765,7 @@
       "friendlyName": "L&N Federal Credit Union"
     },
     {
+      "uuid": "e9a2bc4d-e69f-4bd6-9976-403420dd6cd5",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4334,6 +4775,7 @@
       "friendlyName": "L.A. Police Federal Credit Union"
     },
     {
+      "uuid": "0893669f-e4df-4eff-86bd-ac4da1034f3d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4343,6 +4785,7 @@
       "friendlyName": "LafAmBank DirectConnect"
     },
     {
+      "uuid": "783488f5-ca76-4255-98e7-8b3cf312136c",
       "fidOrg": "MZeroTwoEight",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4352,6 +4795,7 @@
       "friendlyName": "Lake Community Bank - MN"
     },
     {
+      "uuid": "375307c6-35bb-440a-b3be-9ae5fc7e5d62",
       "fidOrg": "919",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4361,6 +4805,7 @@
       "friendlyName": "Lake Forest Bank & Trust"
     },
     {
+      "uuid": "8d56f806-aeec-4ed1-a22d-06a54c365cfa",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4370,6 +4815,7 @@
       "friendlyName": "Lake Trust CU"
     },
     {
+      "uuid": "28f7e557-c890-4fa6-91fb-a84d83c2b097",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4383,6 +4829,7 @@
       "friendlyName": "Landmark Community Bank- PA"
     },
     {
+      "uuid": "8edbddc4-699c-4dd6-b6b2-c7ff335a1e9f",
       "fidOrg": "USERS",
       "url": "https://lascolinasfcu.online-cu.com/scripts/isaofx.dll/scripts/isaofx.dll",
       "ssl": [],
@@ -4392,6 +4839,7 @@
       "friendlyName": "Las Colinas Federal CU"
     },
     {
+      "uuid": "7d6d7038-c1e5-4345-b61f-8e251b75f679",
       "fidOrg": "USERS",
       "url": "https://www.lbsfcu.org/scripts/isaofx.dll",
       "ssl": [
@@ -4405,6 +4853,7 @@
       "friendlyName": "LBS Financial Credit Union"
     },
     {
+      "uuid": "f9efd674-d08b-4186-b3b3-afba5817d54b",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4418,6 +4867,7 @@
       "friendlyName": "LCNB"
     },
     {
+      "uuid": "a5ab889b-3980-48cf-a61d-02d1d7e6152d",
       "fidOrg": "Lea County State Bank",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4427,6 +4877,7 @@
       "friendlyName": "Lea County State Bank"
     },
     {
+      "uuid": "62c6407f-e576-42b1-bddd-3dcabea4af7b",
       "fidOrg": "WTwentyEightTwentyFive",
       "url": "https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -4436,6 +4887,7 @@
       "friendlyName": "LeadBank Bus Direct Connect"
     },
     {
+      "uuid": "53bee72c-c85b-406c-b788-3f5a24b9cc5f",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4445,6 +4897,7 @@
       "friendlyName": "Lee County Bank and Trust, N.A."
     },
     {
+      "uuid": "5e4ef081-17fd-4028-8576-24b41c91ed6f",
       "fidOrg": "Connect",
       "url": "https://legacycfcu.cue-connect.com/ofxdirect/ofxrqst.aspx",
       "ssl": [],
@@ -4454,6 +4907,7 @@
       "friendlyName": "Legacy CFCU"
     },
     {
+      "uuid": "f1336deb-0e51-417a-80b8-fe37403a8420",
       "fidOrg": "mfis-7458",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4463,6 +4917,7 @@
       "friendlyName": "Legacy State Bank - DC"
     },
     {
+      "uuid": "49c51a09-06a7-4ad7-860a-66f0b1270b3e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4472,6 +4927,7 @@
       "friendlyName": "LegacyTexas Bank - DC QFX & QBO"
     },
     {
+      "uuid": "3e6b9041-e903-4765-9766-c3109b50203d",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -4481,6 +4937,7 @@
       "friendlyName": "Legend Bank"
     },
     {
+      "uuid": "0f51a03f-6426-4ce7-a930-067fca212592",
       "fidOrg": "158",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4490,6 +4947,7 @@
       "friendlyName": "Libertyville Bank & Trust"
     },
     {
+      "uuid": "c2ade560-71e5-47bd-871c-6a9086e758db",
       "fidOrg": "SECU",
       "url": "https://onlineaccess.ncsecu.org/lgfcuofx/lgfcu.ofx",
       "ssl": [
@@ -4503,6 +4961,7 @@
       "friendlyName": "Local Government Federal CU"
     },
     {
+      "uuid": "c5fd0478-d3c8-4451-bf36-5c3af8d38b6f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4512,6 +4971,7 @@
       "friendlyName": "Los Angeles Federal Credit Union"
     },
     {
+      "uuid": "f5f45fd9-d311-4fb2-a3a6-bd0f67e264d8",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4521,6 +4981,7 @@
       "friendlyName": "Louisiana USA FCU"
     },
     {
+      "uuid": "c9332835-f963-43a0-b8c9-36b4964f1220",
       "fidOrg": "MandT",
       "url": "https://DirectConnectOFX.MTB.COM/ofx/process.ofx",
       "ssl": [
@@ -4534,6 +4995,7 @@
       "friendlyName": "M&T Bank Direct Connect"
     },
     {
+      "uuid": "1de80291-d2f8-4e3c-8ef9-63255514d49a",
       "fidOrg": "MandT Bank Corporation",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -4543,6 +5005,7 @@
       "friendlyName": "M&T Securities, Inc."
     },
     {
+      "uuid": "e408496d-9677-48fe-bbdf-ce3d8f690816",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -4552,6 +5015,7 @@
       "friendlyName": "Magnolia Bank KY"
     },
     {
+      "uuid": "d15ff12b-021c-4279-a290-c0d696432052",
       "fidOrg": "FundsXpress Financial Network",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -4561,6 +5025,7 @@
       "friendlyName": "Magnolia State Bank"
     },
     {
+      "uuid": "37d82b04-cbfe-46bf-9661-3f4798c95957",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4570,6 +5035,7 @@
       "friendlyName": "MainSource Bank - DC Quicken & QB"
     },
     {
+      "uuid": "ed1c59f1-40ce-401d-9579-a0f6b7dbcd1b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4579,6 +5045,7 @@
       "friendlyName": "Malvern Federal Savings Bank"
     },
     {
+      "uuid": "10801195-29f8-4c4f-a91b-46811200e3c8",
       "fidOrg": "HFS -Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4588,6 +5055,7 @@
       "friendlyName": "Manufacturers Bank IA"
     },
     {
+      "uuid": "ba3a3df5-d6fe-4d4f-ac68-70813840bc6f",
       "fidOrg": "035T",
       "url": "https://ofx1.evault.ws/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -4597,6 +5065,7 @@
       "friendlyName": "Martha's Vineyard Savings Bank"
     },
     {
+      "uuid": "62275931-1406-47f0-88a8-56918ab4eb1e",
       "fidOrg": "bib101088",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4606,6 +5075,7 @@
       "friendlyName": "McHenry Savings Bank - BeB DC"
     },
     {
+      "uuid": "b0205697-9018-44eb-84ea-d9997ddc8e29",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4615,6 +5085,7 @@
       "friendlyName": "Mechanics Bank CA"
     },
     {
+      "uuid": "cbcaafbc-e065-4f6a-afb8-03d4fdf152b4",
       "fidOrg": "NOREightFiveZero",
       "url": "https://ofx.secureinternetbank.com/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -4624,6 +5095,7 @@
       "friendlyName": "Mechanics Savings Bank - Retail"
     },
     {
+      "uuid": "a11af8a5-774b-491d-9444-198b1d4d3f6a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4633,6 +5105,7 @@
       "friendlyName": "MECU of Baltimore"
     },
     {
+      "uuid": "236c66b3-e681-4d84-a067-110835c6d674",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4642,6 +5115,7 @@
       "friendlyName": "Member One FCU"
     },
     {
+      "uuid": "a32e269e-fb3a-4abc-b2d7-11fc3e129631",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4655,6 +5129,7 @@
       "friendlyName": "Merchants Bank of California"
     },
     {
+      "uuid": "2f9562f2-d7f0-42d4-b582-efd81b6caf7d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4664,6 +5139,7 @@
       "friendlyName": "Mercy-City-Lehigh FamilyMason C"
     },
     {
+      "uuid": "cba34ff8-cec7-45bb-804e-40e60cf42b36",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4673,6 +5149,7 @@
       "friendlyName": "Meritrust Credit Union"
     },
     {
+      "uuid": "79a70642-b483-4274-9894-e67a73334377",
       "fidOrg": "Merrill Lynch & Co., Inc.",
       "url": "https://taxcert.mlol.ml.com/eftxweb/access.ofx",
       "ssl": [
@@ -4686,6 +5163,7 @@
       "friendlyName": "Merrill Lynch Investments"
     },
     {
+      "uuid": "f80af336-5aef-4715-8feb-82b9b9a3b513",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/07301.ofx",
       "ssl": [],
@@ -4695,6 +5173,7 @@
       "friendlyName": "Merrill Lynch Online Payment"
     },
     {
+      "uuid": "356a8384-2dc0-4504-9269-c17d50644f02",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4704,6 +5183,7 @@
       "friendlyName": "Metro Health Services FCU"
     },
     {
+      "uuid": "a4bc5966-bc16-4a08-852e-b0c2c3b15f33",
       "fidOrg": "MSUFCU",
       "url": "https://ofx.msufcu.org/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -4717,6 +5197,7 @@
       "friendlyName": "MSU Federal Credit Union"
     },
     {
+      "uuid": "2bf69dce-ceb9-4e3a-bf42-eea2748c0bc5",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4726,6 +5207,7 @@
       "friendlyName": "Mid Hudson Valley FCU"
     },
     {
+      "uuid": "eda38599-2d09-4093-93d0-65ff15b2fb70",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4735,6 +5217,7 @@
       "friendlyName": "Mid Oregon Federal Credit Union"
     },
     {
+      "uuid": "2f95c421-1405-4bf5-bc25-4788d99cd458",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4744,6 +5227,7 @@
       "friendlyName": "Mid-Atlantic FCU Credit Card"
     },
     {
+      "uuid": "6b75bcc5-d309-4e3e-8153-e993ae4a3c89",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4753,6 +5237,7 @@
       "friendlyName": "Midland States Bank IB"
     },
     {
+      "uuid": "3509a466-64c1-4673-8edb-b7a2e8ca9da0",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4762,6 +5247,7 @@
       "friendlyName": "Mifflinburg Bank & Trust DC"
     },
     {
+      "uuid": "730761ce-87f0-45dc-90af-f4782b0f9180",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4771,6 +5257,7 @@
       "friendlyName": "Mile High FCUButte, MT"
     },
     {
+      "uuid": "a92b78f2-357c-433c-a7e2-5917e446c80c",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -4780,6 +5267,7 @@
       "friendlyName": "Minnesota Valley FCU"
     },
     {
+      "uuid": "41ad95fb-0224-4df2-b4f4-0757d0f565fe",
       "fidOrg": "MSevenTwentyTwo",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4789,6 +5277,7 @@
       "friendlyName": "Mohave State Bank"
     },
     {
+      "uuid": "2a91855b-1be8-4179-a564-30f5c9992767",
       "fidOrg": "MZeroFiveSix",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -4798,6 +5287,7 @@
       "friendlyName": "Montgomery Bank"
     },
     {
+      "uuid": "f9b11816-426b-4e07-8036-bab4ffaff32f",
       "fidOrg": "msdw.com",
       "url": "https://ofx.morganstanleyclientserv.com/ofx/QuickenWin.ofx",
       "ssl": [],
@@ -4807,6 +5297,7 @@
       "friendlyName": "Morgan Stanley - Cash Management"
     },
     {
+      "uuid": "e905797a-a629-4b11-8bea-12d16a94dd42",
       "fidOrg": "msdw.com",
       "url": "https://ofx.morganstanleyclientserv.com/ofx/QuickenWinProfile.ofx",
       "ssl": [],
@@ -4816,6 +5307,7 @@
       "friendlyName": "Morgan Stanley Wealth Management"
     },
     {
+      "uuid": "8b9c1ca5-328e-4636-b0b0-e2f97ab4b455",
       "fidOrg": "MACU",
       "url": "https://m.macu.com/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -4829,6 +5321,7 @@
       "friendlyName": "Mountain America CU - Direct"
     },
     {
+      "uuid": "d931cf0c-f9fd-414e-abbc-128db6a24a92",
       "fidOrg": "NASAFCUDC",
       "url": "https://ofx.nasafcu.com/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -4838,6 +5331,7 @@
       "friendlyName": "NASA FCU - Direct Connect"
     },
     {
+      "uuid": "ad766c7f-290e-4eac-8c2d-af92ec1f5373",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4847,6 +5341,7 @@
       "friendlyName": "Nassau Educators FCU Quicken"
     },
     {
+      "uuid": "e8a0bebb-3ee7-4876-a6a9-06b3b3010239",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -4860,6 +5355,7 @@
       "friendlyName": "National Bank of Commerce-Direct"
     },
     {
+      "uuid": "4eeb2fae-2f1a-4a63-a213-d88a8dd1a0fa",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4869,6 +5365,7 @@
       "friendlyName": "Navigant Credit Union"
     },
     {
+      "uuid": "77108754-350b-4d32-a594-744d9cc53b20",
       "fidOrg": "USERS",
       "url": "https://mybranch.navyarmyCCU.com/scripts/isaofx.dll",
       "ssl": [
@@ -4882,6 +5379,7 @@
       "friendlyName": "Navy Army Community Credit Union"
     },
     {
+      "uuid": "3f30eb6d-d133-4844-9718-c988e1d0a02b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4891,6 +5389,7 @@
       "friendlyName": "Needham Bank - DC"
     },
     {
+      "uuid": "4bdf5709-4b48-48c9-9eb1-363d1a884037",
       "fidOrg": "Intuit Financial Services",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4900,6 +5399,7 @@
       "friendlyName": "Net Bank"
     },
     {
+      "uuid": "f27454ea-2b08-46c1-a8a2-057d05d91849",
       "fidOrg": "NXC",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -4909,6 +5409,7 @@
       "friendlyName": "NetXInvestor"
     },
     {
+      "uuid": "11ff707b-910e-484f-affe-42a05d60af87",
       "fidOrg": "295-3",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04680.ofx",
       "ssl": [],
@@ -4918,6 +5419,7 @@
       "friendlyName": "Nevada State Bank - Direct"
     },
     {
+      "uuid": "6eb620c1-5c02-455c-84bb-1a6f6e3a33b0",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4927,6 +5429,7 @@
       "friendlyName": "New England FCU"
     },
     {
+      "uuid": "9a50da63-ec60-40c6-9620-2ce27852167c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4936,6 +5439,7 @@
       "friendlyName": "Newburyport 5Cents Sv Bank"
     },
     {
+      "uuid": "958ea3d4-353d-4ed8-840b-186b31cb075a",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -4949,6 +5453,7 @@
       "friendlyName": "Newtown Savings Bank"
     },
     {
+      "uuid": "0b247d99-7479-41a1-8139-28e7c75eee79",
       "fidOrg": "FundsXpress Financial Network",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -4958,6 +5463,7 @@
       "friendlyName": "NexBank"
     },
     {
+      "uuid": "775e067a-be2f-4356-93d8-0c99a83d4440",
       "fidOrg": "NEXT Holdings, Inc",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -4967,6 +5473,7 @@
       "friendlyName": "NEXT Financial Group, Inc"
     },
     {
+      "uuid": "6f72624c-1d9a-4cc1-a3bc-829d1ff01fa7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -4976,6 +5483,7 @@
       "friendlyName": "NIH Federal Credit Union"
     },
     {
+      "uuid": "769d9a3c-7773-4e4b-9add-48062be5549e",
       "fidOrg": "NWM",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -4985,6 +5493,7 @@
       "friendlyName": "NMIS, LLC"
     },
     {
+      "uuid": "a3c30f65-96ca-4f34-b3ec-3f2a37093ead",
       "fidOrg": "870",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -4994,6 +5503,7 @@
       "friendlyName": "Northbrook Bank & Trust"
     },
     {
+      "uuid": "03b4a1a1-2c8f-4663-8612-72e4f7e1cd9c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5003,6 +5513,7 @@
       "friendlyName": "NorthCountry FCU"
     },
     {
+      "uuid": "514adc2a-09d6-4797-91b2-c310f9de29bb",
       "fidOrg": "Northern Trust",
       "url": "https://ofx.ntrs.com/nta/ofxservlet",
       "ssl": [],
@@ -5012,6 +5523,7 @@
       "friendlyName": "Northern Trust - Banking"
     },
     {
+      "uuid": "8830791a-e16e-47d4-8316-eff07160152f",
       "fidOrg": "Northern Trust",
       "url": "https://ofx.ntrs.com/nta/ofxservlet?accounttypegroup=INV",
       "ssl": [],
@@ -5021,6 +5533,7 @@
       "friendlyName": "Northern Trust - Investments"
     },
     {
+      "uuid": "e1032120-595f-4780-a488-4b85b2f66920",
       "fidOrg": "Northwestern Mutual Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -5030,6 +5543,7 @@
       "friendlyName": "Northwestern Mutual Credit Union"
     },
     {
+      "uuid": "573cf205-3956-49f5-b956-b9090c9517b7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5039,6 +5553,7 @@
       "friendlyName": "Notre Dame Community FCU"
     },
     {
+      "uuid": "683cffb3-a086-4f3e-ba1d-76a1b1c411bc",
       "fidOrg": "Nutmeg State FCU",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5048,6 +5563,7 @@
       "friendlyName": "Nutmeg State FCU"
     },
     {
+      "uuid": "945f3a06-ef85-4077-885c-f35349910bbf",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5057,6 +5573,7 @@
       "friendlyName": "NuVision FCU"
     },
     {
+      "uuid": "cfbf2234-8750-408d-a628-9ff1317ddc80",
       "fidOrg": "MEIGHTEIGHTFOUR",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5066,6 +5583,7 @@
       "friendlyName": "Oak Bank - WI"
     },
     {
+      "uuid": "a6739c76-3973-45d1-9362-ce9ca20b0e8a",
       "fidOrg": "oakmark",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=714001012001710",
       "ssl": [
@@ -5079,6 +5597,7 @@
       "friendlyName": "Oakmark Funds"
     },
     {
+      "uuid": "578d9ddd-5562-4f21-bbf7-4526608456dc",
       "fidOrg": "FundsXpress, Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -5088,6 +5607,7 @@
       "friendlyName": "Oakworth Capital Bank"
     },
     {
+      "uuid": "062f91d3-f0f1-4062-a1bd-b82db2491921",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5097,6 +5617,7 @@
       "friendlyName": "OceanFirst Bank"
     },
     {
+      "uuid": "eeba1c56-282a-4b21-92ad-ceb21951d115",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5106,6 +5627,7 @@
       "friendlyName": "Ohio Healthcare FCU"
     },
     {
+      "uuid": "69c1e460-1761-4e47-88d8-5cbbf62254ed",
       "fidOrg": "Ohio University CU",
       "url": "https://mobileolb.oucu.org/ofx/ofxserver.aspx",
       "ssl": [
@@ -5119,6 +5641,7 @@
       "friendlyName": "Ohio University CU"
     },
     {
+      "uuid": "3d7f2a6e-b5b0-45b4-bbaa-dc36b61dfc1e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5128,6 +5651,7 @@
       "friendlyName": "Old National"
     },
     {
+      "uuid": "207d8b1d-27c8-417e-9705-894adb00b040",
       "fidOrg": "924",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5137,6 +5661,7 @@
       "friendlyName": "Old Plank Trail Community Bank"
     },
     {
+      "uuid": "5cbd14f9-aad0-47c5-8706-6c841935ac69",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5146,6 +5671,7 @@
       "friendlyName": "Olmsted National Bank"
     },
     {
+      "uuid": "3c27503b-d9f0-49d5-904f-3389277eb682",
       "fidOrg": "PSI",
       "url": "https://ssl8.onenevada.org/OFXDirect/OFXRqst.aspx",
       "ssl": [
@@ -5159,6 +5685,7 @@
       "friendlyName": "One Nevada CU - DC"
     },
     {
+      "uuid": "2082813b-e3a4-4320-85ef-934a51ec1b76",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5168,6 +5695,7 @@
       "friendlyName": "OneAZ Credit Union"
     },
     {
+      "uuid": "c13b525c-fec1-40f7-b896-c39fb77d540d",
       "fidOrg": "324",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5177,6 +5705,7 @@
       "friendlyName": "OneWest Bank"
     },
     {
+      "uuid": "d0febe1b-ed0a-453e-b5da-5546f2bb1393",
       "fidOrg": "OPCU",
       "url": "https://ofx-prod.onpointcudigital.com/ofx/process.ofx",
       "ssl": [
@@ -5190,6 +5719,7 @@
       "friendlyName": "OnPoint Community CU - Direct"
     },
     {
+      "uuid": "024a8a8e-e5de-41e3-b5e3-85130a7f9ef6",
       "fidOrg": "Oppenheimer",
       "url": "https://ofx.opco.com/eftxweb/access.ofx",
       "ssl": [
@@ -5203,6 +5733,7 @@
       "friendlyName": "Oppenheimer & Co. Inc."
     },
     {
+      "uuid": "a60e620b-90f2-4fa8-b6a4-a83fa40d724d",
       "fidOrg": "oppenheimerfunds.com",
       "url": "https://webofx.oppenheimerfunds.com/eftxweb/access.ofx",
       "ssl": [
@@ -5216,6 +5747,7 @@
       "friendlyName": "OppenheimerFunds, Inc"
     },
     {
+      "uuid": "964e205c-c057-4c71-a424-e4b5540fa118",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -5229,6 +5761,7 @@
       "friendlyName": "Optima Bank & Trust"
     },
     {
+      "uuid": "6dceb8aa-7ec2-4373-b2a9-61196aefd7c4",
       "fidOrg": "MEightSevenSix",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5238,6 +5771,7 @@
       "friendlyName": "Opus Bank"
     },
     {
+      "uuid": "194a965d-d707-4e42-92dc-0d5d3b7e8042",
       "fidOrg": "tiaaoregon",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=b1908000027141704061413",
       "ssl": [
@@ -5251,6 +5785,7 @@
       "friendlyName": "Oregon College Savings Plan"
     },
     {
+      "uuid": "7b288ded-6a58-47c6-bc53-6f61329e8489",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5260,6 +5795,7 @@
       "friendlyName": "Oregon Community Bank & Trust W"
     },
     {
+      "uuid": "ff345f19-d1ed-43ce-a5d0-9e884f49999d",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5269,6 +5805,7 @@
       "friendlyName": "Oregon State Credit Union"
     },
     {
+      "uuid": "994b7922-dd57-4a0f-8701-a7e610ceea70",
       "fidOrg": "144",
       "url": "https://pfm.metavante.com/ofx/",
       "ssl": [],
@@ -5278,6 +5815,7 @@
       "friendlyName": "Origin Bank-PFM"
     },
     {
+      "uuid": "bbdd359d-d25f-457e-b119-797052b74a23",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5287,6 +5825,7 @@
       "friendlyName": "Otter Tail CU"
     },
     {
+      "uuid": "01399732-a9cd-4c61-b061-980e435140b7",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5296,6 +5835,7 @@
       "friendlyName": "Pacific Crest Savings Bank"
     },
     {
+      "uuid": "1c7a50bc-4f9c-4d76-91b1-376bd37b73df",
       "fidOrg": "mfis-7113",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5305,6 +5845,7 @@
       "friendlyName": "Pacific Premier Bank - OLB DC"
     },
     {
+      "uuid": "5cdb1398-0e7f-4d1b-a3f1-e17e218f430d",
       "fidOrg": "bib100846",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5314,6 +5855,7 @@
       "friendlyName": "Pacific Premier BeB Direct"
     },
     {
+      "uuid": "ff244037-851b-442b-8758-ba20290c2105",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -5327,6 +5869,7 @@
       "friendlyName": "Park Sterling Bank - BP"
     },
     {
+      "uuid": "8e647575-6561-4736-9293-562ff97db88f",
       "fidOrg": "Patelco Credit Union",
       "url": "https://ofx.patelco.org",
       "ssl": [
@@ -5340,6 +5883,7 @@
       "friendlyName": "Patelco Credit Union"
     },
     {
+      "uuid": "512c0d50-7d4a-4fab-9cc7-45cd329535ef",
       "fidOrg": "tiaaga",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270600",
       "ssl": [
@@ -5353,6 +5897,7 @@
       "friendlyName": "Path2College 529 Plan"
     },
     {
+      "uuid": "881949cc-1faa-4cd1-8d36-488f16a709b9",
       "fidOrg": "136",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5362,6 +5907,7 @@
       "friendlyName": "People's United Bank - CT"
     },
     {
+      "uuid": "fd12a8e6-a3a9-4653-b369-1b0c3fef3c95",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -5371,6 +5917,7 @@
       "friendlyName": "Peoples Bank NC"
     },
     {
+      "uuid": "6facce2f-bac3-408e-a174-5a3ebc31157a",
       "fidOrg": "IMS",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -5380,6 +5927,7 @@
       "friendlyName": "Pershing Advisor Solutions"
     },
     {
+      "uuid": "175208bb-5a1f-4000-beab-0594c062ab12",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5389,6 +5937,7 @@
       "friendlyName": "Philadelphia Federal Credit Union"
     },
     {
+      "uuid": "c95b6907-48cd-4804-9110-d3e97ff392d1",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5398,6 +5947,7 @@
       "friendlyName": "Pigeon Falls State Bank"
     },
     {
+      "uuid": "df8e00c6-75fd-405a-afd2-64c7b4e73be7",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -5411,6 +5961,7 @@
       "friendlyName": "Pilot Bank"
     },
     {
+      "uuid": "6e73358a-9199-4770-a3b3-f989e805cc60",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5420,6 +5971,7 @@
       "friendlyName": "Pineland State Bank"
     },
     {
+      "uuid": "b7a25229-776e-42f6-8dd4-ca83697c75bb",
       "fidOrg": "PinnacleBankNebraska",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5429,6 +5981,7 @@
       "friendlyName": "Pinnacle Bank Nebraska"
     },
     {
+      "uuid": "3b41532d-b71c-4409-801f-130e578c20c7",
       "fidOrg": "TwoTwoThreeOneNEBO",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5438,6 +5991,7 @@
       "friendlyName": "Pinnacle Bank Nebraska Business"
     },
     {
+      "uuid": "b95d34a4-d6ff-4ec2-9884-9de57695507f",
       "fidOrg": "ThreeFiveZeroSeven",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5447,6 +6001,7 @@
       "friendlyName": "Pinnacle Bank Sioux City"
     },
     {
+      "uuid": "484e5523-e6e4-4c80-a17c-39c2f3c4a57d",
       "fidOrg": "TwoTwoThreeOneIABO",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5456,6 +6011,7 @@
       "friendlyName": "Pinnacle Bank Sioux City Business"
     },
     {
+      "uuid": "c9b9a263-730d-4bf3-a5f2-f8be39a5f635",
       "fidOrg": "PinnacleBankTexas",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5465,6 +6021,7 @@
       "friendlyName": "Pinnacle Bank Texas"
     },
     {
+      "uuid": "41bf1d64-7569-4161-a5c7-330e95d9c7cb",
       "fidOrg": "TwoTwoThreeOneTXBO",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5474,6 +6031,7 @@
       "friendlyName": "Pinnacle Bank Texas Business"
     },
     {
+      "uuid": "6ae0b9f4-1627-42f8-b138-fc6c12afd8b1",
       "fidOrg": "PinnacleBankWyoming",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5483,6 +6041,7 @@
       "friendlyName": "Pinnacle Bank Wyoming"
     },
     {
+      "uuid": "6940e67f-1200-4bb8-bcf4-3c07bf61daee",
       "fidOrg": "TwoTwoThreeOneWYBO",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5492,6 +6051,7 @@
       "friendlyName": "Pinnacle Bank Wyoming Business"
     },
     {
+      "uuid": "1e65e28d-47f9-445b-81eb-b971b1c86e63",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -5501,6 +6061,7 @@
       "friendlyName": "Pinnacle Financial Partners"
     },
     {
+      "uuid": "0c9fadef-363c-4bea-9c6c-342493014115",
       "fidOrg": "PTwoZeroThree",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5510,6 +6071,7 @@
       "friendlyName": "Pinnacle Bank, GA"
     },
     {
+      "uuid": "b18e80f8-a4f9-4ad7-95d4-4d90ae1bca7a",
       "fidOrg": "PTwoOneNine",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5519,6 +6081,7 @@
       "friendlyName": "Plains Commerce Bank Retail"
     },
     {
+      "uuid": "e05d8822-23ec-4787-9c96-4b5c75ed3279",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04501.ofx",
       "ssl": [],
@@ -5528,6 +6091,7 @@
       "friendlyName": "PNC Bank - Direct Connect"
     },
     {
+      "uuid": "29b83bea-f4e6-4ef9-8b80-bb92512aafce",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5537,6 +6101,7 @@
       "friendlyName": "Point Breeze Credit Union Direct"
     },
     {
+      "uuid": "bb0bc638-1e79-4cc9-af8b-10e3ecaa30f7",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5546,6 +6111,7 @@
       "friendlyName": "Power Financial Credit Union"
     },
     {
+      "uuid": "f6c243a2-e749-403c-b969-5b2ca88f3577",
       "fidOrg": "Prairie Federal CU",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5555,6 +6121,7 @@
       "friendlyName": "Prairie Federal CU"
     },
     {
+      "uuid": "a4a1c063-8612-4048-ac34-f98796bb93bc",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5564,6 +6131,7 @@
       "friendlyName": "Premier America CU - DC"
     },
     {
+      "uuid": "b0e64b76-f11f-4ce2-91c3-4ef2c171a147",
       "fidOrg": "olb-3386",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5573,6 +6141,7 @@
       "friendlyName": "Premier Bank Maplewood- DC"
     },
     {
+      "uuid": "2e5a618c-4cc7-4799-9840-6fe0a96238ee",
       "fidOrg": "olb-3396",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5582,6 +6151,7 @@
       "friendlyName": "Premier Bank Minnesota - DC"
     },
     {
+      "uuid": "d371c73e-0d69-4068-b4aa-a233076ff0c1",
       "fidOrg": "olb-3397",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5591,6 +6161,7 @@
       "friendlyName": "Premier Bank Rochester - DC"
     },
     {
+      "uuid": "9d600a8e-d08f-422a-b242-1d1605b7a8c3",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5600,6 +6171,7 @@
       "friendlyName": "Presidential Bank, FSB"
     },
     {
+      "uuid": "c93487c1-ffa3-403f-9e76-d86fe3626762",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5609,6 +6181,7 @@
       "friendlyName": "Presidio Pers & Small Bus eBanking"
     },
     {
+      "uuid": "c045e21e-17c3-44d8-9ac1-3b2affe37307",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5618,6 +6191,7 @@
       "friendlyName": "PrimeWay Federal Credit Union"
     },
     {
+      "uuid": "c350d542-2b7e-4004-a199-acc44a1ea58c",
       "fidOrg": "Principal Financial Group",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -5627,6 +6201,7 @@
       "friendlyName": "Principal Financial Group"
     },
     {
+      "uuid": "17593fa8-3528-45f0-b7fe-cceac766f789",
       "fidOrg": "principal",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722120617142015",
       "ssl": [
@@ -5640,6 +6215,7 @@
       "friendlyName": "Principal Funds"
     },
     {
+      "uuid": "45fea30b-918d-4cc7-b1f5-4fcad0a4ae1a",
       "fidOrg": "mfis-7108",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5649,6 +6225,7 @@
       "friendlyName": "Progress Bank and Trust - Busine"
     },
     {
+      "uuid": "979b25b4-a54e-4c5b-a28a-4b735f7f216e",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -5658,6 +6235,7 @@
       "friendlyName": "Prosperity Bank-TX"
     },
     {
+      "uuid": "97d53175-13e1-4dfa-9b13-d725a74f4187",
       "fidOrg": "Prudential Retirement Services",
       "url": "https://ofx.prudential.com/eftxweb/EFTXWebRedirector",
       "ssl": [],
@@ -5667,6 +6245,7 @@
       "friendlyName": "Prudential Retirement - 401k/403b/457"
     },
     {
+      "uuid": "92527ad8-42db-4385-8f76-7b71b99804b9",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -5680,6 +6259,7 @@
       "friendlyName": "Puget Sound Bank"
     },
     {
+      "uuid": "7928736c-4849-4c89-97b6-38e5be0c2c9f",
       "fidOrg": "QUALSTARCU",
       "url": "https://ofx.qualstarcu.com/OFXServer/ofxsrvr.dll",
       "ssl": [
@@ -5693,6 +6273,7 @@
       "friendlyName": "Qualstar Credit Union"
     },
     {
+      "uuid": "ce366df9-b8b3-4a11-90e0-182a6563a82a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5702,6 +6283,7 @@
       "friendlyName": "Queensborough National Bank & Tr"
     },
     {
+      "uuid": "5ce17c55-f775-4dd4-9eeb-35edcd7820cf",
       "fidOrg": "Intuit",
       "url": "https://ofx.etrade.com/cgi-ofx/etradeofx",
       "ssl": [
@@ -5715,6 +6297,7 @@
       "friendlyName": "E*TRADE FINANCIAL - Mortgage"
     },
     {
+      "uuid": "3b4e3c1e-1a59-4aca-9f66-bc88831fbe46",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5724,6 +6307,7 @@
       "friendlyName": "Quincy Credit Union"
     },
     {
+      "uuid": "2ba84509-4db1-426f-b889-954795543aa5",
       "fidOrg": "RBC Dain Rauscher",
       "url": "https://ofx.rbc.com",
       "ssl": [],
@@ -5733,6 +6317,7 @@
       "friendlyName": "RBC Wealth Management"
     },
     {
+      "uuid": "5149ba00-0b50-41be-a404-afc3135aa120",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -5742,6 +6327,7 @@
       "friendlyName": "Reading Cooperative Bank"
     },
     {
+      "uuid": "190f3159-1d18-49f7-a5dd-c9162821780d",
       "fidOrg": "Weyerhaeuser Employees' CU",
       "url": "https://mobile.redcanoecu.com/OFX/OFXServer.aspx",
       "ssl": [
@@ -5755,6 +6341,7 @@
       "friendlyName": "Red Canoe Credit Union"
     },
     {
+      "uuid": "c3440259-5ef9-4304-aa44-544eb16d1e62",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5764,6 +6351,7 @@
       "friendlyName": "Redstone Federal Credit Union"
     },
     {
+      "uuid": "82ee578e-77d2-4631-acca-c09e30dd57d7",
       "fidOrg": "Identity-RFG",
       "url": "https://onlinebanking.regions.com/Ofx/process.ofx",
       "ssl": [
@@ -5777,6 +6365,7 @@
       "friendlyName": "Regions Bank"
     },
     {
+      "uuid": "cd5c5435-95b9-4cbc-9c94-4b4219cda72c",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5786,6 +6375,7 @@
       "friendlyName": "Reliance State Bank"
     },
     {
+      "uuid": "f942dec9-ad74-4a43-b053-69293bf54e20",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5795,6 +6385,7 @@
       "friendlyName": "Reliant Community Federal CU"
     },
     {
+      "uuid": "9282a012-74af-435b-a10c-8f8fe7fc96a4",
       "fidOrg": "Metavante CIB",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5804,6 +6395,7 @@
       "friendlyName": "Renasant Direct Connect QN"
     },
     {
+      "uuid": "919cf28a-2596-4fa7-b8ad-48b2f05a1f4c",
       "fidOrg": "MFSEMPLOYEE",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=3120518",
       "ssl": [
@@ -5817,6 +6409,7 @@
       "friendlyName": "Retirement Access - Employee"
     },
     {
+      "uuid": "a147647d-ee9d-4a7a-8340-6e306d93129d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5826,6 +6419,7 @@
       "friendlyName": "RichfieldBloomington Credit Union"
     },
     {
+      "uuid": "ef25a219-13f8-40b0-ac76-5b9879fb9145",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5835,6 +6429,7 @@
       "friendlyName": "Richland FCU"
     },
     {
+      "uuid": "a98de4c0-9765-4feb-a13b-36c9744d5001",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -5848,6 +6443,7 @@
       "friendlyName": "River Bank & Trust"
     },
     {
+      "uuid": "5766760f-17b0-47b3-9baf-fda51629bb9f",
       "fidOrg": "MY CREDIT UNION",
       "url": "https://rivertown.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -5857,6 +6453,7 @@
       "friendlyName": "Rivertown Community FCU"
     },
     {
+      "uuid": "34bb14fb-6b74-479f-87fd-2b993aa81a7f",
       "fidOrg": "Robert W. Baird & Co.",
       "url": "https://ofx.rwbaird.com",
       "ssl": [
@@ -5870,6 +6467,7 @@
       "friendlyName": "Robert W. Baird & Co."
     },
     {
+      "uuid": "68e28872-ae90-46da-8654-533930836c1a",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -5879,6 +6477,7 @@
       "friendlyName": "Rock Canyon Bank Utah"
     },
     {
+      "uuid": "607239e8-5e8b-4d63-8377-bc4c76a99794",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5888,6 +6487,7 @@
       "friendlyName": "Rocky Mountain Bank-Wyoming"
     },
     {
+      "uuid": "ce138d98-9d5a-4b45-a446-7f6ebc83b9ca",
       "fidOrg": "AIG Royal Alliance Associates",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -5897,6 +6497,7 @@
       "friendlyName": "Royal Alliance"
     },
     {
+      "uuid": "62aaed50-9515-4900-a5a3-6dc4a3bc42c8",
       "fidOrg": "MZeroTwoFive",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -5906,6 +6507,7 @@
       "friendlyName": "Royal Bank America"
     },
     {
+      "uuid": "5bb7705d-92ac-47ee-bc95-0ec48a62979a",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5915,6 +6517,7 @@
       "friendlyName": "Ruby Valley National Bank"
     },
     {
+      "uuid": "3a1b7bb3-a450-40c4-92f3-536ac65e2edb",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -5924,6 +6527,7 @@
       "friendlyName": "Rumson-Fair Haven Bank & Trust"
     },
     {
+      "uuid": "c0acc931-e151-40b3-927b-4e94fbffe56b",
       "fidOrg": "368",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5933,6 +6537,7 @@
       "friendlyName": "S&T Bank - Direct Connect"
     },
     {
+      "uuid": "92d5522c-493a-48a5-a32c-f750e2d50d90",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -5942,6 +6547,7 @@
       "friendlyName": "SAFE Credit Union"
     },
     {
+      "uuid": "0db4e2e3-6eff-47db-8bac-4cbbbd058d8c",
       "fidOrg": "USERS",
       "url": "https://safenet.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -5951,6 +6557,7 @@
       "friendlyName": "SAFE Federal Credit Union"
     },
     {
+      "uuid": "78115d89-41a0-468f-ba75-5d834295d5ee",
       "fidOrg": "126",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5960,6 +6567,7 @@
       "friendlyName": "Salem Five Bank - Online Banking"
     },
     {
+      "uuid": "dee090d2-ffe5-40de-80c4-e8b0d9fe5146",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -5973,6 +6581,7 @@
       "friendlyName": "Salisbury Bank"
     },
     {
+      "uuid": "8a49a375-38b4-4c0d-8a9d-007edb4788b4",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -5982,6 +6591,7 @@
       "friendlyName": "Savings Institute Bank and Trust"
     },
     {
+      "uuid": "ba0a4cc0-46c4-4ed0-bc51-62e6fb1dc9b8",
       "fidOrg": "clk-3436",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -5991,6 +6601,7 @@
       "friendlyName": "Savoy Bank_DC"
     },
     {
+      "uuid": "6152e65f-08c5-450d-add4-20bda12a86b2",
       "fidOrg": "318",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6000,6 +6611,7 @@
       "friendlyName": "Schaumburg Bank & Trust Company"
     },
     {
+      "uuid": "0733a165-fe91-425d-be5e-bd292dcc936a",
       "fidOrg": "tiaaca",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=719080000270200",
       "ssl": [
@@ -6013,6 +6625,7 @@
       "friendlyName": "ScholarShare College Savings Plan"
     },
     {
+      "uuid": "c357c204-01cd-47c9-b52d-7c34f9d2bfeb",
       "fidOrg": "SchwabRPS",
       "url": "https://ofx.schwab.com/rps/ofx_server",
       "ssl": [
@@ -6026,6 +6639,7 @@
       "friendlyName": "Schwab Retirement Plan Services"
     },
     {
+      "uuid": "d3460181-9fe9-4d1e-903c-976e2cb63eb6",
       "fidOrg": "Scottrade",
       "url": "https://ofx.scottrade.com",
       "ssl": [
@@ -6039,6 +6653,7 @@
       "friendlyName": "Scottrade"
     },
     {
+      "uuid": "1c242f95-a842-45f2-99e1-22d0840a5016",
       "fidOrg": "Scottrade Bank",
       "url": "https://ofx.scottrade.com",
       "ssl": [
@@ -6052,6 +6667,7 @@
       "friendlyName": "Scottrade Bank"
     },
     {
+      "uuid": "d1dd8f6f-c059-4376-a93b-cf26bed4c20a",
       "fidOrg": "422",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6061,6 +6677,7 @@
       "friendlyName": "Seacoast National Bank DC"
     },
     {
+      "uuid": "b972a74d-6f34-4391-bf33-d0e9831ba801",
       "fidOrg": "CITIGROUP",
       "url": "https://www.accountonline.com/cards/svc/CitiOfxManager.do",
       "ssl": [],
@@ -6070,6 +6687,7 @@
       "friendlyName": "Sears Card"
     },
     {
+      "uuid": "87ce7a11-d6d7-48fb-ae8a-3ad7b5f1df6c",
       "fidOrg": "Securian Financial Services, Inc",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -6079,6 +6697,7 @@
       "friendlyName": "Securian Financial Services, Inc."
     },
     {
+      "uuid": "c646a9c9-05e4-47f0-b402-44118505bff6",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6088,6 +6707,7 @@
       "friendlyName": "Security State Bank - Marine"
     },
     {
+      "uuid": "d7161ba1-a9b8-4921-9384-c204a82b697d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6097,6 +6717,7 @@
       "friendlyName": "Security State Bank Lewiston"
     },
     {
+      "uuid": "7f4081c1-e464-4764-8311-b53d8f4356f8",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6106,6 +6727,7 @@
       "friendlyName": "Securityplus FCU"
     },
     {
+      "uuid": "d1bafc6d-9d70-4e41-a8d2-421323813417",
       "fidOrg": "SEI",
       "url": "https://p05ofx.gws.seic.com/financial-exchange-auth/quickenOfxRequest",
       "ssl": [],
@@ -6115,6 +6737,7 @@
       "friendlyName": "SEI - AccessMyPortfolio.com"
     },
     {
+      "uuid": "144a1ec5-d4f5-4646-b9ac-5daa3ec94c5d",
       "fidOrg": "SELCO",
       "url": "https://ofx.selco.org/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6124,6 +6747,7 @@
       "friendlyName": "SELCO CCU - Direct Connect"
     },
     {
+      "uuid": "7c981191-947c-44e9-8dbb-a2f3f1dbce99",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6133,6 +6757,7 @@
       "friendlyName": "Senath State Bank Senath, MO"
     },
     {
+      "uuid": "3b53d362-c6c7-4762-9044-752bc393eaec",
       "fidOrg": "Sentinel Securities, Inc.",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -6142,6 +6767,7 @@
       "friendlyName": "Sentinel Securities, Inc ."
     },
     {
+      "uuid": "82a1b34c-c916-4a50-9598-5cb9d52abb2e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6151,6 +6777,7 @@
       "friendlyName": "Service Credit Union"
     },
     {
+      "uuid": "02e056a9-abb6-401b-9178-959ab8e99d60",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -6164,6 +6791,7 @@
       "friendlyName": "ServisFirst Bank"
     },
     {
+      "uuid": "c1e7f8f0-ec4b-4f59-84f4-abf3b9929d4c",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6173,6 +6801,7 @@
       "friendlyName": "Share Advantage CU Duluth, MN"
     },
     {
+      "uuid": "05258e07-16fa-4f3a-ab16-0c61aee88024",
       "fidOrg": "Shareholders Service Group, Inc.",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -6182,6 +6811,7 @@
       "friendlyName": "Shareholders Service Group, Inc."
     },
     {
+      "uuid": "83177f10-128b-445e-b194-97bf9e43dae6",
       "fidOrg": "1477",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6191,6 +6821,7 @@
       "friendlyName": "Sharonview Federal CU"
     },
     {
+      "uuid": "cae36638-8dfc-4e74-a060-7545a57f00b3",
       "fidOrg": "USERS",
       "url": "https://sccupcu.com/scripts/isaofx.dll",
       "ssl": [
@@ -6204,6 +6835,7 @@
       "friendlyName": "Sierra Central Credit Union"
     },
     {
+      "uuid": "5d00719d-78e2-4166-9c67-7a384d86bc62",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -6217,6 +6849,7 @@
       "friendlyName": "Signature Bank - Minnetonka, MN"
     },
     {
+      "uuid": "71a55fcd-ae20-4682-bd4b-2839c336c09f",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6226,6 +6859,7 @@
       "friendlyName": "Sikorsky Credit Union"
     },
     {
+      "uuid": "479deb9a-9234-4dce-8b45-511beba76df9",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6235,6 +6869,7 @@
       "friendlyName": "Silver State Schools Credit Union"
     },
     {
+      "uuid": "17e2a6d5-d25b-4ec5-b9b2-6ebafb734633",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6244,6 +6879,7 @@
       "friendlyName": "SMW 104  FCU San Leandro, CA"
     },
     {
+      "uuid": "6054af98-6cbb-4a0b-a04e-d4b1109623af",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6253,6 +6889,7 @@
       "friendlyName": "SMW Federal Credit Union"
     },
     {
+      "uuid": "a224212a-1084-4cea-9066-0f96e5d4aab4",
       "fidOrg": "fis-7210",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6262,6 +6899,7 @@
       "friendlyName": "Sound Banking Company"
     },
     {
+      "uuid": "f7515b33-c07f-4c88-94a4-76dc40b7e29a",
       "fidOrg": "SOUNDCUDC",
       "url": "https://mb.soundcu.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6271,6 +6909,7 @@
       "friendlyName": "Sound CU"
     },
     {
+      "uuid": "b245979e-dc57-4921-afc9-7e5699350d38",
       "fidOrg": "MZeroOneZeroSCBT",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6280,6 +6919,7 @@
       "friendlyName": "South State Bank"
     },
     {
+      "uuid": "e15943d7-0047-4b52-ab8f-1163f3fe113a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6289,6 +6929,7 @@
       "friendlyName": "Southwest Bank WCDC"
     },
     {
+      "uuid": "517b4168-6d57-4640-b9b7-64dc2aa90d3b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6298,6 +6939,7 @@
       "friendlyName": "Spectrum Credit Union"
     },
     {
+      "uuid": "46df0128-a9ff-471b-bf23-cd1ad6fad789",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6307,6 +6949,7 @@
       "friendlyName": "Spokane City CU"
     },
     {
+      "uuid": "36a8e7a6-88cb-42b2-a25c-82740e308001",
       "fidOrg": "MNineOneFive",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6316,6 +6959,7 @@
       "friendlyName": "Spring Bank"
     },
     {
+      "uuid": "e8ecc3e4-d83f-4c40-8df0-450c536236b5",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -6329,6 +6973,7 @@
       "friendlyName": "Springfield First Community"
     },
     {
+      "uuid": "05dff306-539b-4844-8b23-6d3ff89decab",
       "fidOrg": "529",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6338,6 +6983,7 @@
       "friendlyName": "St Charles Bank & Trust Company"
     },
     {
+      "uuid": "4c2550e8-f41e-4b1f-95d7-a21366eb7d29",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/06507.ofx",
       "ssl": [],
@@ -6347,6 +6993,7 @@
       "friendlyName": "Standard Federal Bank Mortgage"
     },
     {
+      "uuid": "2ab2298d-d6f8-49f3-904e-808d34156d25",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6356,6 +7003,7 @@
       "friendlyName": "Standard Register FCU"
     },
     {
+      "uuid": "49ce66cc-c79e-4810-948b-4561c8147089",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6365,6 +7013,7 @@
       "friendlyName": "Standing Stone Bank"
     },
     {
+      "uuid": "38737368-faef-4797-a6a4-006b6f966127",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6374,6 +7023,7 @@
       "friendlyName": "Stanley Bank"
     },
     {
+      "uuid": "436f6125-658a-48c6-9eb9-e6463f4bee6b",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6383,6 +7033,7 @@
       "friendlyName": "Star Bank"
     },
     {
+      "uuid": "dda0f736-8299-4e59-8a02-4e431c9c6c93",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6392,6 +7043,7 @@
       "friendlyName": "Star Choice Credit Union"
     },
     {
+      "uuid": "1362c1d2-59fd-4184-992b-70af0abbb552",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -6405,6 +7057,7 @@
       "friendlyName": "State Bank & Trust - Macon, GA"
     },
     {
+      "uuid": "90710d59-7bfd-4f66-89fb-157111a919e4",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6414,6 +7067,7 @@
       "friendlyName": "State Bank & Trust - Nevada, IA"
     },
     {
+      "uuid": "b2c76251-e761-4f98-872b-50cbfd102868",
       "fidOrg": "State Bank of Table Rock",
       "url": "https://onlinebanking.tablerockbank.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [
@@ -6427,6 +7081,7 @@
       "friendlyName": "State Bank of Table Rock"
     },
     {
+      "uuid": "a55634aa-031f-445d-9731-1161ea634ee0",
       "fidOrg": "669",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6436,6 +7091,7 @@
       "friendlyName": "State Bank of the Lakes"
     },
     {
+      "uuid": "b4348ad9-03a7-498e-8c09-9a764e362123",
       "fidOrg": "SECU",
       "url": "https://onlineaccess.ncsecu.org/secuofx/secu.ofx",
       "ssl": [
@@ -6449,6 +7105,7 @@
       "friendlyName": "State Employees Credit Union - NC"
     },
     {
+      "uuid": "7933e844-822a-4e41-a62a-ef65ebfeaced",
       "fidOrg": "Stifel Nicolaus",
       "url": "https://directconnect.access.investor.stifel.com",
       "ssl": [],
@@ -6458,6 +7115,7 @@
       "friendlyName": "Stifel Nicolaus"
     },
     {
+      "uuid": "f14e5cd4-4ec0-482c-a504-598b207138e3",
       "fidOrg": "Stockcross",
       "url": "https://ofx.trading2.fast-trade.com",
       "ssl": [],
@@ -6467,6 +7125,7 @@
       "friendlyName": "Stockcross Financial Services"
     },
     {
+      "uuid": "7c8be220-a604-4907-a8a6-d9de99539105",
       "fidOrg": "Stone Bank",
       "url": "https://ivault.stonebank.com/ofxrequest",
       "ssl": [
@@ -6480,6 +7139,7 @@
       "friendlyName": "Stone Bank"
     },
     {
+      "uuid": "ad1bb1bb-c4ec-4f81-8f23-7470e45935f9",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -6493,6 +7153,7 @@
       "friendlyName": "Stonegate Bank"
     },
     {
+      "uuid": "98c79978-10b3-45de-9a3a-0fd70678b097",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6502,6 +7163,7 @@
       "friendlyName": "Suffolk Federal"
     },
     {
+      "uuid": "c3f5ea2e-26e0-4257-bdd7-88232f943856",
       "fidOrg": "mfis-1915",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6511,6 +7173,7 @@
       "friendlyName": "Summit Bank Panama FL - DC"
     },
     {
+      "uuid": "a14c637d-544e-4b73-9de6-aa30e689906a",
       "fidOrg": "mfis-1789",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6520,6 +7183,7 @@
       "friendlyName": "Summit State Bank - DC"
     },
     {
+      "uuid": "4894c798-ef31-4aef-8bea-81112425cf88",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6529,6 +7193,7 @@
       "friendlyName": "Sun East Federal Credit Union"
     },
     {
+      "uuid": "f0699d92-f81e-4564-aa4e-2893ebc1a74a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6538,6 +7203,7 @@
       "friendlyName": "Sun Federal Credit Union"
     },
     {
+      "uuid": "fec8d066-bfad-471a-9172-8de77a97aa57",
       "fidOrg": "SunCoast",
       "url": "https://ofx.suncoastcreditunion.com",
       "ssl": [],
@@ -6547,6 +7213,7 @@
       "friendlyName": "Suncoast Credit Union"
     },
     {
+      "uuid": "5387f25f-e25c-4f35-956c-259789aaa6cc",
       "fidOrg": "015G",
       "url": "https://ofx1.evault.ws/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -6556,6 +7223,7 @@
       "friendlyName": "Sunshine Bank"
     },
     {
+      "uuid": "66691e26-cc18-40bf-9ed1-7b45d362b76e",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/02801.ofx",
       "ssl": [],
@@ -6565,6 +7233,7 @@
       "friendlyName": "SunTrust Bank"
     },
     {
+      "uuid": "f75360f5-3503-43cf-b9ef-1031a0534125",
       "fidOrg": "mfis-7127",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6574,6 +7243,7 @@
       "friendlyName": "Surrey Bank and Trust - DC"
     },
     {
+      "uuid": "4c3480c5-5f2b-458c-b2c1-5c9cd16f8f01",
       "fidOrg": "svb.com",
       "url": "https://ofx.svbconnect.com/eftxweb/access.ofx",
       "ssl": [
@@ -6587,6 +7257,7 @@
       "friendlyName": "SVB Direct Connect"
     },
     {
+      "uuid": "46096342-1542-43b7-a428-f79da07c0b6a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6596,6 +7267,7 @@
       "friendlyName": "SVB Private Bank"
     },
     {
+      "uuid": "e16c2dd6-9999-4085-b8b1-00c5584eab71",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6605,6 +7277,7 @@
       "friendlyName": "Swineford Bank DirectConnect"
     },
     {
+      "uuid": "be6add59-8880-4e37-9011-5b6fc3685de5",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6614,6 +7287,7 @@
       "friendlyName": "Synergy FCU"
     },
     {
+      "uuid": "41fae5f0-6bfe-4ef6-a9c2-2227de123b84",
       "fidOrg": "bib101015",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6623,6 +7297,7 @@
       "friendlyName": "T Bank Business eBanking - DC"
     },
     {
+      "uuid": "c7a18aff-925b-46c4-95a4-96272427863b",
       "fidOrg": "T. Rowe Price",
       "url": "https://www3.troweprice.com/ffs/ffsweb/OFXServlet",
       "ssl": [
@@ -6636,6 +7311,7 @@
       "friendlyName": "T. Rowe Price"
     },
     {
+      "uuid": "dc67a79a-1669-45ae-b853-7b6c43906031",
       "fidOrg": "TRP",
       "url": "https://ofx.netxclient.com/cgi/OFXNetx",
       "ssl": [],
@@ -6645,6 +7321,7 @@
       "friendlyName": "T. Rowe Price Brokerage"
     },
     {
+      "uuid": "8a028279-5954-4f0f-b11e-3b23706f879e",
       "fidOrg": "T. Rowe Price",
       "url": "https://www3.troweprice.com/ffs/ffsweb/OFXServlet",
       "ssl": [
@@ -6658,6 +7335,7 @@
       "friendlyName": "T. Rowe Price Retirement Plans"
     },
     {
+      "uuid": "ce398d0d-2b79-49a9-b5de-dc763675bfaa",
       "fidOrg": "TangerineBank",
       "url": "https://ofx.tangerine.ca",
       "ssl": [
@@ -6671,6 +7349,7 @@
       "friendlyName": "Tangerine"
     },
     {
+      "uuid": "2b475fff-1341-4266-9577-b043c4111809",
       "fidOrg": "MDNC",
       "url": "https://ofxs.ameritrade.com/cgi-bin/apps/OFX",
       "ssl": [],
@@ -6680,6 +7359,7 @@
       "friendlyName": "TD Ameritrade"
     },
     {
+      "uuid": "ffa63086-9a81-404f-b1e0-e71903b121bf",
       "fidOrg": "CommerceBank",
       "url": "https://businessofx.tdbank.com/scripts/serverext.dll",
       "ssl": [
@@ -6693,6 +7373,7 @@
       "friendlyName": "TD Bank BusinessDirect"
     },
     {
+      "uuid": "8874c9e8-17c3-45f7-91b4-ee41d48f8d01",
       "fidOrg": "TECHCUDC",
       "url": "https://m.techcu.com/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -6706,6 +7387,7 @@
       "friendlyName": "Technology Credit Union - DC"
     },
     {
+      "uuid": "a81af01d-1bf5-4450-8165-93ae69696fa4",
       "fidOrg": "TECU Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -6715,6 +7397,7 @@
       "friendlyName": "TECU Credit Union"
     },
     {
+      "uuid": "7669af4c-2912-4eb3-8a46-20eff14fae82",
       "fidOrg": "Telhio Credit Union",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6724,6 +7407,7 @@
       "friendlyName": "Telhio CU"
     },
     {
+      "uuid": "438c5647-55d7-4576-ad0c-fafe325c0f05",
       "fidOrg": "FundsXpress, Inc",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6733,6 +7417,7 @@
       "friendlyName": "Texas Citizens Bank, Pasadena"
     },
     {
+      "uuid": "904f8a6a-f7c5-4c0e-a105-a755b755fefb",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6742,6 +7427,7 @@
       "friendlyName": "Texas National Bank"
     },
     {
+      "uuid": "c7035c52-1a8a-4eb7-9af0-5b8a90142a76",
       "fidOrg": "clk-3428",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6751,6 +7437,7 @@
       "friendlyName": "Texas Security Bank"
     },
     {
+      "uuid": "2318a0e2-12a6-4979-b448-4fe3799d8cbc",
       "fidOrg": "PZeroFourZeroBO",
       "url": "https://ofx.secureinternetbank.com/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6760,6 +7447,7 @@
       "friendlyName": "Texas Security Bank-Biz Qkn DC"
     },
     {
+      "uuid": "a37bca8d-f30d-4e48-ad3f-c9219daf3ea6",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -6773,6 +7461,7 @@
       "friendlyName": "Bank of San Antonio"
     },
     {
+      "uuid": "38159529-0364-4fd7-b070-12e289b23738",
       "fidOrg": "JackHenry",
       "url": "https://directline2.netteller.com",
       "ssl": [
@@ -6786,6 +7475,7 @@
       "friendlyName": "The Berkshire Bank"
     },
     {
+      "uuid": "6eee2d3f-c387-4048-9ede-a35292caab12",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6795,6 +7485,7 @@
       "friendlyName": "The Brand Banking Co."
     },
     {
+      "uuid": "898df8da-be3d-4256-a4d6-9761d20b1eb4",
       "fidOrg": "MNineNineOne",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6804,6 +7495,7 @@
       "friendlyName": "The Business Bank STL DC-QN-QB"
     },
     {
+      "uuid": "81c4cf67-aaee-4816-a6c5-0140cd1d453d",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6813,6 +7505,7 @@
       "friendlyName": "The Citizens Bank of Winfield"
     },
     {
+      "uuid": "6ad9f450-4d52-4fcf-980f-e24b550d25de",
       "fidOrg": "fis-6183",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6822,6 +7515,7 @@
       "friendlyName": "The Coastal Bank - DC"
     },
     {
+      "uuid": "8ca37031-880f-4ae6-8b7a-261fbe64dc90",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6831,6 +7525,7 @@
       "friendlyName": "The Columbia Bank DirectConnect"
     },
     {
+      "uuid": "23576a2b-2cc2-46af-a741-caf33f84b82c",
       "fidOrg": "MEightFiveZero",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6840,6 +7535,7 @@
       "friendlyName": "The Fauquier Bank"
     },
     {
+      "uuid": "8ec3aa83-7375-499c-bf24-d5057fe9a41e",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6849,6 +7545,7 @@
       "friendlyName": "The First National Bank of Odon"
     },
     {
+      "uuid": "fe825e8f-02b2-4a45-a6c0-6951cc3dc1bb",
       "fidOrg": "Golden1",
       "url": "https://homebanking.golden1.com/process.ofx",
       "ssl": [
@@ -6862,6 +7559,7 @@
       "friendlyName": "The Golden 1 Credit Union"
     },
     {
+      "uuid": "c2cda4ff-8126-4a3a-898a-a9c2cd76c65d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6871,6 +7569,7 @@
       "friendlyName": "Goose River Bank"
     },
     {
+      "uuid": "3acc6878-3a5d-4a05-8398-d569d3900933",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6880,6 +7579,7 @@
       "friendlyName": "The Guilford Savings Bank"
     },
     {
+      "uuid": "812e25b1-a62e-4e10-9995-7e12942f3cd3",
       "fidOrg": "ICtr",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -6889,6 +7589,7 @@
       "friendlyName": "The Investment Center"
     },
     {
+      "uuid": "95789675-6731-44f4-acb7-5918fa389128",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6898,6 +7599,7 @@
       "friendlyName": "The Juniata Valley Bank"
     },
     {
+      "uuid": "53285503-30bf-40b8-9689-4861c6adcb8c",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6907,6 +7609,7 @@
       "friendlyName": "Marion Center Bank - Retail"
     },
     {
+      "uuid": "71c43a7a-e5a2-41a9-b317-22d57a550b52",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6916,6 +7619,7 @@
       "friendlyName": "The National Bank of Malvern"
     },
     {
+      "uuid": "016c872a-e831-4cfa-b983-5fb0e1493e84",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6925,6 +7629,7 @@
       "friendlyName": "The Peoples Community Bank"
     },
     {
+      "uuid": "d4fefdfd-4aa9-4df7-9f49-27e888ceda99",
       "fidOrg": "The Peoples Federal Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -6934,6 +7639,7 @@
       "friendlyName": "The Peoples Federal Credit Union"
     },
     {
+      "uuid": "49c5f74d-c795-4b8c-8901-cb9c4f48b0c3",
       "fidOrg": "992",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -6943,6 +7649,7 @@
       "friendlyName": "The PrivateBank - Chicago"
     },
     {
+      "uuid": "7810b91f-7ca6-4276-a0d4-2bd8a86c22b1",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -6952,6 +7659,7 @@
       "friendlyName": "The Security State Bank"
     },
     {
+      "uuid": "01a3e7fc-34f5-487a-a8bb-aba541f33e2a",
       "fidOrg": "INineSevenTwo",
       "url": "https://ofx1.evault.ws/ofxserver/ofxsrvr.dll",
       "ssl": [],
@@ -6961,6 +7669,7 @@
       "friendlyName": "The Shelby State Bank"
     },
     {
+      "uuid": "b617c7bb-7c61-4cfe-aa38-325e48187aa5",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -6970,6 +7679,7 @@
       "friendlyName": "The Tipton Latham Bank N.A."
     },
     {
+      "uuid": "69ffd7ba-6b71-4025-bee5-0f707894e400",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6979,6 +7689,7 @@
       "friendlyName": "The Washington Trust Company"
     },
     {
+      "uuid": "fc1b9b2e-4459-4fa9-a2b2-f3a594a8e13a",
       "fidOrg": "1143",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6988,6 +7699,7 @@
       "friendlyName": "TheBANK of Edwardsville-IL"
     },
     {
+      "uuid": "12149286-7c68-4f5b-ad79-b5b115f9e41b",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -6997,6 +7709,7 @@
       "friendlyName": "Thrivent Federal Credit Union"
     },
     {
+      "uuid": "5f930ee1-5ffd-4e44-b5e5-4f46a1e52d42",
       "fidOrg": "TIAA-CREF",
       "url": "https://ofx-service.tiaa-cref.org/public/ofx",
       "ssl": [],
@@ -7006,6 +7719,7 @@
       "friendlyName": "TIAA-CREF Brokerage Services"
     },
     {
+      "uuid": "4c33a8e0-f413-4b0f-acf5-6f8b9f76a04a",
       "fidOrg": "Q2 Software",
       "url": "https://tbonlinebanking.com/3344_directconnect/ofx.ashx",
       "ssl": [],
@@ -7015,6 +7729,7 @@
       "friendlyName": "Timberland Bank"
     },
     {
+      "uuid": "790253e6-5be4-4836-88cd-8abe0740500e",
       "fidOrg": "TopLine Federal Credit Union",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7024,6 +7739,7 @@
       "friendlyName": "TopLine Federal Credit Union"
     },
     {
+      "uuid": "5995a906-c548-4a85-886a-ea70cd344df4",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -7033,6 +7749,7 @@
       "friendlyName": "Torrington Savings Bank"
     },
     {
+      "uuid": "9373edb5-36d3-40c7-ba99-d2321af451f9",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7042,6 +7759,7 @@
       "friendlyName": "TotalBank QN"
     },
     {
+      "uuid": "05f36bdd-d353-4a04-b3ce-3ad2154b22e9",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7051,6 +7769,7 @@
       "friendlyName": "Tower Federal Credit Union"
     },
     {
+      "uuid": "c95b62f6-5ac1-4239-927f-9e16b4ea1cd9",
       "fidOrg": "118",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7060,6 +7779,7 @@
       "friendlyName": "Town Bank"
     },
     {
+      "uuid": "89786edc-0db0-4bbf-86b0-bf96568e0a97",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7069,6 +7789,7 @@
       "friendlyName": "TowneBank VA Personal & Biz"
     },
     {
+      "uuid": "0b5deaba-03a4-44ae-9b1e-268a19c6085d",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7078,6 +7799,7 @@
       "friendlyName": "Tradesmen Community CU Des Moin"
     },
     {
+      "uuid": "324ccfb9-4845-4bc7-a604-f5a741325a07",
       "fidOrg": "MTwoThreeThree",
       "url": "https://ofx1.evault.ws/OFXServer/ofxsrvr.dll",
       "ssl": [],
@@ -7087,6 +7809,7 @@
       "friendlyName": "Traverse City State Bank"
     },
     {
+      "uuid": "5962cfb9-500a-44bc-b603-29176c3dad14",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7096,6 +7819,7 @@
       "friendlyName": "Treasury Dept FCU"
     },
     {
+      "uuid": "83afea4a-891c-4cc5-a56a-2fe22918b167",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7105,6 +7829,7 @@
       "friendlyName": "Tri County Area FCU"
     },
     {
+      "uuid": "c90037f4-5187-4e7a-bd13-67cfb2f126e2",
       "fidOrg": "mfis-1739",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7114,6 +7839,7 @@
       "friendlyName": "Tri Valley Bank - DC"
     },
     {
+      "uuid": "c0226ac1-7301-4879-8f46-256b66c82aca",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -7127,6 +7853,7 @@
       "friendlyName": "Truity Credit Union"
     },
     {
+      "uuid": "d056f08d-0054-46c0-8ab1-7aec06610117",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7136,6 +7863,7 @@
       "friendlyName": "Truliant Federal Credit Union"
     },
     {
+      "uuid": "d82caf79-5bd1-4974-ac47-333c8f0e4aca",
       "fidOrg": "Two Harbors Federal Credit Union",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7145,6 +7873,7 @@
       "friendlyName": "Two Harbors Federal CU"
     },
     {
+      "uuid": "30c28db1-897e-47a3-bc57-70566c5ddd56",
       "fidOrg": "HFS Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7154,6 +7883,7 @@
       "friendlyName": "Two River Community Bank"
     },
     {
+      "uuid": "61bae238-c6f2-4be9-a218-8e95a29f1fcf",
       "fidOrg": "Intuit",
       "url": "https://ofx1.ubs.com/eftxweb/access.ofx",
       "ssl": [
@@ -7167,6 +7897,7 @@
       "friendlyName": "UBS Financial Services Inc."
     },
     {
+      "uuid": "39714b72-ebe6-4d91-9eed-527cd9e87528",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7176,6 +7907,7 @@
       "friendlyName": "UFB Direct"
     },
     {
+      "uuid": "0b49fe1d-2818-4545-9f1a-7f74ffd19197",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -7185,6 +7917,7 @@
       "friendlyName": "Ukrainian FCU"
     },
     {
+      "uuid": "d9abb85c-4ff6-4689-930d-15bb503f48c6",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7194,6 +7927,7 @@
       "friendlyName": "Ukrainian Future CU"
     },
     {
+      "uuid": "5c370cf0-e5a1-42e0-a754-49a0bc1f4d17",
       "fidOrg": "UMBOFX",
       "url": "https://ofx.umb.com/",
       "ssl": [
@@ -7207,6 +7941,7 @@
       "friendlyName": "UMB Bank"
     },
     {
+      "uuid": "ddaccd3b-82f7-49db-8a40-907560180816",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7216,6 +7951,7 @@
       "friendlyName": "UNI CU  Cedar Falls, IA"
     },
     {
+      "uuid": "125b25c7-36fb-4155-93d4-d0bd5efe74b1",
       "fidOrg": "ISC",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/02901.ofx",
       "ssl": [],
@@ -7225,6 +7961,7 @@
       "friendlyName": "Union Bank - Quicken"
     },
     {
+      "uuid": "343922a0-f937-4bed-9694-3dd124dca9d3",
       "fidOrg": "Union State Bank, Everest",
       "url": "https://secure.mybankusb.com/pages/olb.ofx.1_0_3.axd",
       "ssl": [
@@ -7238,6 +7975,7 @@
       "friendlyName": "Union State Bank, Everest"
     },
     {
+      "uuid": "c58816a4-3985-4001-b641-b4b521a586dd",
       "fidOrg": "Fidelity",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7247,6 +7985,7 @@
       "friendlyName": "United American Bank-DC"
     },
     {
+      "uuid": "6a8f72f2-c1c0-4924-b8ab-2b96bc696c35",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7256,6 +7995,7 @@
       "friendlyName": "United Bank & Trust-Marshalltown"
     },
     {
+      "uuid": "06561472-bfd0-40b0-9487-06d116012f94",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -7269,6 +8009,7 @@
       "friendlyName": "United Bank - Alabama"
     },
     {
+      "uuid": "d219575b-8a8c-479d-8e5e-352768431e0e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7278,6 +8019,7 @@
       "friendlyName": "United Community Bank - IN"
     },
     {
+      "uuid": "84bba84a-fa0e-497b-aae6-8ed46aec9c80",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7287,6 +8029,7 @@
       "friendlyName": "Universal 1 CU"
     },
     {
+      "uuid": "1460150b-fe6b-44d3-9ec4-1bf0ab74a0d2",
       "fidOrg": "USERS",
       "url": "https://ucumiami.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -7296,6 +8039,7 @@
       "friendlyName": "University Credit Union Miami"
     },
     {
+      "uuid": "992eebd0-3637-49c8-aa45-c8aa476a9faa",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7305,6 +8049,7 @@
       "friendlyName": "University FCU"
     },
     {
+      "uuid": "91c05bfb-e8e8-4ebf-ad14-ca46cc6b6f17",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -7318,6 +8063,7 @@
       "friendlyName": "University of IL CU"
     },
     {
+      "uuid": "db03c490-7120-45ae-8238-ace121632f1f",
       "fidOrg": "USAA",
       "url": "https://service2.usaa.com/ofx/OFXServlet",
       "ssl": [
@@ -7331,6 +8077,7 @@
       "friendlyName": "USAA Federal Savings Bank"
     },
     {
+      "uuid": "520b32d6-35d8-436b-b3c4-8ee667c34f1f",
       "fidOrg": "USAA",
       "url": "https://service2.usaa.com/ofx/OFXServlet",
       "ssl": [
@@ -7344,6 +8091,7 @@
       "friendlyName": "USAA Investment Management Co."
     },
     {
+      "uuid": "39f5a5b0-56ad-4ffd-9c1f-04f603842a31",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7353,6 +8101,7 @@
       "friendlyName": "USE Credit Union"
     },
     {
+      "uuid": "86c5fa54-c2ad-42c7-a3cb-7f0a2b2226fd",
       "fidOrg": "UHEAAUESP",
       "url": "https://ofx.uesp.org/ofx.ashx",
       "ssl": [
@@ -7366,6 +8115,7 @@
       "friendlyName": "Utah Educational Savings Plan-UESP"
     },
     {
+      "uuid": "70a2d3bb-3739-459f-ac3d-aa3b1cc6b730",
       "fidOrg": "UWCU",
       "url": "https://ofx.uwcu.org/serverext.dll",
       "ssl": [
@@ -7379,6 +8129,7 @@
       "friendlyName": "UW Credit Union"
     },
     {
+      "uuid": "c4493923-e232-4cbb-91e3-35b8cffcf547",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7388,6 +8139,7 @@
       "friendlyName": "Valley Central Bank WC DC"
     },
     {
+      "uuid": "07d9a3b1-dc70-4270-9e64-3834cfe06412",
       "fidOrg": "Vanguard",
       "url": "https://vesnc.vanguard.com/us/OfxProfileServlet",
       "ssl": [
@@ -7401,6 +8153,7 @@
       "friendlyName": "Vanguard"
     },
     {
+      "uuid": "fff219e6-8bfc-4c54-a332-68a77227d066",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7410,6 +8163,7 @@
       "friendlyName": "Vantage Bank Texas"
     },
     {
+      "uuid": "7a70845e-2865-448c-9f80-09a90cc6921b",
       "fidOrg": "276-3",
       "url": "https://quicken.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7419,6 +8173,7 @@
       "friendlyName": "Vectra Bank of Colorado - Direct"
     },
     {
+      "uuid": "741be903-fcd2-45d4-aba5-61056ba11cf8",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7428,6 +8183,7 @@
       "friendlyName": "Vibe Credit Union"
     },
     {
+      "uuid": "3a1f11e5-34d5-4947-90f0-e9bbc9ce82ec",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7437,6 +8193,7 @@
       "friendlyName": "Victory State Bank - Staten Island"
     },
     {
+      "uuid": "fe22a460-f3c5-4200-a7f2-04269b676250",
       "fidOrg": "629",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7446,6 +8203,7 @@
       "friendlyName": "Village Bank & Trust"
     },
     {
+      "uuid": "5ea7c899-936a-430b-acdd-334430c48e24",
       "fidOrg": "VACUDC",
       "url": "https://secure.vacu.org/ofxserver/ofxsrvr.dll",
       "ssl": [
@@ -7459,6 +8217,7 @@
       "friendlyName": "Virginia CU"
     },
     {
+      "uuid": "14418080-e4ad-4742-95e8-7a76a3e62362",
       "fidOrg": "Voya Financial Advisors, Inc.",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -7468,6 +8227,7 @@
       "friendlyName": "Voya Financial Advisors, Inc."
     },
     {
+      "uuid": "3a7e265b-5f52-4daa-a02a-35f791df1761",
       "fidOrg": "ing-usa.com",
       "url": "https://ofx.voyaplans.com/eofx/Server",
       "ssl": [],
@@ -7477,6 +8237,7 @@
       "friendlyName": "Voya Institutional Plan Services"
     },
     {
+      "uuid": "d3892107-048f-496a-b66e-dad292d53253",
       "fidOrg": "VYCU",
       "url": "https://ofxonline.vystarcu.org/process.ofx",
       "ssl": [
@@ -7490,6 +8251,7 @@
       "friendlyName": "VyStar Credit Union"
     },
     {
+      "uuid": "3ef236a2-43b8-4181-92c6-7663f46bf6af",
       "fidOrg": "waddell",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=722000303041111",
       "ssl": [
@@ -7503,6 +8265,7 @@
       "friendlyName": "Waddell & Reed - Ivy Funds"
     },
     {
+      "uuid": "067383d2-ca48-45c8-81dc-ac525c4341a6",
       "fidOrg": "JackHenry",
       "url": "https://directline.netteller.com",
       "ssl": [
@@ -7516,6 +8279,7 @@
       "friendlyName": "Washington Trust Bank - DL"
     },
     {
+      "uuid": "6ea80cc7-1439-4ac5-8118-3fd323a13ae3",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7525,6 +8289,7 @@
       "friendlyName": "Watch Hill Bank"
     },
     {
+      "uuid": "5efcb315-8f2a-4d68-a693-98118701925e",
       "fidOrg": "FundsXpress, Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -7534,6 +8299,7 @@
       "friendlyName": "Wauchula State Bank - FL"
     },
     {
+      "uuid": "2331e5fe-44fc-4d15-a835-78d97f36947a",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7543,6 +8309,7 @@
       "friendlyName": "Webster Five Cents Savings Bank"
     },
     {
+      "uuid": "c0794e85-07b3-4a48-898b-234b180619e2",
       "fidOrg": "WECU",
       "url": "https://m.wecu.com/ofx/ofxserver.aspx",
       "ssl": [
@@ -7556,6 +8323,7 @@
       "friendlyName": "WECU"
     },
     {
+      "uuid": "bfc5a18c-ac6f-4e26-b63b-c8135def70b2",
       "fidOrg": "WF",
       "url": "https://ofxdc.wellsfargo.com/ofxbrokerage/process.ofx",
       "ssl": [],
@@ -7565,6 +8333,7 @@
       "friendlyName": "Wells Fargo Advisors"
     },
     {
+      "uuid": "779de1a7-e440-4047-a917-c2d2650ed2d9",
       "fidOrg": "WF",
       "url": "https://ofxdc.wellsfargo.com/ofx/process.ofx",
       "ssl": [],
@@ -7574,6 +8343,7 @@
       "friendlyName": "Wells Fargo Bank"
     },
     {
+      "uuid": "d86cd55b-2fba-4a18-95de-cd2b297750f5",
       "fidOrg": "Wells",
       "url": "https://ofx3.financialtrans.com/tf/OFXServer?tx=OFXController&cz=702110804131918&cl=6181917141306",
       "ssl": [
@@ -7587,6 +8357,7 @@
       "friendlyName": "Wells Fargo Funds"
     },
     {
+      "uuid": "d497e38b-7b1e-49e4-a6c0-eef780e7d4cd",
       "fidOrg": "WF",
       "url": "https://ofxdc.wellsfargo.com/OFXTrustOnlineWebSite/process.ofx",
       "ssl": [],
@@ -7596,6 +8367,7 @@
       "friendlyName": "Wells Fargo Trust-Investment Mgt"
     },
     {
+      "uuid": "7e78e5bc-2e25-47bf-8e12-5d5065cd8e8a",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7605,6 +8377,7 @@
       "friendlyName": "West End Bank"
     },
     {
+      "uuid": "38771da1-666b-4cb3-9596-0554673fca00",
       "fidOrg": "JackHenry",
       "url": "https://ofx.netteller.com",
       "ssl": [
@@ -7618,6 +8391,7 @@
       "friendlyName": "West Shore Bank"
     },
     {
+      "uuid": "b945509e-2e27-4a0e-bd65-a4af3e504515",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7627,6 +8401,7 @@
       "friendlyName": "Westamerica Bank"
     },
     {
+      "uuid": "6390a74f-6282-404d-8e1e-a5176d520c14",
       "fidOrg": "FundsXpress",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -7636,6 +8411,7 @@
       "friendlyName": "Western Bank - Lordsburg, NM"
     },
     {
+      "uuid": "604ea00c-cbaa-4d14-9543-88162a035662",
       "fidOrg": "COCC",
       "url": "https://ofx.myvirtualbranch.com/eftxweb/access.ofx",
       "ssl": [],
@@ -7645,6 +8421,7 @@
       "friendlyName": "Westfield Bank FSB"
     },
     {
+      "uuid": "a119af6c-7cf0-420f-ac25-a2555d662413",
       "fidOrg": "FundsXpress Network Inc.",
       "url": "https://ofx.fundsxpress.com/piles/ofx.pile/",
       "ssl": [],
@@ -7654,6 +8431,7 @@
       "friendlyName": "Wheatland Bank"
     },
     {
+      "uuid": "99fe1e61-14bd-452e-9fb4-87fcab6b9b02",
       "fidOrg": "291",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7663,6 +8441,7 @@
       "friendlyName": "Wheaton Bank & Trust"
     },
     {
+      "uuid": "f889e756-634b-47d7-a34b-8ebcee02a967",
       "fidOrg": "White Eagle Credit Union",
       "url": "https://www.netit.financial-net.com/ofx",
       "ssl": [],
@@ -7672,6 +8451,7 @@
       "friendlyName": "White Eagle Credit Union"
     },
     {
+      "uuid": "f87e79ca-3588-4740-a7f2-74acea4990ac",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7681,6 +8461,7 @@
       "friendlyName": "Wilmington Savings Bank"
     },
     {
+      "uuid": "fd8e5ef3-87b3-40ca-b03f-9d9ee03974f4",
       "fidOrg": "Users",
       "url": "https://wcfcu.online-cu.com/scripts/isaofx.dll",
       "ssl": [],
@@ -7690,6 +8471,7 @@
       "friendlyName": "Windward Community FCU"
     },
     {
+      "uuid": "c9eb6dca-28ea-475e-acca-21e270bbdfe6",
       "fidOrg": "Winslow Evans Crocker Inc.",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -7699,6 +8481,7 @@
       "friendlyName": "Winslow, Evans and Crocker, Inc"
     },
     {
+      "uuid": "8d3e8aed-b806-49f0-afca-31c933400d9e",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7708,6 +8491,7 @@
       "friendlyName": "Winston Salem FCU"
     },
     {
+      "uuid": "19f2e7aa-18d5-493a-b5ff-e813fc9a4b19",
       "fidOrg": "380",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7717,6 +8501,7 @@
       "friendlyName": "Wintrust Bank"
     },
     {
+      "uuid": "1cd24056-59d8-4c19-bf2c-2d211e320d07",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7726,6 +8511,7 @@
       "friendlyName": "Wright-Patt Credit Union"
     },
     {
+      "uuid": "5ca1d294-f2f4-4a38-95d5-db7230f8f92b",
       "fidOrg": "WSECU",
       "url": "https://ssl3.wsecu.org/OFXServer/ofxsrvr.dll",
       "ssl": [
@@ -7739,6 +8525,7 @@
       "friendlyName": "WSECU"
     },
     {
+      "uuid": "78650d44-79d2-471a-b8ce-fb309b0833d5",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7748,6 +8535,7 @@
       "friendlyName": "Wyo Central FCU"
     },
     {
+      "uuid": "6c57901f-e64c-4ba2-80eb-2fd42e845e63",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7757,6 +8545,7 @@
       "friendlyName": "Wyoming Community Bank"
     },
     {
+      "uuid": "6265a472-3319-4a09-b8af-201e2ba3828e",
       "fidOrg": "DI",
       "url": "https://ofxdi.diginsite.com/cmr/cmr.ofx",
       "ssl": [],
@@ -7766,6 +8555,7 @@
       "friendlyName": "Xceed Financial Credit Union"
     },
     {
+      "uuid": "e112bc04-a159-4696-a7b3-4de4fefeae10",
       "fidOrg": "s7x",
       "url": "https://pfm.metavante.com/ofx/OFXServlet",
       "ssl": [],
@@ -7775,6 +8565,7 @@
       "friendlyName": "Xenith Bank"
     },
     {
+      "uuid": "ab24a515-1fb7-4b2a-9b1b-689b3b73cbe9",
       "fidOrg": "Cavion",
       "url": "https://ofx.lanxtra.com/ofx/servlet/Teller",
       "ssl": [],
@@ -7784,6 +8575,7 @@
       "friendlyName": "Yolo Federal Credit Union"
     },
     {
+      "uuid": "62d9d67c-bd81-49f1-92d5-fc490f8e0813",
       "fidOrg": "Ziegler",
       "url": "https://ofx.netxclient.com/NxcOFXServer/InvestmentDownload",
       "ssl": [],
@@ -7793,6 +8585,7 @@
       "friendlyName": "Ziegler"
     },
     {
+      "uuid": "7f85f887-195b-4c71-85b6-03f48fd594de",
       "fidOrg": "244-3",
       "url": "https://www.oasis.cfree.com/fip/genesis/prod/04676.ofx",
       "ssl": [],
