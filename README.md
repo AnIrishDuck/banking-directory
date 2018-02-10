@@ -12,13 +12,15 @@ You should verify that the SSL information listed matches that of your bank,
 and that the domain name and country / state of jurisdiction look correct.
 
 If there is no SSL information present, you should verify that the endpoint
-provided has a relationship with your bank. There are several ways to do this.
+provided is operated by your bank, or by a party they have contracted. There
+are several ways to do this.
 
 ## First-Party Domain Verification
 
-If you're lucky, your bank is doing OFX through its own site. Ideally, the
-domain listed is a subdomain of your bank domain (i.e. ofx.bank.com, and your
-bank's domain is bank.com or www.bank.com).
+If you're lucky, your bank is handling OFX through its own domain. Ideally, the
+domain listed is a [subdomain](https://en.wikipedia.org/wiki/Subdomain) of your
+bank domain (i.e. ofx.bank.com, and your bank's domain is bank.com or
+www.bank.com).
 
 If this is the case and no SSL information is present, your bank probably just
 hasn't gone through the trouble of getting an extended-validation SSL
@@ -38,9 +40,9 @@ If the domain listed under `url` doesn't look like your bank's domain, they
 probably have hired a third party to handle their online banking services. This
 is very common. There are several such organizations in business today.
 
-You should verify that this third party has a relationship with your bank. If
-you're lucky, there will be a mention or link to this third party on your
-bank's website.
+You should verify that the listed organization has a relationship with your
+bank. If you're lucky, there will be a mention or link to this third party on
+your bank's website.
 
 Find your bank's website by looking at a recent bill or other trusted
 communication. Now it's time to do some quick detective work. Example search:
@@ -59,10 +61,10 @@ https://1880bank.com/personal-mobile-online-banking/online-banking/
 Which has a direct link to fundsxpress.com. This is pretty compelling evidence
 of a business relationship, but you'll have to decide your own comfort level.
 
-If you come up empty, you can try your bank's customer service line. Do some
-research to find the entity that controls the domain listed. For example,
-"fundsxpress.com" is obviously controlled by First Data. A quick google search
-turns up (ctrl-f to find the link to fundsxpress.com on this page):
+If you come up empty, more digging will be needed. Do some research to find the
+entity that controls the domain listed. For example, "fundsxpress.com" is
+obviously controlled by First Data. A quick google search turns up (ctrl-f to
+find the link to fundsxpress.com on this page):
 
 ```
 https://www.firstdata.com/en_us/products/financial-institutions/online-banking.html
@@ -74,11 +76,18 @@ services for many banks. This might be enough verification for you, or you
 might want to call your bank and verify that First Data is responsible for
 handling their online banking services.
 
+If you contact your bank's customer service, you're probably not going to get
+someone knowledgeable about the intricacies of their OFX system. Keep that in
+mind, and be polite.
+
 # Contributing
 
 Contributions are welcome. If you have connection information about banks that
 are not listed, or corrections to any of the listed banks, please open a pull
 request or file an issue.
+
+Note that we expect you to go through the verification steps above before any
+pull requests are accepted. Please post verification details on the relevant PR.
 
 If you know your financial institution supports online banking, but it is not
 listed here, feel free to file an issue with as much information as you can
