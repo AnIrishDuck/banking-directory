@@ -2520,7 +2520,7 @@
     },
     {
       "friendlyName": "Chase",
-      "notes": "https://github.com/AnIrishDuck/banking-index/blob/master/notes/chase-credit-cards.md",
+      "notes": "https://github.com/AnIrishDuck/banking-directory/blob/master/notes/chase-credit-cards.md",
       "params": {
         "app": "QWIN",
         "appVer": "2400",
